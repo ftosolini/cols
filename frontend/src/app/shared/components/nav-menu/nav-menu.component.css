@@ -1,0 +1,23 @@
+
+.menu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.labels {
+  min-width: 200px;
+}
+.spacer {
+  flex-grow: 1;
+}
+mat-list-item {
+  padding-right: 0;
+}
+mat-icon {
+  margin: 0 16px !important;
+}
+
+.menu-title {
+  text-align: center;
+}

@@ -1,38 +1,27 @@
 {
   "name": "cols",
-  "version": "0.0.0",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
-  },
+  "description": "todo",
   "private": true,
-  "dependencies": {
-    "@angular/animations": "^16.1.0",
-    "@angular/common": "^16.1.0",
-    "@angular/compiler": "^16.1.0",
-    "@angular/core": "^16.1.0",
-    "@angular/forms": "^16.1.0",
-    "@angular/platform-browser": "^16.1.0",
-    "@angular/platform-browser-dynamic": "^16.1.0",
-    "@angular/router": "^16.1.0",
-    "rxjs": "~7.8.0",
-    "tslib": "^2.3.0",
-    "zone.js": "~0.13.0"
+  "repository": "",
+  "version": "0.0.0",
+  "engines": {
+    "node": "18.14.0"
+  },
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "build": "yarn workspaces foreach -tv run build",
+    "clean": "yarn workspaces foreach -v run clean",
+    "clean:modules": "yarn workspaces foreach -v run clean:modules && rimraf node_modules",
+    "migration:run": "yarn foreach:services -vp run migration:run",
+    "populate": "yarn foreach:services -v run populate",
+    "start": "yarn foreach:services -ipv -j unlimited run start",
+    "style": "yarn workspaces foreach -v run style",
+    "watch": "yarn foreach:services -ipv -j unlimited run watch"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.1.1",
-    "@angular/cli": "~16.1.1",
-    "@angular/compiler-cli": "^16.1.0",
-    "@types/jasmine": "~4.3.0",
-    "jasmine-core": "~4.6.0",
-    "karma": "~6.4.0",
-    "karma-chrome-launcher": "~3.2.0",
-    "karma-coverage": "~2.2.0",
-    "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.1.3"
-  }
+    "rimraf": "^3.0.2"
+  },
+  "workspaces": [
+    "frontend"
+  ]
 }
