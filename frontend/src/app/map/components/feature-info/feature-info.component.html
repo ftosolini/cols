@@ -1,0 +1,18 @@
+<div class="container" *ngIf="feature; else noContent">
+  <h2>{{feature.properties.name}}</h2>
+  <div>Altitude: {{feature.properties.altitude}}m</div>
+  <div>Coordonnées: {{feature.geometry.coordinates[0] | number: '.1-4'}},
+    {{feature.geometry.coordinates[1] | number: '.1-4'}}</div>
+  <h3>Ascensions</h3>
+  <div *ngFor="let climb of feature.properties.climbs">
+    <h4><mat-icon *ngIf="climb.done">check-circle</mat-icon>{{climb.start}}</h4>
+    <div>Longueur: {{climb.length}}km,</div>
+    <div>Moyenne: {{climb.moyen}}%,</div>
+    <div>Pente max": {{climb.max}}%,</div>
+    <img class="profile" [src]="climb.profil" alt="profile"/>
+  </div>
+
+</div>
+<ng-template #noContent>
+  <div class="container">No feature selected</div>
+</ng-template>

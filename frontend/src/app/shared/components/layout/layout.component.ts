@@ -8,7 +8,7 @@ import { MatDrawer } from '@angular/material/sidenav'
 })
 export class LayoutComponent {
   @ViewChild('rightPanel') rightMenu!: MatDrawer
-    async toggleRightPanel() {
-      await this.rightMenu.toggle()
+    async toggleRightPanel(isOpen?: boolean) {
+      await this.rightMenu.toggle(isOpen)
     }
 }

@@ -10,3 +10,11 @@
 .content iframe {
   flex-grow: 1;
 }
+.content #map {
+  flex-grow: 1;
+}
+
+.close-button {
+  position: absolute;
+  right: 0;
+}

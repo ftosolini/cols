@@ -1,0 +1,2363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.60047000000000",
+          "43.3249200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de St Ignace",
+        "altitude": "169",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ascain",
+            "length": "3.00",
+            "moyen": "5.63",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1483.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Sare",
+            "length": "2.90",
+            "moyen": "4.14",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1548.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.47423000000000",
+          "43.3276400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pinodieta",
+        "altitude": "176",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ainhoa",
+            "length": "5.50",
+            "moyen": "3.2",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1486.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Espelette",
+            "length": "3.00",
+            "moyen": "3.33",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1547.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.68427000000000",
+          "43.3096700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ibardin",
+        "altitude": "317",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vera de Bidasoa",
+            "length": "6.00",
+            "moyen": "4.48",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1072.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Urrugne",
+            "length": "8.00",
+            "moyen": "3.65",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/1290.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.42616000000000",
+          "43.3196500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Legarre",
+        "altitude": "349",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Espelette",
+            "length": "4.35",
+            "moyen": "6.23",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/2565.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.61908000000000",
+          "43.2605700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Lizarrieta",
+        "altitude": "441",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sare",
+            "length": "11.30",
+            "moyen": "3.28",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/1648.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Etxalar",
+            "length": "8.00",
+            "moyen": "4.26",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/1649.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.12841000000000",
+          "43.1715000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Askonzabal",
+        "altitude": "503",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bunus",
+            "length": "6.80",
+            "moyen": "5.26",
+            "max": "13.5",
+            "profil": "https://profils.cols-cyclisme.com/3146.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Bussunarits",
+            "length": "5.10",
+            "moyen": "6.06",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3147.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.69303000000000",
+          "43.0599700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Lie",
+        "altitude": "601",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arette",
+            "length": "5.40",
+            "moyen": "5.02",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/168.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Capdeville",
+            "length": "2.60",
+            "moyen": "7.77",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/169.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.40200000000000",
+          "43.1756300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ispéguy",
+        "altitude": "672",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Baigorry",
+            "length": "8.80",
+            "moyen": "5.82",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1071.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Arizkun",
+            "length": "11.80",
+            "moyen": "3.59",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3786.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.63702000000000",
+          "43.0406200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ichère",
+        "altitude": "674",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Capdeville",
+            "length": "4.50",
+            "moyen": "6.36",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/165.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "N134 / D241",
+            "length": "5.30",
+            "moyen": "6.13",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/331.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.21942000000000",
+          "43.0915200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Irey",
+        "altitude": "740",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Michel",
+            "length": "4.35",
+            "moyen": "11.7",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2484.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.45217000000000",
+          "43.0605100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Esnazu",
+        "altitude": "755",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aldudes",
+            "length": "7.70",
+            "moyen": "5.13",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/2158.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.10945000000000",
+          "43.0890900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Haltza",
+        "altitude": "782",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "14.60",
+            "moyen": "3.92",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/161.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.46487000000000",
+          "43.0652800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Porteigt",
+        "altitude": "875",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Louvie Juzon",
+            "length": "9.40",
+            "moyen": "4.95",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/177.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.01248000000000",
+          "43.0949400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ibarburia",
+        "altitude": "966",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aussuruco",
+            "length": "13.30",
+            "moyen": "5.68",
+            "max": "9.7",
+            "profil": "https://profils.cols-cyclisme.com/163.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "16.50",
+            "moyen": "4.54",
+            "max": "11.7",
+            "profil": "https://profils.cols-cyclisme.com/164.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.67471000000000",
+          "43.0031700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bouesou",
+        "altitude": "1009",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Bedous",
+            "length": "10.60",
+            "moyen": "5.65",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/28.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Capdeville",
+            "length": "10.70",
+            "moyen": "5.7",
+            "max": "12.9",
+            "profil": "https://profils.cols-cyclisme.com/29.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Athas",
+            "length": "8.10",
+            "moyen": "7.07",
+            "max": "11.7",
+            "profil": "https://profils.cols-cyclisme.com/30.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.65830000000000",
+          "43.0048600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Houratate",
+        "altitude": "1009",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Bedous",
+            "length": "9.00",
+            "moyen": "6.67",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/162.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.50712000000000",
+          "43.0704700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Marie Blanque",
+        "altitude": "1035",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Louvie Juzon",
+            "length": "15.00",
+            "moyen": "4.1",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/166.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Escot",
+            "length": "9.10",
+            "moyen": "7.75",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/167.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.96111000000000",
+          "43.0514600000000"
+        ]
+      },
+      "properties": {
+        "name": "Idigorria Lepoa",
+        "altitude": "1050",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Larrau",
+            "length": "7.50",
+            "moyen": "7.05",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/2386.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Alçay",
+            "length": "11.00",
+            "moyen": "7.35",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2390.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.06949000000000",
+          "43.1090900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Landerre",
+        "altitude": "1072",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "17.00",
+            "moyen": "5.13",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1830.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.08696000000000",
+          "43.0625400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Burdincurutcheta",
+        "altitude": "1135",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "20.00",
+            "moyen": "4.63",
+            "max": "11.3",
+            "profil": "https://profils.cols-cyclisme.com/617.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.26635000000000",
+          "43.0716000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Elhursaro",
+        "altitude": "1152",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ondarolle",
+            "length": "10.20",
+            "moyen": "7.99",
+            "max": "13.4",
+            "profil": "https://profils.cols-cyclisme.com/2077.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.66256000000000",
+          "43.0147400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bergout",
+        "altitude": "1164",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Athas",
+            "length": "11.10",
+            "moyen": "6.49",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/2814.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.75148000000000",
+          "42.9983800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Suscousse",
+        "altitude": "1216",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barlanes",
+            "length": "22.80",
+            "moyen": "3.95",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/178.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "26.50",
+            "moyen": "3.77",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/179.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.24758000000000",
+          "43.0425800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Arnosteguy",
+        "altitude": "1236",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Esterençuby",
+            "length": "18.20",
+            "moyen": "5.5",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/1247.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jean Pied de Port",
+            "length": "18.50",
+            "moyen": "5.79",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2141.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Arnéguy",
+            "length": "25.10",
+            "moyen": "4.21",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/2142.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Arnéguy (via Beillurti)",
+            "length": "13.50",
+            "moyen": "7.27",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/2163.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.02683000000000",
+          "43.0381000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Bagargiak",
+        "altitude": "1327",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Esterençuby",
+            "length": "29.50",
+            "moyen": "3.72",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/22.gif",
+            "category": 1
+          },
+          {
+            "done": true,
+            "start": "Est",
+            "length": "21.20",
+            "moyen": "4.8",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/23.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "29.00",
+            "moyen": "3.85",
+            "max": "11.3",
+            "profil": "https://profils.cols-cyclisme.com/616.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Alçay",
+            "length": "22.00",
+            "moyen": "4.92",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1844.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.73120000000000",
+          "43.0035100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Labays",
+        "altitude": "1351",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Bedous",
+            "length": "20.90",
+            "moyen": "4.53",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/191.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Arette",
+            "length": "17.80",
+            "moyen": "5.79",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/192.gif",
+            "category": 1
+          },
+          {
+            "done": true,
+            "start": "Osse en Aspe",
+            "length": "20.90",
+            "moyen": "4.5",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/193.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "N134 / D918",
+            "length": "27.50",
+            "moyen": "3.82",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/194.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.79140000000000",
+          "43.0153300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Hourcere",
+        "altitude": "1445",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barlanes",
+            "length": "18.30",
+            "moyen": "6.2",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/2079.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.04941000000000",
+          "43.0110900000000"
+        ]
+      },
+      "properties": {
+        "name": "Leherra Murkhuillako Lepoua",
+        "altitude": "1528",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col Bagargui",
+            "length": "5.70",
+            "moyen": "3.86",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2222.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.75438000000000",
+          "42.9861400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Soudet",
+        "altitude": "1540",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arette",
+            "length": "22.00",
+            "moyen": "5.55",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/170.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "30.30",
+            "moyen": "4.37",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/171.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D918 / D632",
+            "length": "26.90",
+            "moyen": "4.55",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/332.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.99240000000000",
+          "42.9738600000000"
+        ]
+      },
+      "properties": {
+        "name": "Port de Larrau",
+        "altitude": "1573",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Auberge de Laugibar",
+            "length": "15.30",
+            "moyen": "7.88",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/246.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Ochagavia",
+            "length": "19.30",
+            "moyen": "4.22",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/247.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.52547000000000",
+          "42.7957000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Somport",
+        "altitude": "1632",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Accous",
+            "length": "28.00",
+            "moyen": "4.29",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/250.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Villanuja",
+            "length": "16.00",
+            "moyen": "4.24",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/251.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.76720000000000",
+          "42.9693800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Pierre St Martin",
+        "altitude": "1765",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arette",
+            "length": "25.80",
+            "moyen": "5.68",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/253.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "34.00",
+            "moyen": "4.72",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/254.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Belasaisa",
+            "length": "27.00",
+            "moyen": "3.58",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/255.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.41828000000000",
+          "42.8060000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pourtalet",
+        "altitude": "1794",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bubal",
+            "length": "20.20",
+            "moyen": "3.44",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/252.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Laruns",
+            "length": "29.00",
+            "moyen": "4.36",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/539.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Biescas (via Hoz de Jaca)",
+            "length": "32.00",
+            "moyen": "2.87",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2602.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.32389000000000",
+          "43.0202800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Ibaneta",
+        "altitude": "1057",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Burguete",
+            "length": "6.90",
+            "moyen": "3.29",
+            "max": "6.7",
+            "profil": "https://profils.cols-cyclisme.com/244.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Arneguy",
+            "length": "18.00",
+            "moyen": "4.51",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/245.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.98900000000000",
+          "42.9210000000000"
+        ]
+      },
+      "properties": {
+        "name": "Alto Lazar",
+        "altitude": "1129",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Isaba",
+            "length": "12.00",
+            "moyen": "2.62",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/248.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Ochagavia",
+            "length": "13.30",
+            "moyen": "2.7",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/249.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.00058300000000",
+          "43.1999440000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Osquich",
+        "altitude": "500",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Musculdy",
+            "length": "5.30",
+            "moyen": "5.66",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/333.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Just d'Ibarre",
+            "length": "6.00",
+            "moyen": "5.42",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/618.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pagolle (via D302)",
+            "length": "6.80",
+            "moyen": "6.1",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2291.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pagolle (route directe)",
+            "length": "5.00",
+            "moyen": "7",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/2292.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.04489000000000",
+          "43.0932460000000"
+        ]
+      },
+      "properties": {
+        "name": "Ahusquy",
+        "altitude": "1072",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mauleon Licharre",
+            "length": "26.10",
+            "moyen": "3.61",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/609.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "17.80",
+            "moyen": "4.79",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/752.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "19.20",
+            "moyen": "4.49",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/753.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.85842200000000",
+          "43.3476530000000"
+        ]
+      },
+      "properties": {
+        "name": "Jaizkibel",
+        "altitude": "475",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Hondarribia",
+            "length": "9.10",
+            "moyen": "4.84",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/1055.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Pasaia",
+            "length": "7.40",
+            "moyen": "6.03",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1059.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pasaia (via Larrabide Errepidea)",
+            "length": "7.30",
+            "moyen": "6.11",
+            "max": "14.4",
+            "profil": "https://profils.cols-cyclisme.com/3191.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.62889000000000",
+          "43.2826210000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Lizuniaga",
+        "altitude": "250",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sare",
+            "length": "6.00",
+            "moyen": "4.17",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1485.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.66544300000000",
+          "42.9504950000000"
+        ]
+      },
+      "properties": {
+        "name": "Refuge de L'Abérouat",
+        "altitude": "1430",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Lescun",
+            "length": "10.70",
+            "moyen": "8.79",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1534.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.43150200000000",
+          "43.2200590000000"
+        ]
+      },
+      "properties": {
+        "name": "Pico Gorramakil",
+        "altitude": "1090",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dancharia",
+            "length": "21.60",
+            "moyen": "4.74",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/1558.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.47033100000000",
+          "43.0359310000000"
+        ]
+      },
+      "properties": {
+        "name": "Collado de Urquiaga",
+        "altitude": "890",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aldudes",
+            "length": "13.00",
+            "moyen": "4",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/1657.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Zubiri",
+            "length": "18.90",
+            "moyen": "1.93",
+            "max": "5.1",
+            "profil": "https://profils.cols-cyclisme.com/1658.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.53881100000000",
+          "43.0501800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Artesiaga",
+        "altitude": "999",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Irurita",
+            "length": "15.60",
+            "moyen": "5.01",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1659.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.61469300000000",
+          "42.9216130000000"
+        ]
+      },
+      "properties": {
+        "name": "Lhers",
+        "altitude": "990",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Lescun",
+            "length": "6.70",
+            "moyen": "7.51",
+            "max": "15.7",
+            "profil": "https://profils.cols-cyclisme.com/1662.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.24448600000000",
+          "43.0897250000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic d'Itchacheguy",
+        "altitude": "980",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Michel",
+            "length": "8.70",
+            "moyen": "8.53",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/1694.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.29140200000000",
+          "43.1993740000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Jarra",
+        "altitude": "809",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D918 / D615",
+            "length": "6.30",
+            "moyen": "10.46",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/1695.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.40699100000000",
+          "43.2837030000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Artzamendi",
+        "altitude": "926",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Laxia",
+            "length": "5.60",
+            "moyen": "10.8",
+            "max": "18.9",
+            "profil": "https://profils.cols-cyclisme.com/1696.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Pont sur Latsa",
+            "length": "14.20",
+            "moyen": "5.75",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/3622.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.17389900000000",
+          "43.0376490000000"
+        ]
+      },
+      "properties": {
+        "name": "Errozate",
+        "altitude": "1240",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Estérençuby",
+            "length": "9.80",
+            "moyen": "9.54",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/1709.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.82683700000000",
+          "42.8671780000000"
+        ]
+      },
+      "properties": {
+        "name": "Alto de Zuriza",
+        "altitude": "1290",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Anso",
+            "length": "14.00",
+            "moyen": "3.06",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/1818.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Isaba",
+            "length": "12.50",
+            "moyen": "4",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1819.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.86353000000000",
+          "42.7672210000000"
+        ]
+      },
+      "properties": {
+        "name": "Puerto de Matamachos",
+        "altitude": "1148",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Roncal",
+            "length": "11.80",
+            "moyen": "3.95",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/1822.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Anso",
+            "length": "5.20",
+            "moyen": "6.12",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/1823.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.13539100000000",
+          "42.9572670000000"
+        ]
+      },
+      "properties": {
+        "name": "Paso Tapia",
+        "altitude": "1340",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ochagavia",
+            "length": "14.70",
+            "moyen": "3.88",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1826.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Irati",
+            "length": "9.50",
+            "moyen": "5.42",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1827.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.27639700000000",
+          "43.0219740000000"
+        ]
+      },
+      "properties": {
+        "name": "Orzanzurieta",
+        "altitude": "1573",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arneguy",
+            "length": "26.00",
+            "moyen": "5",
+            "max": "12.1",
+            "profil": "https://profils.cols-cyclisme.com/1982.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Burguete",
+            "length": "11.00",
+            "moyen": "6.11",
+            "max": "11.3",
+            "profil": "https://profils.cols-cyclisme.com/1983.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Aldudes",
+            "length": "17.60",
+            "moyen": "6.43",
+            "max": "15.0",
+            "profil": "",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Aldudes",
+            "length": "17.60",
+            "moyen": "6.43",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3730.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.49420500000000",
+          "43.2363090000000"
+        ]
+      },
+      "properties": {
+        "name": "Puerto de Otxondo",
+        "altitude": "570",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dancharia",
+            "length": "10.00",
+            "moyen": "5.03",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/1987.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Elizondo",
+            "length": "13.00",
+            "moyen": "2.08",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1988.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.84415600000000",
+          "43.1473210000000"
+        ]
+      },
+      "properties": {
+        "name": "Chapelle de la Madeleine",
+        "altitude": "795",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tardets",
+            "length": "7.50",
+            "moyen": "7.67",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1998.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Barcus",
+            "length": "8.00",
+            "moyen": "7",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1999.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.26923000000000",
+          "43.0810460000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Beillurti",
+        "altitude": "1093",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arnéguy",
+            "length": "6.70",
+            "moyen": "12.66",
+            "max": "18.5",
+            "profil": "https://profils.cols-cyclisme.com/2078.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.96600000000000",
+          "42.9470000000000"
+        ]
+      },
+      "properties": {
+        "name": "Sanctuaire de San Migel d'Aralar",
+        "altitude": "1341",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Uharte - Arakil",
+            "length": "11.00",
+            "moyen": "8.05",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2385.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.79554210000000",
+          "43.2728202000000"
+        ]
+      },
+      "properties": {
+        "name": "Aritxulegi Mendatea",
+        "altitude": "455",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ergoien",
+            "length": "6.00",
+            "moyen": "6.5",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2401.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "San Anton",
+            "length": "3.30",
+            "moyen": "6.36",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2402.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.75980900000000",
+          "43.2650310000000"
+        ]
+      },
+      "properties": {
+        "name": "Agina Mendatea",
+        "altitude": "550",
+        "climbs": [
+          {
+            "done": false,
+            "start": "San Anton",
+            "length": "4.80",
+            "moyen": "6.35",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2403.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Lesaka",
+            "length": "8.50",
+            "moyen": "5.53",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2404.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.81493800000000",
+          "43.2471860000000"
+        ]
+      },
+      "properties": {
+        "name": "Bianditzko Mandatea",
+        "altitude": "711",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Altzibar-Karrika",
+            "length": "11.80",
+            "moyen": "5.64",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2412.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Artikutza",
+            "length": "7.70",
+            "moyen": "5",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3183.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.39484390000000",
+          "42.3534888000000"
+        ]
+      },
+      "properties": {
+        "name": "Puerto de Monrepos",
+        "altitude": "1270",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lanave",
+            "length": "10.70",
+            "moyen": "5.37",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2414.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.30204200000000",
+          "43.1410670000000"
+        ]
+      },
+      "properties": {
+        "name": "Munhoa",
+        "altitude": "905",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Baigorry",
+            "length": "12.50",
+            "moyen": "6.04",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/2418.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.29396891571050",
+          "43.2902093908258"
+        ]
+      },
+      "properties": {
+        "name": "Mont Baïgura",
+        "altitude": "878",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D119",
+            "length": "4.96",
+            "moyen": "11.61",
+            "max": "21.0",
+            "profil": "https://profils.cols-cyclisme.com/2483.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.33866436499020",
+          "43.3459414715101"
+        ]
+      },
+      "properties": {
+        "name": "Mont Ursuya",
+        "altitude": "561",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Louhossoa",
+            "length": "6.52",
+            "moyen": "6.99",
+            "max": "20.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.04407500000000",
+          "42.7188410000000"
+        ]
+      },
+      "properties": {
+        "name": "Puerto Las Coronas",
+        "altitude": "951",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Navascues",
+            "length": "7.20",
+            "moyen": "4.74",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2666.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Burgui",
+            "length": "8.00",
+            "moyen": "4.14",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2667.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.92201100000000",
+          "43.0374320000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bezkoi",
+        "altitude": "715",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Licq-Atherey",
+            "length": "5.00",
+            "moyen": "8",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/2719.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.24168600000000",
+          "43.0549186000000"
+        ]
+      },
+      "properties": {
+        "name": "Cabanes d'Urkulu",
+        "altitude": "1285",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Béhérobie",
+            "length": "12.30",
+            "moyen": "7.63",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/2911.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.44827100000000",
+          "42.8687360000000"
+        ]
+      },
+      "properties": {
+        "name": "Lac de Bious-Artigues",
+        "altitude": "1430",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gabas",
+            "length": "4.10",
+            "moyen": "9.02",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2933.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.39561700000000",
+          "42.7643170000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Formigal-Sarrios",
+        "altitude": "1803",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Formigal",
+            "length": "5.50",
+            "moyen": "5.24",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2951.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.63363900000000",
+          "42.7632250000000"
+        ]
+      },
+      "properties": {
+        "name": "Refuge de Lizara",
+        "altitude": "1520",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Jasa",
+            "length": "12.30",
+            "moyen": "5.04",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2955.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.51618300000000",
+          "43.0016690000000"
+        ]
+      },
+      "properties": {
+        "name": "Aydius Les Salars",
+        "altitude": "855",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bedous",
+            "length": "10.10",
+            "moyen": "4.95",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/3076.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.23558900000000",
+          "43.1904470000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de l'Arradoy",
+        "altitude": "503",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "6.60",
+            "moyen": "5.02",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3145.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.41028000000000",
+          "43.1383000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ichtauzko",
+        "altitude": "999",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Banca",
+            "length": "6.40",
+            "moyen": "11.48",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/3624.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pyrenees-ouest"
+      }
+    }
+  ]
+}

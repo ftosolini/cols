@@ -1,8 +1,11 @@
 <app-layout #layout>
   <div class="content">
-<!--    <h1>Map</h1>-->
-    <button (click)="layout.toggleRightPanel()">Open Panel</button>
-    <iframe src="https://cols.ftosolini.fr"></iframe>
+    <div id="map">Loading</div>
   </div>
-  <h2 rightMenu>INFO</h2>
+  <div rightMenu>
+    <button class="close-button" disableRipple="true" mat-icon-button (click)="layout.toggleRightPanel(false)">
+      <mat-icon>close</mat-icon>
+    </button>
+    <app-feature-info [feature]="selectedFeature"></app-feature-info>
+  </div>
 </app-layout>
