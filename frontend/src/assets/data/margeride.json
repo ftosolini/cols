@@ -1,0 +1,422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.35511000000000",
+          "44.9602200000000"
+        ]
+      },
+      "properties": {
+        "name": "Portus d'Auzenc",
+        "altitude": "1369",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ruynes - Moulin",
+            "length": "14.40",
+            "moyen": "3.76",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2231.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.50043000000000",
+          "44.8000900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Barte",
+        "altitude": "1422",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Eulalie",
+            "length": "3.73",
+            "moyen": "4.1",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3832.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.75281000000000",
+          "44.5357200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Goulet",
+        "altitude": "1463",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Belvezet",
+            "length": "5.00",
+            "moyen": "5.36",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1124.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Bleymard",
+            "length": "5.80",
+            "moyen": "6.79",
+            "max": "11.7",
+            "profil": "https://profils.cols-cyclisme.com/1125.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "L'Estampe",
+            "length": "8.00",
+            "moyen": "4.35",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/2773.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.59560500000000",
+          "45.0051350000000"
+        ]
+      },
+      "properties": {
+        "name": "La Vialle d'Estours",
+        "altitude": "923",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Prades",
+            "length": "3.50",
+            "moyen": "9.89",
+            "max": "13.4",
+            "profil": "https://profils.cols-cyclisme.com/2118.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.40135200000000",
+          "45.0932050000000"
+        ]
+      },
+      "properties": {
+        "name": "Ferrussac",
+        "altitude": "998",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aubazat",
+            "length": "12.50",
+            "moyen": "3.86",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/2120.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.36624400000000",
+          "45.0778060000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Gilbertés",
+        "altitude": "1005",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cronce",
+            "length": "4.50",
+            "moyen": "6.93",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2121.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.44272500000000",
+          "45.0491750000000"
+        ]
+      },
+      "properties": {
+        "name": "L'Estival",
+        "altitude": "1004",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Langeac",
+            "length": "10.50",
+            "moyen": "4.57",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2122.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.43661400000000",
+          "45.0339340000000"
+        ]
+      },
+      "properties": {
+        "name": "Lescoussousses",
+        "altitude": "1079",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Desges",
+            "length": "4.00",
+            "moyen": "8.75",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/2123.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.47501600000000",
+          "44.9940850000000"
+        ]
+      },
+      "properties": {
+        "name": "Meyronne",
+        "altitude": "1085",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Desges",
+            "length": "7.00",
+            "moyen": "5.3",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/2124.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.54210600000000",
+          "45.0206940000000"
+        ]
+      },
+      "properties": {
+        "name": "La Pierre Passade",
+        "altitude": "988",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Arcons d'Allier",
+            "length": "7.50",
+            "moyen": "5.88",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2125.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.12806000000000",
+          "45.1011100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Fageole",
+        "altitude": "1114",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Massiac",
+            "length": "20.30",
+            "moyen": "2.81",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2259.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Flour",
+            "length": "9.50",
+            "moyen": "3.55",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/2260.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.60400000000000",
+          "44.9670000000000"
+        ]
+      },
+      "properties": {
+        "name": "La Rodde",
+        "altitude": "1070",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monistrol d'Allier",
+            "length": "8.02",
+            "moyen": "5.86",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.33780000000000",
+          "45.1171000000000"
+        ]
+      },
+      "properties": {
+        "name": "Esplot",
+        "altitude": "940",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Treignac",
+            "length": "6.74",
+            "moyen": "6.26",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.33990000000000",
+          "45.1483000000000"
+        ]
+      },
+      "properties": {
+        "name": "Barraque de la Mine",
+        "altitude": "979",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Cirgues",
+            "length": "6.41",
+            "moyen": "7.97",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.77006000000000",
+          "44.8792800000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Mouillé",
+        "altitude": "1191",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chapeauroux",
+            "length": "7.76",
+            "moyen": "5.79",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "margeride"
+      }
+    }
+  ]
+}

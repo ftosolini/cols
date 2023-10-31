@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.23631400000000",
+          "48.2186370000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Menez - Hom",
+        "altitude": "330",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Pentrez Plage",
+            "length": "8.00",
+            "moyen": "3.95",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/410.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.62978600000000",
+          "48.9714660000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Pinçon",
+        "altitude": "348",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aunay sur Odon",
+            "length": "5.70",
+            "moyen": "3.74",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1753.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.06091300000000",
+          "48.3629460000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte du Gassau",
+        "altitude": "227",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Léonard des Bois",
+            "length": "2.60",
+            "moyen": "4.65",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1799.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.14446700000000",
+          "48.4505370000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont des Avaloirs",
+        "altitude": "417",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Boulay les ifs",
+            "length": "4.00",
+            "moyen": "4.85",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1801.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.04828600000000",
+          "48.5502810000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Médavy",
+        "altitude": "400",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rochers du Vignage",
+            "length": "5.30",
+            "moyen": "3.7",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1802.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "L'être ragaine",
+            "length": "2.80",
+            "moyen": "4.86",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1803.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.12935900000000",
+          "48.3379380000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Saint-Toutain",
+        "altitude": "236",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Paul le Gaultier",
+            "length": "2.90",
+            "moyen": "4.66",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1809.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.05188600000000",
+          "48.3726280000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte du Pont de Saint-Céneri",
+        "altitude": "197",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Céneri le Gerei",
+            "length": "1.10",
+            "moyen": "6.64",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1810.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.01744400000000",
+          "48.5135820000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix Madame",
+        "altitude": "415",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cuissai",
+            "length": "7.00",
+            "moyen": "3.56",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1813.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Rochers du Vignage",
+            "length": "3.50",
+            "moyen": "5.49",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/1814.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-2.99813700000000",
+          "48.2280210000000"
+        ]
+      },
+      "properties": {
+        "name": "Mur de Bretagne",
+        "altitude": "293",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mûr de Bretagne",
+            "length": "2.20",
+            "moyen": "6.55",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2811.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-3.65603200000000",
+          "48.1650860000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Toullaeron",
+        "altitude": "266",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gourin",
+            "length": "4.00",
+            "moyen": "3.33",
+            "max": "4.4",
+            "profil": "https://profils.cols-cyclisme.com/2812.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-3.86584300000000",
+          "48.4173060000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Tredudon",
+        "altitude": "361",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Feuillée",
+            "length": "3.35",
+            "moyen": "3.1",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2813.svg",
+            "category": 5
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.18285000000000",
+          "48.0972440000000"
+        ]
+      },
+      "properties": {
+        "name": "Menez Lokorn",
+        "altitude": "284",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plogonnec",
+            "length": "4.00",
+            "moyen": "4.18",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3477.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-4.31237865836310",
+          "48.2328005406163"
+        ]
+      },
+      "properties": {
+        "name": "Ar Ménez",
+        "altitude": "151",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Caméros",
+            "length": "3.46",
+            "moyen": "3.99",
+            "max": "16.2",
+            "profil": "https://profils.cols-cyclisme.com/3807.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Argol",
+            "length": "1.50",
+            "moyen": "4.47",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3808.svg",
+            "category": 5
+          }
+        ],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.66028100000000",
+          "48.9984150000000"
+        ]
+      },
+      "properties": {
+        "name": "Le haut des bois",
+        "altitude": "286",
+        "climbs": [],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.68245200000000",
+          "48.9975580000000"
+        ]
+      },
+      "properties": {
+        "name": "Ondefontaine",
+        "altitude": "318",
+        "climbs": [],
+        "mountain": "massif armoricain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.42134500000000",
+          "48.9163000000000"
+        ]
+      },
+      "properties": {
+        "name": "La Ranconniere",
+        "altitude": "284",
+        "climbs": [],
+        "mountain": "massif armoricain"
+      }
+    }
+  ]
+}

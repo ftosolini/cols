@@ -1,0 +1,1432 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.58309000000000",
+          "46.0879100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chatillon",
+        "altitude": "741",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont des Thezieres",
+            "length": "2.50",
+            "moyen": "4.48",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/413.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Cluses",
+            "length": "5.60",
+            "moyen": "4.55",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/414.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.39938000000000",
+          "46.1759700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Ludran",
+        "altitude": "938",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint André de Boëge",
+            "length": "3.30",
+            "moyen": "6.21",
+            "max": "7.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.39789000000000",
+          "46.2476300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Saxel",
+        "altitude": "943",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bons en Chablais",
+            "length": "8.00",
+            "moyen": "4.75",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/1314.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Boege",
+            "length": "4.90",
+            "moyen": "4.24",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/1334.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.42818000000000",
+          "46.1978200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Perret",
+        "altitude": "963",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viuz en Sallaz",
+            "length": "6.70",
+            "moyen": "4.96",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/1329.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.52013000000000",
+          "46.2350500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Jambaz",
+        "altitude": "1027",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jeoire",
+            "length": "14.00",
+            "moyen": "3.14",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.61903000000000",
+          "46.3249200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Taillet",
+        "altitude": "1041",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chevenoz",
+            "length": "4.50",
+            "moyen": "7.02",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1092.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D902",
+            "length": "5.90",
+            "moyen": "7.85",
+            "max": "14.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49013000000000",
+          "46.2473700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Terramont",
+        "altitude": "1098",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Habere Poche",
+            "length": "2.50",
+            "moyen": "5.56",
+            "max": "5.9",
+            "profil": "https://profils.cols-cyclisme.com/1327.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.45414000000000",
+          "46.2623500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Cou",
+        "altitude": "1117",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Draillant",
+            "length": "9.20",
+            "moyen": "5.6",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1148.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Fessy",
+            "length": "6.00",
+            "moyen": "8.33",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1172.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Habere Poche",
+            "length": "3.00",
+            "moyen": "6.67",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46771000000000",
+          "46.2775500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Moises",
+        "altitude": "1121",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Draillant",
+            "length": "8.30",
+            "moyen": "5.98",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1173.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.50915000000000",
+          "46.2943600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Feu",
+        "altitude": "1120",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Orcier",
+            "length": "5.80",
+            "moyen": "8.02",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1147.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49225000000000",
+          "46.2684200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Arces",
+        "altitude": "1163",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lullin",
+            "length": "4.00",
+            "moyen": "8.08",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/1323.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Habère Lullin",
+            "length": "5.90",
+            "moyen": "5.66",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2285.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.66752000000000",
+          "46.1583900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Gets",
+        "altitude": "1163",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Taninges",
+            "length": "12.00",
+            "moyen": "4.67",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/787.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Morzine",
+            "length": "7.40",
+            "moyen": "3.74",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/822.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.64462000000000",
+          "46.2836300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Corbier",
+        "altitude": "1237",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Seytroux",
+            "length": "6.00",
+            "moyen": "8.62",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/207.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Solitude",
+            "length": "5.70",
+            "moyen": "7.14",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/208.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.62838000000000",
+          "46.3138700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Trechauffé",
+        "altitude": "1241",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col du Grand Taillet",
+            "length": "4.30",
+            "moyen": "5.53",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1093.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.84590000000000",
+          "46.2496100000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Morgins",
+        "altitude": "1371",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bioge",
+            "length": "30.00",
+            "moyen": "2.8",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/181.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Abondance",
+            "length": "14.00",
+            "moyen": "3.28",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/182.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Monthey",
+            "length": "16.50",
+            "moyen": "5.73",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/634.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.60733000000000",
+          "46.1405500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Savolière",
+        "altitude": "1418",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Taninges",
+            "length": "12.20",
+            "moyen": "6.35",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/602.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63376000000000",
+          "46.1727400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Encrenaz",
+        "altitude": "1432",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Essert Romand",
+            "length": "6.00",
+            "moyen": "8.37",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/622.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Taninges",
+            "length": "16.20",
+            "moyen": "4.89",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/623.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.57484000000000",
+          "46.1633500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Ramaz",
+        "altitude": "1559",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mieussy",
+            "length": "14.05",
+            "moyen": "6.99",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/52.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Taninges",
+            "length": "16.00",
+            "moyen": "6.06",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/53.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69571000000000",
+          "46.1395200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Ranfolly",
+        "altitude": "1658",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morzine",
+            "length": "8.00",
+            "moyen": "8.44",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/603.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.75928000000000",
+          "46.1999900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Joux Verte",
+        "altitude": "1760",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morzine",
+            "length": "12.50",
+            "moyen": "6.4",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/209.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Montriond",
+            "length": "15.20",
+            "moyen": "5.76",
+            "max": "8.9",
+            "profil": "https://profils.cols-cyclisme.com/210.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.77219000000000",
+          "46.2225900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bassachaux",
+        "altitude": "1783",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chapelle d'Abondance",
+            "length": "17.00",
+            "moyen": "4.59",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/643.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.67811000000000",
+          "46.0118400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pierre Carrée",
+        "altitude": "1843",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Balme",
+            "length": "21.10",
+            "moyen": "6.36",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/620.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Flaine",
+            "length": "3.40",
+            "moyen": "7.15",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/621.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.76747600000000",
+          "46.1961250000000"
+        ]
+      },
+      "properties": {
+        "name": "Station d'Avoriaz",
+        "altitude": "1800",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morzine",
+            "length": "14.00",
+            "moyen": "6",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/15.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71290000000000",
+          "46.1296400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Joux Plane",
+        "altitude": "1691",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Samoens",
+            "length": "11.50",
+            "moyen": "8.59",
+            "max": "11.6",
+            "profil": "https://profils.cols-cyclisme.com/59.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Morzine",
+            "length": "10.90",
+            "moyen": "6.52",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/60.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69596900000000",
+          "46.0501110000000"
+        ]
+      },
+      "properties": {
+        "name": "Plateau des Saix",
+        "altitude": "1626",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Samoens",
+            "length": "10.00",
+            "moyen": "9.24",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/619.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.68890300000000",
+          "46.3723900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Creusaz",
+        "altitude": "1160",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bernex",
+            "length": "2.50",
+            "moyen": "7.44",
+            "max": "9.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69768300000000",
+          "46.3468740000000"
+        ]
+      },
+      "properties": {
+        "name": "Pre Richard",
+        "altitude": "1322",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bernex",
+            "length": "4.80",
+            "moyen": "7.81",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1091.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46387200000000",
+          "46.1976750000000"
+        ]
+      },
+      "properties": {
+        "name": "Plaine Joux",
+        "altitude": "1249",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bogeve",
+            "length": "5.30",
+            "moyen": "6.25",
+            "max": "0.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Onnion",
+            "length": "8.50",
+            "moyen": "7.18",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.87651800000000",
+          "46.3201260000000"
+        ]
+      },
+      "properties": {
+        "name": "Torgon",
+        "altitude": "1140",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vionnaz",
+            "length": "12.80",
+            "moyen": "6.48",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1374.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.86656900000000",
+          "46.2661980000000"
+        ]
+      },
+      "properties": {
+        "name": "Lac de Conche",
+        "altitude": "1790",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Muraz",
+            "length": "19.00",
+            "moyen": "7.28",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1574.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83508239549560",
+          "46.1759179556956"
+        ]
+      },
+      "properties": {
+        "name": "Col de Planachaux",
+        "altitude": "1798",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Champéry",
+            "length": "8.00",
+            "moyen": "9.5",
+            "max": "17.5",
+            "profil": "https://profils.cols-cyclisme.com/1705.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.00071600000000",
+          "46.1849510000000"
+        ]
+      },
+      "properties": {
+        "name": "Mex",
+        "altitude": "1118",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Epinassey",
+            "length": "6.60",
+            "moyen": "9.29",
+            "max": "13.3",
+            "profil": "https://profils.cols-cyclisme.com/1706.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.47127800000000",
+          "46.1028160000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Môle",
+        "altitude": "1326",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marignier",
+            "length": "9.70",
+            "moyen": "8.72",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1707.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.47281200000000",
+          "46.2051340000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalets d'Ajon",
+        "altitude": "1396",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Onnion",
+            "length": "9.00",
+            "moyen": "6.79",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1777.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Villard",
+            "length": "7.20",
+            "moyen": "8.35",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1778.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.76532100000000",
+          "46.3303540000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalets de Bise",
+        "altitude": "1502",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vacheresse",
+            "length": "6.70",
+            "moyen": "9.21",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1852.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.74317800000000",
+          "46.3070180000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalets d'Ubine",
+        "altitude": "1490",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vacheresse",
+            "length": "6.00",
+            "moyen": "10.08",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1865.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.78879900000000",
+          "46.3684200000000"
+        ]
+      },
+      "properties": {
+        "name": "Novel",
+        "altitude": "1350",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Gingolph",
+            "length": "12.00",
+            "moyen": "7.96",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1866.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.84009800000000",
+          "46.3431650000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Tanay",
+        "altitude": "1443",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vouvry",
+            "length": "10.00",
+            "moyen": "10.49",
+            "max": "20.5",
+            "profil": "https://profils.cols-cyclisme.com/1873.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83127200000000",
+          "46.3309790000000"
+        ]
+      },
+      "properties": {
+        "name": "Plan de l'Ortie",
+        "altitude": "1281",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vouvry",
+            "length": "10.00",
+            "moyen": "8.87",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/1874.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.87715100000000",
+          "46.2544440000000"
+        ]
+      },
+      "properties": {
+        "name": "Portes de Culet",
+        "altitude": "1787",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morgins",
+            "length": "4.20",
+            "moyen": "11.38",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/1897.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81893200000000",
+          "46.1964570000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Portes du Soleil",
+        "altitude": "1950",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morgins",
+            "length": "8.60",
+            "moyen": "7.17",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/1903.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.95209300000000",
+          "46.2147580000000"
+        ]
+      },
+      "properties": {
+        "name": "Chindonne",
+        "altitude": "1452",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monthey",
+            "length": "12.90",
+            "moyen": "7.91",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1904.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83673400000000",
+          "46.1851300000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Crosets",
+        "altitude": "1670",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monthey",
+            "length": "17.20",
+            "moyen": "7.24",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/1905.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.85871940031730",
+          "46.2237436451361"
+        ]
+      },
+      "properties": {
+        "name": "Pertuis Chétrain",
+        "altitude": "1851",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monthey",
+            "length": "17.30",
+            "moyen": "8.25",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/1907.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.87022700000000",
+          "46.1747450000000"
+        ]
+      },
+      "properties": {
+        "name": "Champéry",
+        "altitude": "1050",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monthey",
+            "length": "12.00",
+            "moyen": "5.22",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/2015.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.82836442358390",
+          "46.3033906651972"
+        ]
+      },
+      "properties": {
+        "name": "Col de Recon",
+        "altitude": "1733",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chapelle d'Abondance",
+            "length": "7.58",
+            "moyen": "9.41",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2394.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71400539166260",
+          "46.3902237927582"
+        ]
+      },
+      "properties": {
+        "name": "Thollon les Mémises",
+        "altitude": "1017",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Evian les Bains",
+            "length": "11.39",
+            "moyen": "5.56",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.64845000000000",
+          "46.1215000000000"
+        ]
+      },
+      "properties": {
+        "name": "La Mouille Rosse",
+        "altitude": "1490",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Taninges",
+            "length": "11.00",
+            "moyen": "7.71",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.62147000000000",
+          "46.0788600000000"
+        ]
+      },
+      "properties": {
+        "name": "Plateau d'Agy",
+        "altitude": "1274",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cluses",
+            "length": "11.19",
+            "moyen": "6.97",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "Giffre & Chablais"
+      }
+    }
+  ]
+}

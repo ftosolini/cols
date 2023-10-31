@@ -1,0 +1,511 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.94102000000000",
+          "45.5964100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de St Saturnin",
+        "altitude": "409",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "3.00",
+            "moyen": "3.33",
+            "max": "6.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.37893000000000",
+          "45.7094700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Vorger",
+        "altitude": "714",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marthod",
+            "length": "4.50",
+            "moyen": "6.89",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/933.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.30772000000000",
+          "45.6700700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Tamié",
+        "altitude": "907",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N90 (Frontenex)",
+            "length": "10.30",
+            "moyen": "5.75",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/94.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Faverges",
+            "length": "10.10",
+            "moyen": "3.88",
+            "max": "6.4",
+            "profil": "https://profils.cols-cyclisme.com/95.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Albertville",
+            "length": "11.70",
+            "moyen": "4.87",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/96.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13565000000000",
+          "45.5824800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Frêne",
+        "altitude": "950",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Pierre d'Albigny",
+            "length": "9.60",
+            "moyen": "6.94",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/783.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07629000000000",
+          "45.5500100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Marocaz",
+        "altitude": "958",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arbin",
+            "length": "9.30",
+            "moyen": "7.4",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/509.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "18.30",
+            "moyen": "3.76",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/510.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Thoiry",
+            "length": "13.80",
+            "moyen": "3.3",
+            "max": "12.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.06006000000000",
+          "45.5958800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Prés",
+        "altitude": "1135",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Challes les Eaux",
+            "length": "16.70",
+            "moyen": "5.53",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/677.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pont d'Escorchevel",
+            "length": "15.00",
+            "moyen": "3.28",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3461.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.01853000000000",
+          "45.6471900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Plainpalais",
+        "altitude": "1173",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lescheraines",
+            "length": "12.50",
+            "moyen": "4.66",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/197.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "16.20",
+            "moyen": "5.57",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/198.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.01192000000000",
+          "45.6960800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Clusaz",
+        "altitude": "1184",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aix les Bains",
+            "length": "15.40",
+            "moyen": "5.79",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/1390.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.99935000000000",
+          "45.7781900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Goléron",
+        "altitude": "643",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cusy",
+            "length": "3.40",
+            "moyen": "3.5",
+            "max": "0.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13193000000000",
+          "45.7718000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Leschaux",
+        "altitude": "897",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sévrier",
+            "length": "11.90",
+            "moyen": "3.71",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/758.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pont Detrier",
+            "length": "7.20",
+            "moyen": "4.38",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/929.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.97489700000000",
+          "45.6815650000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Revard",
+        "altitude": "1537",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aix les Bains",
+            "length": "21.40",
+            "moyen": "5.97",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/201.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "25.00",
+            "moyen": "5.07",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/202.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.10717600000000",
+          "45.7976650000000"
+        ]
+      },
+      "properties": {
+        "name": "Crêt de Châtillon / Mont Semnoz",
+        "altitude": "1660",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Leschaux",
+            "length": "13.40",
+            "moyen": "5.69",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1067.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Quintal",
+            "length": "11.30",
+            "moyen": "8.16",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1068.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Annecy",
+            "length": "17.40",
+            "moyen": "6.97",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1069.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.94999500000000",
+          "45.6228560000000"
+        ]
+      },
+      "properties": {
+        "name": "Pragondran",
+        "altitude": "820",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "9.00",
+            "moyen": "6.06",
+            "max": "9.7",
+            "profil": "https://profils.cols-cyclisme.com/1317.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.36931800000000",
+          "45.7369820000000"
+        ]
+      },
+      "properties": {
+        "name": "L'Alpettaz",
+        "altitude": "1193",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marthod",
+            "length": "10.00",
+            "moyen": "8.09",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1713.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.27591700000000",
+          "45.7136130000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de la Sambuy",
+        "altitude": "1152",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Faverges",
+            "length": "10.10",
+            "moyen": "6.19",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/1752.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.20957158721920",
+          "45.6860290020847"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chérel",
+        "altitude": "1495",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Doussard",
+            "length": "14.80",
+            "moyen": "6.89",
+            "max": "12.2",
+            "profil": "https://profils.cols-cyclisme.com/2383.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "bauges"
+      }
+    }
+  ]
+}

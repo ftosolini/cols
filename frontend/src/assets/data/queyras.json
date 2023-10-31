@@ -1,0 +1,318 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71110000000000",
+          "44.8984100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Gondrans",
+        "altitude": "2347",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montgenèvre",
+            "length": "6.70",
+            "moyen": "7.75",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1266.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Briançon",
+            "length": "16.20",
+            "moyen": "7.02",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/1267.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.73512000000000",
+          "44.8195300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Izoard",
+        "altitude": "2360",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Gorges du guil (D902 / D947)",
+            "length": "15.90",
+            "moyen": "6.89",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/46.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Briançon",
+            "length": "19.00",
+            "moyen": "5.82",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/47.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.97946000000000",
+          "44.6839100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Agnel",
+        "altitude": "2744",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Casteldelfino",
+            "length": "22.40",
+            "moyen": "6.54",
+            "max": "12.9",
+            "profil": "https://profils.cols-cyclisme.com/117.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Guillestre",
+            "length": "42.00",
+            "moyen": "4.13",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/118.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.77290900000000",
+          "44.6660170000000"
+        ]
+      },
+      "properties": {
+        "name": "Ceillac",
+        "altitude": "1639",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Maison du roi",
+            "length": "8.20",
+            "moyen": "7.1",
+            "max": "12.6",
+            "profil": "https://profils.cols-cyclisme.com/853.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.03173600000000",
+          "44.7089300000000"
+        ]
+      },
+      "properties": {
+        "name": "Belvédère du Viso",
+        "altitude": "2131",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Echalp",
+            "length": "7.00",
+            "moyen": "6.43",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/857.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71086000000000",
+          "44.7351320000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Furfande",
+        "altitude": "2503",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arvieux",
+            "length": "10.00",
+            "moyen": "9.79",
+            "max": "23.0",
+            "profil": "https://profils.cols-cyclisme.com/881.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.96720600000000",
+          "44.8120530000000"
+        ]
+      },
+      "properties": {
+        "name": "Valpreveyre",
+        "altitude": "1855",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Château Queyras",
+            "length": "17.80",
+            "moyen": "2.84",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/957.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81598800000000",
+          "44.8446290000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Fonts",
+        "altitude": "2040",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Briançon",
+            "length": "20.30",
+            "moyen": "4.08",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1265.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81369100000000",
+          "44.7398050000000"
+        ]
+      },
+      "properties": {
+        "name": "Sommet Bucher",
+        "altitude": "2254",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Château Queyras",
+            "length": "11.00",
+            "moyen": "8.18",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1270.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90673500000000",
+          "44.6969700000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Château Renard",
+        "altitude": "2933",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Château Queyras",
+            "length": "24.40",
+            "moyen": "6.49",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/1436.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.80861000000000",
+          "44.8085100000000"
+        ]
+      },
+      "properties": {
+        "name": "Clot de Barbenq",
+        "altitude": "2481",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Château Queyras",
+            "length": "13.16",
+            "moyen": "8.36",
+            "max": "16.6",
+            "profil": "https://profils.cols-cyclisme.com/3071.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "queyras"
+      }
+    }
+  ]
+}

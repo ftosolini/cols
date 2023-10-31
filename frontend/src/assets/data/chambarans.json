@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.46860000000000",
+          "45.3188600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Parménie",
+        "altitude": "578",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tullins",
+            "length": "5.30",
+            "moyen": "6.79",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/1100.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "chambarans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.35251000000000",
+          "45.2840300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Toutes Aures",
+        "altitude": "628",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vinay",
+            "length": "12.40",
+            "moyen": "2.94",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2187.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "chambarans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.43770000000000",
+          "45.2938200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chatain",
+        "altitude": "683",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tullins",
+            "length": "7.23",
+            "moyen": "6.49",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2185.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "chambarans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.39099000000000",
+          "45.2795100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Lachard",
+        "altitude": "695",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vinay",
+            "length": "11.80",
+            "moyen": "3.64",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2186.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "chambarans"
+      }
+    }
+  ]
+}

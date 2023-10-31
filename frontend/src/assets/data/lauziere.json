@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.37992700000000",
+          "45.6074420000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet de l'Ebaudiaz",
+        "altitude": "1630",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Notre Dame des Millieres",
+            "length": "15.80",
+            "moyen": "8.2",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/786.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "lauziere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.41852100000000",
+          "45.5096910000000"
+        ]
+      },
+      "properties": {
+        "name": "Lachat",
+        "altitude": "1920",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Feissons sur isere",
+            "length": "19.40",
+            "moyen": "7.8",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/2082.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "lauziere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.41100100000000",
+          "45.4853240000000"
+        ]
+      },
+      "properties": {
+        "name": "Refuge du Logis des Fées",
+        "altitude": "1840",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Celliers Dessus",
+            "length": "4.90",
+            "moyen": "8.96",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/2434.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "lauziere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.37143323858640",
+          "45.5378029910620"
+        ]
+      },
+      "properties": {
+        "name": "Relais du Lac Noir",
+        "altitude": "1271",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Randens",
+            "length": "12.91",
+            "moyen": "7.34",
+            "max": "0.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "lauziere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.42173000000000",
+          "45.5901400000000"
+        ]
+      },
+      "properties": {
+        "name": "Plan du Four",
+        "altitude": "1048",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Paul sur Isère",
+            "length": "10.69",
+            "moyen": "6.01",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2981.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "lauziere"
+      }
+    }
+  ]
+}

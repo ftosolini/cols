@@ -1,0 +1,685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.63985000000000",
+          "45.7779500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix du Ban",
+        "altitude": "604",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pollionnay",
+            "length": "3.00",
+            "moyen": "5.87",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/261.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Pierre la Palud",
+            "length": "5.93",
+            "moyen": "6",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/263.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.62898000000000",
+          "45.7628200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Luère",
+        "altitude": "715",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Grezieu la varenne",
+            "length": "7.10",
+            "moyen": "5.94",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/259.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Pierre la Palud",
+            "length": "6.60",
+            "moyen": "6.35",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/260.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vaugneray",
+            "length": "4.50",
+            "moyen": "6.8",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1409.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "La Brévenne",
+            "length": "7.10",
+            "moyen": "6.17",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2406.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.61173000000000",
+          "45.7477700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Malval",
+        "altitude": "732",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Courzieu",
+            "length": "5.50",
+            "moyen": "7",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/266.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vaugneray",
+            "length": "5.80",
+            "moyen": "6.02",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/268.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56836000000000",
+          "45.7208400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Part",
+        "altitude": "812",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montromant",
+            "length": "5.40",
+            "moyen": "4.85",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "9.60",
+            "moyen": "4.95",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1009.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Courzieu",
+            "length": "5.70",
+            "moyen": "7.37",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3788.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.55479000000000",
+          "45.7062100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Brosses",
+        "altitude": "866",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Yzeron",
+            "length": "3.90",
+            "moyen": "4.18",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/264.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Sainte Foy l'Argentiere",
+            "length": "9.40",
+            "moyen": "5.13",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.57672400000000",
+          "45.6879620000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de la Croix Perriere",
+        "altitude": "770",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "7.00",
+            "moyen": "5.79",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/429.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.47704815344240",
+          "45.6830061092439"
+        ]
+      },
+      "properties": {
+        "name": "Aveize",
+        "altitude": "783",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Foy l'Argentiere",
+            "length": "5.38",
+            "moyen": "6.25",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/2648.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.52508054019780",
+          "45.6854691584726"
+        ]
+      },
+      "properties": {
+        "name": "Duerne",
+        "altitude": "806",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Foy l'Argentiere",
+            "length": "5.42",
+            "moyen": "6.79",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/2652.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.49400049731450",
+          "45.7672582215388"
+        ]
+      },
+      "properties": {
+        "name": "Pothu",
+        "altitude": "675",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Brévenne",
+            "length": "8.38",
+            "moyen": "4.64",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/2655.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.59797026292720",
+          "45.6301665035436"
+        ]
+      },
+      "properties": {
+        "name": "Saint André la Côte",
+        "altitude": "856",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mornant",
+            "length": "8.11",
+            "moyen": "6.34",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/2656.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chaussan",
+            "length": "7.16",
+            "moyen": "6.19",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.49604183695990",
+          "45.5622392093869"
+        ]
+      },
+      "properties": {
+        "name": "L'Hôpital",
+        "altitude": "831",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Romain en Jarez",
+            "length": "6.84",
+            "moyen": "4.68",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2657.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.50202597928470",
+          "45.5202765940338"
+        ]
+      },
+      "properties": {
+        "name": "Crêt Saint-Georges",
+        "altitude": "756",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Chamond",
+            "length": "8.45",
+            "moyen": "4.73",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2658.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48746949694830",
+          "45.5351157041105"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Gachet",
+        "altitude": "748",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Romain en Jarez",
+            "length": "5.21",
+            "moyen": "4.95",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2659.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Lorette",
+            "length": "11.04",
+            "moyen": "4.19",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/2664.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.58412808706670",
+          "45.6100547148913"
+        ]
+      },
+      "properties": {
+        "name": "Servonnières",
+        "altitude": "807",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Châteauneuf",
+            "length": "13.45",
+            "moyen": "4.28",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2660.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53422359295660",
+          "45.5720487963790"
+        ]
+      },
+      "properties": {
+        "name": "Fontagneux",
+        "altitude": "867",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Romain en Jarez",
+            "length": "3.60",
+            "moyen": "10.64",
+            "max": "15.5",
+            "profil": "https://profils.cols-cyclisme.com/2662.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.58366372708130",
+          "45.6492481415816"
+        ]
+      },
+      "properties": {
+        "name": "Haut de Montfroide",
+        "altitude": "800",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "8.69",
+            "moyen": "5.43",
+            "max": "13.7",
+            "profil": "https://profils.cols-cyclisme.com/2663.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56349351528930",
+          "45.6608869037439"
+        ]
+      },
+      "properties": {
+        "name": "Saint Martin en haut",
+        "altitude": "730",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "7.77",
+            "moyen": "4.9",
+            "max": "15.5",
+            "profil": "https://profils.cols-cyclisme.com/2665.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.59578767252200",
+          "45.7038736995676"
+        ]
+      },
+      "properties": {
+        "name": "Yzeron",
+        "altitude": "751",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "6.62",
+            "moyen": "6.36",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/2668.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vaugneray",
+            "length": "11.00",
+            "moyen": "3.12",
+            "max": "10.2",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.55560620086670",
+          "45.5753299743302"
+        ]
+      },
+      "properties": {
+        "name": "Senevas",
+        "altitude": "706",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rive de Gier",
+            "length": "9.85",
+            "moyen": "4.58",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2669.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.51181443183600",
+          "45.7777307166011"
+        ]
+      },
+      "properties": {
+        "name": "Crêt Montmain",
+        "altitude": "643",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Brévenne",
+            "length": "5.68",
+            "moyen": "6.44",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2676.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.62067994655760",
+          "45.7013482499024"
+        ]
+      },
+      "properties": {
+        "name": "Fontrobert",
+        "altitude": "727",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thurins",
+            "length": "7.80",
+            "moyen": "5.13",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2745.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Planche Billet",
+            "length": "5.71",
+            "moyen": "6.11",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.51736000000000",
+          "45.8218600000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Arjoux",
+        "altitude": "815",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Bigot",
+            "length": "7.16",
+            "moyen": "5.94",
+            "max": "13.8",
+            "profil": "https://profils.cols-cyclisme.com/2909.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "monts-du-lyonnais"
+      }
+    }
+  ]
+}

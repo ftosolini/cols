@@ -1,0 +1,1959 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.77490000000000",
+          "44.8768000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Rotisson",
+        "altitude": "428",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Charmes sur Rhône",
+            "length": "7.81",
+            "moyen": "4.06",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2365.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.57977000000000",
+          "44.7590600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Moulin à Vent",
+        "altitude": "592",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Privas",
+            "length": "6.47",
+            "moyen": "4.82",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/2347.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.70817000000000",
+          "44.9897600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Mayres",
+        "altitude": "595",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gilhoc sur Ormèze",
+            "length": "3.10",
+            "moyen": "4.84",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3464.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Saint Sylvestre",
+            "length": "5.50",
+            "moyen": "3.93",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3466.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.67980000000000",
+          "45.3082900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Fayet",
+        "altitude": "611",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "13.40",
+            "moyen": "1.15",
+            "max": "7.0",
+            "profil": "",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Serrières",
+            "length": "9.68",
+            "moyen": "4.86",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/2643.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Vinzieux",
+            "length": "3.50",
+            "moyen": "5.54",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3506.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64617000000000",
+          "45.0964100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontay",
+        "altitude": "613",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Félicien",
+            "length": "3.10",
+            "moyen": "2.55",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/2194.svg",
+            "category": 5
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64872000000000",
+          "44.9703600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mazel",
+        "altitude": "633",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Barthélémy Grozon",
+            "length": "2.00",
+            "moyen": "3.7",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2162.gif",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Gilhoc sur Ormèze",
+            "length": "6.00",
+            "moyen": "3.13",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2193.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.33014000000000",
+          "44.7139500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Aizac",
+        "altitude": "642",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Antraigues sur Volane",
+            "length": "3.50",
+            "moyen": "6.46",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/754.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48707000000000",
+          "44.9329000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Nonières",
+        "altitude": "670",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "11.00",
+            "moyen": "2.74",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/716.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Cheylard",
+            "length": "9.45",
+            "moyen": "2.56",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/3077.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.63414000000000",
+          "45.1152600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Juvenet",
+        "altitude": "681",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Félicien",
+            "length": "5.10",
+            "moyen": "2.82",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1358.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.58590000000000",
+          "44.6502900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontenelle",
+        "altitude": "703",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Martin sur Lavezon",
+            "length": "13.00",
+            "moyen": "4.39",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Buis d'Aps",
+            "length": "14.00",
+            "moyen": "3.46",
+            "max": "7.5",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Pons",
+            "length": "13.00",
+            "moyen": "3.64",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64638000000000",
+          "44.9855000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de St Genest",
+        "altitude": "709",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "8.00",
+            "moyen": "4.2",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/1174.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Gilhoc sur Ormèze",
+            "length": "5.10",
+            "moyen": "5.1",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/3463.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.61569000000000",
+          "45.0504200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Perrier",
+        "altitude": "744",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arlebosc",
+            "length": "4.20",
+            "moyen": "7.05",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2772.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.60064000000000",
+          "44.9449900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montreynaud",
+        "altitude": "757",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "7.50",
+            "moyen": "5.16",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1391.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.69372000000000",
+          "44.9547400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Fans",
+        "altitude": "758",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Barthélémy Grozon",
+            "length": "6.40",
+            "moyen": "3.11",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1739.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Saint Péray",
+            "length": "21.40",
+            "moyen": "2.89",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/1740.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.70388000000000",
+          "44.8710200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Serre-Mure",
+        "altitude": "747",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Laurent du Pape",
+            "length": "7.80",
+            "moyen": "8.28",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1643.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Duniere - Eyrieux",
+            "length": "14.00",
+            "moyen": "4.36",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/1644.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.49299000000000",
+          "44.7182900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Escrinet",
+        "altitude": "787",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Privas",
+            "length": "12.80",
+            "moyen": "3.88",
+            "max": "5.6",
+            "profil": "https://profils.cols-cyclisme.com/1144.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Chauliac",
+            "length": "7.88",
+            "moyen": "5.82",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54680000000000",
+          "44.6832600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Bénas",
+        "altitude": "795",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Privas",
+            "length": "11.00",
+            "moyen": "4.55",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1300.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Lussas",
+            "length": "13.00",
+            "moyen": "3.73",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/2360.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.28670000000000",
+          "44.7254700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Moucheyre",
+        "altitude": "858",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vals les Bains",
+            "length": "5.00",
+            "moyen": "6.32",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Labastide sur Besorgues",
+            "length": "5.10",
+            "moyen": "4.22",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Burzet",
+            "length": "4.90",
+            "moyen": "6.39",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2367.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56252000000000",
+          "45.1051000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Marchand",
+        "altitude": "903",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Félicien",
+            "length": "9.20",
+            "moyen": "4.07",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1119.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Satillieu",
+            "length": "6.84",
+            "moyen": "5.69",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2354.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53298000000000",
+          "45.0590300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Buisson",
+        "altitude": "917",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Félicien",
+            "length": "13.00",
+            "moyen": "2.9",
+            "max": "7.7",
+            "profil": "https://profils.cols-cyclisme.com/717.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pont de Clara",
+            "length": "6.80",
+            "moyen": "5.26",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/845.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53639000000000",
+          "45.0389500000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Tracol",
+        "altitude": "971",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "10.10",
+            "moyen": "5.95",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/1742.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "18.90",
+            "moyen": "3.12",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/3433.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Labatie d'Andaure",
+            "length": "8.50",
+            "moyen": "5.56",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/3434.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.30857000000000",
+          "44.8505300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Joux",
+        "altitude": "1008",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dornas",
+            "length": "7.18",
+            "moyen": "5.17",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2370.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Le Chaussays",
+            "length": "3.57",
+            "moyen": "6.92",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2371.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44271000000000",
+          "44.8443600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Faye",
+        "altitude": "1023",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Albon d'Ardèche",
+            "length": "6.83",
+            "moyen": "5.72",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2369.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D409 / D277",
+            "length": "8.80",
+            "moyen": "5.08",
+            "max": "6.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54131000000000",
+          "45.1010600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Faux",
+        "altitude": "1021",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Félicien",
+            "length": "11.90",
+            "moyen": "4.1",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/1117.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "24.00",
+            "moyen": "2.72",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1118.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44618000000000",
+          "45.1415900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Baraques",
+        "altitude": "1072",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Annonay",
+            "length": "25.00",
+            "moyen": "2.88",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1395.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44332000000000",
+          "45.0364000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Brun",
+        "altitude": "1113",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Labatie d'Andaure",
+            "length": "9.60",
+            "moyen": "6.23",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1196.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Labatie d'Andaure",
+            "length": "9.00",
+            "moyen": "6.92",
+            "max": "9.9",
+            "profil": "https://profils.cols-cyclisme.com/3429.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.34628000000000",
+          "44.8078900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Mézilhac",
+        "altitude": "1119",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Cheylard",
+            "length": "22.00",
+            "moyen": "3.18",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/718.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Vals les Bains",
+            "length": "23.50",
+            "moyen": "3.75",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/2284.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Albon d'Ardèche",
+            "length": "10.72",
+            "moyen": "4.49",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2395.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.39346000000000",
+          "44.7885400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Quatre Vios",
+        "altitude": "1149",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Pierreville",
+            "length": "12.06",
+            "moyen": "4.92",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2374.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.24963000000000",
+          "44.8964700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Ardéchoise",
+        "altitude": "1184",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chaneac",
+            "length": "11.00",
+            "moyen": "5.15",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1331.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.25600000000000",
+          "44.9501100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Scie",
+        "altitude": "1193",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lachapelle sous Chanéac",
+            "length": "9.81",
+            "moyen": "5.84",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2368.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48152000000000",
+          "45.2160400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Charousse",
+        "altitude": "1241",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villevocance",
+            "length": "13.50",
+            "moyen": "5.93",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/939.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Riotord",
+            "length": "12.00",
+            "moyen": "2.98",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/940.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Vanosc",
+            "length": "10.00",
+            "moyen": "6",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1396.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.50219000000000",
+          "45.1488800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Rouvey",
+        "altitude": "1244",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Baraques",
+            "length": "5.50",
+            "moyen": "2.98",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/961.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Satilleu",
+            "length": "15.50",
+            "moyen": "4.95",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/962.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Pont du Doux (D228 / D214)",
+            "length": "12.00",
+            "moyen": "4.88",
+            "max": "4.9",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.26528000000000",
+          "44.8158100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pranlet",
+        "altitude": "1363",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Mézilhac",
+            "length": "8.10",
+            "moyen": "3.01",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/719.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.18539000000000",
+          "44.8994600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Boutière",
+        "altitude": "1506",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Monastier sur Gazeilles",
+            "length": "17.80",
+            "moyen": "3.27",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/965.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Martin Valamas",
+            "length": "23.40",
+            "moyen": "4.1",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/966.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44835000000000",
+          "44.7894000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Ferrières",
+        "altitude": "938",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les chambons",
+            "length": "4.70",
+            "moyen": "7.02",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3478.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Julien du Gua",
+            "length": "3.70",
+            "moyen": "7.84",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3479.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Issamoulenc",
+            "length": "5.20",
+            "moyen": "6.54",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3480.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.22416900000000",
+          "44.8410430000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Gerbier de Jonc",
+        "altitude": "1417",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Bourlatier (D122 / D378)",
+            "length": "3.20",
+            "moyen": "1.44",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/720.gif",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Sainte Eulalie",
+            "length": "2.50",
+            "moyen": "7.08",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "La Chazotte",
+            "length": "12.29",
+            "moyen": "5.85",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2372.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.40700900000000",
+          "45.0187750000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Clavieres",
+        "altitude": "1088",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Martin de Valamas",
+            "length": "17.30",
+            "moyen": "3.2",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.45601800000000",
+          "45.0771580000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Rochepaule",
+        "altitude": "891",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de l'Aygueneyre",
+            "length": "3.70",
+            "moyen": "4.78",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/733.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53575900000000",
+          "45.1190830000000"
+        ]
+      },
+      "properties": {
+        "name": "Lalouvesc",
+        "altitude": "1091",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D228 / D214",
+            "length": "9.00",
+            "moyen": "4.81",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/734.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Satillieu",
+            "length": "11.11",
+            "moyen": "5.44",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2362.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.21518900000000",
+          "44.7682390000000"
+        ]
+      },
+      "properties": {
+        "name": "La Baricaude",
+        "altitude": "1235",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Burzet",
+            "length": "13.00",
+            "moyen": "5.3",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/756.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43950600000000",
+          "44.3740180000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Serre de Tourre",
+        "altitude": "323",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Châmes",
+            "length": "2.80",
+            "moyen": "7.96",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1130.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44046900000000",
+          "44.9670710000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Baraques / Le pouzat",
+        "altitude": "1127",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col des Nonières",
+            "length": "6.50",
+            "moyen": "7.03",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1654.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Cheylard",
+            "length": "10.90",
+            "moyen": "6.39",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2581.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.40233200000000",
+          "45.0061600000000"
+        ]
+      },
+      "properties": {
+        "name": "Saint Agrève",
+        "altitude": "1054",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamastre",
+            "length": "19.60",
+            "moyen": "3.34",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1701.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Labatie d'Andaure",
+            "length": "10.50",
+            "moyen": "5.14",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/3291.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.33577800000000",
+          "44.4152570000000"
+        ]
+      },
+      "properties": {
+        "name": "Rocher de Sampzon",
+        "altitude": "288",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sampzon",
+            "length": "2.10",
+            "moyen": "8.29",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1892.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.57472200000000",
+          "44.8763890000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalencon",
+        "altitude": "694",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Pont de Chervil",
+            "length": "7.30",
+            "moyen": "5.33",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2275.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.79683044372560",
+          "44.9793106818295"
+        ]
+      },
+      "properties": {
+        "name": "Saint Romain de Lerps",
+        "altitude": "615",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Châteaubourg",
+            "length": "6.49",
+            "moyen": "7.55",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2355.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Cornas",
+            "length": "8.83",
+            "moyen": "5.47",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2356.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.30145836380620",
+          "44.7693898108207"
+        ]
+      },
+      "properties": {
+        "name": "Jardin de Cuze",
+        "altitude": "1325",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Freyssenet",
+            "length": "10.85",
+            "moyen": "5.56",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2357.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.42906800000000",
+          "44.9420800000000"
+        ]
+      },
+      "properties": {
+        "name": "Saint Jean Roure",
+        "altitude": "959",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Cheylard",
+            "length": "5.12",
+            "moyen": "10.33",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2358.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D578 / D571",
+            "length": "9.06",
+            "moyen": "5.45",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2359.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.41406200000000",
+          "44.8738450000000"
+        ]
+      },
+      "properties": {
+        "name": "Vergnes",
+        "altitude": "975",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Cheylard",
+            "length": "6.24",
+            "moyen": "8.43",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/2361.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.19337060543820",
+          "44.7408407995789"
+        ]
+      },
+      "properties": {
+        "name": "Suc du Pal",
+        "altitude": "1264",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Burzet",
+            "length": "10.00",
+            "moyen": "7.17",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2363.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.16862990948480",
+          "44.7395300295118"
+        ]
+      },
+      "properties": {
+        "name": "Fontaulière",
+        "altitude": "1195",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montpezat sous Bauzon",
+            "length": "11.57",
+            "moyen": "5.7",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2364.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.29264228146360",
+          "44.7923718374023"
+        ]
+      },
+      "properties": {
+        "name": "Forêt de l'Areilladou",
+        "altitude": "1212",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Burzet",
+            "length": "13.73",
+            "moyen": "4.85",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2373.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.47394385223390",
+          "44.8915083456169"
+        ]
+      },
+      "properties": {
+        "name": "Col de Burianne",
+        "altitude": "620",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D120 / D264",
+            "length": "4.10",
+            "moyen": "5",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.31309644596870",
+          "44.6876782291354"
+        ]
+      },
+      "properties": {
+        "name": "Relais Télécom de Sainte Marguerite",
+        "altitude": "976",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dubois",
+            "length": "9.35",
+            "moyen": "6.73",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/2531.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.65407100000000",
+          "45.0386270000000"
+        ]
+      },
+      "properties": {
+        "name": "Arlebosc",
+        "altitude": "427",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Boucieu le Roi",
+            "length": "3.40",
+            "moyen": "4.5",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2586.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.60007669805910",
+          "44.4013286036965"
+        ]
+      },
+      "properties": {
+        "name": "Bois du Laoul",
+        "altitude": "410",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Saint Andéol",
+            "length": "6.88",
+            "moyen": "4.97",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/2744.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.49691000000000",
+          "44.7082900000000"
+        ]
+      },
+      "properties": {
+        "name": "Crête de Blandine",
+        "altitude": "1015",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D324 / D224",
+            "length": "14.42",
+            "moyen": "4.85",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.42952000000000",
+          "45.1314700000000"
+        ]
+      },
+      "properties": {
+        "name": "Saint Bonnet le Froid",
+        "altitude": "1140",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La chapelle",
+            "length": "6.90",
+            "moyen": "6.45",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/3430.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.40400000000000",
+          "45.0509500000000"
+        ]
+      },
+      "properties": {
+        "name": "Lac de Devesset",
+        "altitude": "1118",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Doux",
+            "length": "14.90",
+            "moyen": "3.09",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/3431.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43872000000000",
+          "45.0920200000000"
+        ]
+      },
+      "properties": {
+        "name": "Passe Vite",
+        "altitude": "1157",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Doux",
+            "length": "6.90",
+            "moyen": "7",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3432.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.77509000000000",
+          "45.2660740000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Brunieux",
+        "altitude": "360",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Désirat",
+            "length": "3.00",
+            "moyen": "6.77",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3535.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.60636100000000",
+          "44.9551050000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Hières",
+        "altitude": "707",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Barthélémy le Pin",
+            "length": "3.65",
+            "moyen": "4.03",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3809.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du vivarais"
+      }
+    }
+  ]
+}

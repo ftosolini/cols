@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.12607000000000",
+          "44.5594700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bonnecombe",
+        "altitude": "1340",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Nasbinals",
+            "length": "17.00",
+            "moyen": "2.18",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts d aubrac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.96263000000000",
+          "44.6676100000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Mathieu",
+        "altitude": "1325",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Urcize",
+            "length": "5.00",
+            "moyen": "4.26",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts d aubrac"
+      }
+    }
+  ]
+}

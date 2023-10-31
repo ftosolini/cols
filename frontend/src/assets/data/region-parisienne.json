@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.22794600000000",
+          "48.8100920000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte Royale de Meudon",
+        "altitude": "166",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Meudon",
+            "length": "2.19",
+            "moyen": "5.98",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2220.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.00159600000000",
+          "48.7095500000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte des 17 Tournants",
+        "altitude": "165",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dampierre en Yvelines",
+            "length": "1.20",
+            "moyen": "5.5",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2257.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.02649200000000",
+          "48.9847200000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Chanteloup-les-Vignes",
+        "altitude": "165",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chanteloup les Vignes",
+            "length": "1.80",
+            "moyen": "6.33",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2258.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.04300900000000",
+          "48.7115290000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de la Madeleine",
+        "altitude": "158",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chevreuse",
+            "length": "0.70",
+            "moyen": "10.43",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2264.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.74673400000000",
+          "48.9608560000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de la Plagne",
+        "altitude": "125",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D158",
+            "length": "1.10",
+            "moyen": "8.91",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2265.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.26426500000000",
+          "49.0211790000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Saint-Prix",
+        "altitude": "176",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Prix",
+            "length": "1.40",
+            "moyen": "6.93",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2266.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.11844800000000",
+          "48.6944090000000"
+        ]
+      },
+      "properties": {
+        "name": "Plateau de Belleville",
+        "altitude": "158",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gif sur Yvette",
+            "length": "1.40",
+            "moyen": "6.29",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2573.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.08460900000000",
+          "48.7120080000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Saint Rémy lès Chevreuse",
+        "altitude": "153",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rémy lès Chevreuse",
+            "length": "1.41",
+            "moyen": "5.46",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2574.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.05697500000000",
+          "48.7128550000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte des Hauts de Chevreuse",
+        "altitude": "163",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chevreuse",
+            "length": "1.11",
+            "moyen": "6.13",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2575.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.22826000000000",
+          "48.8101100000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte des gardes",
+        "altitude": "170",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Meudon",
+            "length": "2.20",
+            "moyen": "6.27",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3470.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.01162000000000",
+          "49.0028400000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de l'Hautil",
+        "altitude": "176",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Triel sur Seine",
+            "length": "2.90",
+            "moyen": "5.03",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3471.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.88111000000000",
+          "48.9148300000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Beule",
+        "altitude": "180",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Maule",
+            "length": "3.10",
+            "moyen": "4.58",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3472.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.13051000000000",
+          "48.7837699000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte d'Alsace-Lorraine",
+        "altitude": "169",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Buc",
+            "length": "0.93",
+            "moyen": "6.34",
+            "max": "23.3",
+            "profil": "https://profils.cols-cyclisme.com/3823.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "region parisienne"
+      }
+    }
+  ]
+}

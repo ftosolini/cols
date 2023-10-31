@@ -1,0 +1,1207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.70976000000000",
+          "45.9741800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Beau Louis",
+        "altitude": "824",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Tuiliere",
+            "length": "9.40",
+            "moyen": "2.6",
+            "max": "5.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.79992000000000",
+          "46.0054000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Loge des Gardes",
+        "altitude": "1077",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Clément",
+            "length": "16.00",
+            "moyen": "3.54",
+            "max": "5.7",
+            "profil": "https://profils.cols-cyclisme.com/1699.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Moulin Chérier",
+            "length": "10.00",
+            "moyen": "4.41",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/1700.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "le Moulin Gitenay",
+            "length": "6.82",
+            "moyen": "7.04",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.97158000000000",
+          "45.6908500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Pelletière",
+        "altitude": "747",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "17.00",
+            "moyen": "2.12",
+            "max": "7.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.75444000000000",
+          "45.8859800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col St Thomas",
+        "altitude": "930",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Bombarde",
+            "length": "4.00",
+            "moyen": "7.4",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/72.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Chabreloche",
+            "length": "5.00",
+            "moyen": "6.36",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/73.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.04172000000000",
+          "45.4227100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pichillon",
+        "altitude": "951",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Marcellin en Forez",
+            "length": "17.50",
+            "moyen": "3.2",
+            "max": "6.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.85877000000000",
+          "45.7238700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Ladret",
+        "altitude": "1046",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sail sous Couzan",
+            "length": "13.00",
+            "moyen": "4.81",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/346.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.72079000000000",
+          "45.9231700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Charme",
+        "altitude": "1120",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chabreloche",
+            "length": "8.00",
+            "moyen": "6.25",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/944.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.99558000000000",
+          "45.4791900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Palchad",
+        "altitude": "1145",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "22.00",
+            "moyen": "3.45",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1150.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.94709000000000",
+          "45.5427700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Limites",
+        "altitude": "1157",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "16.10",
+            "moyen": "4.73",
+            "max": "6.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.96460000000000",
+          "45.5469400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de l'Homme Mort",
+        "altitude": "1163",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "18.00",
+            "moyen": "4.29",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/271.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Antheme",
+            "length": "5.00",
+            "moyen": "4.46",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.77968000000000",
+          "45.7425600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Loge",
+        "altitude": "1253",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Noiretable",
+            "length": "18.50",
+            "moyen": "2.88",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/299.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Sail sous Couzan",
+            "length": "21.40",
+            "moyen": "3.92",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/300.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.93793000000000",
+          "45.5797900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Baracuchet",
+        "altitude": "1256",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Antheme",
+            "length": "7.50",
+            "moyen": "3.87",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/975.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "19.00",
+            "moyen": "4.42",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/1213.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.78295000000000",
+          "45.6853600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Béal",
+        "altitude": "1390",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Leigneux",
+            "length": "27.00",
+            "moyen": "3.61",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/3.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Job",
+            "length": "18.00",
+            "moyen": "4.14",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/6.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vertolaye",
+            "length": "13.70",
+            "moyen": "6.54",
+            "max": "8.5",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Brugeron",
+            "length": "11.00",
+            "moyen": "5.25",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/974.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.27017000000000",
+          "45.6164900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix des Gardes",
+        "altitude": "654",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D49 / D9",
+            "length": "7.70",
+            "moyen": "3.55",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3184.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.70322000000000",
+          "45.8517100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Sagnes",
+        "altitude": "798",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viscontat",
+            "length": "6.10",
+            "moyen": "2",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/557.gif",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Chabreloche",
+            "length": "4.50",
+            "moyen": "4.62",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/558.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.66657000000000",
+          "45.8069500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pertuis",
+        "altitude": "948",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viscomtat",
+            "length": "5.00",
+            "moyen": "4.92",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/1645.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.84457000000000",
+          "45.4581700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chemintrand",
+        "altitude": "1028",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Usson en Forez",
+            "length": "14.00",
+            "moyen": "1.14",
+            "max": "5.0",
+            "profil": "",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Fourchevat",
+            "length": "14.00",
+            "moyen": "3.29",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.85144000000000",
+          "45.4233000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Faye",
+        "altitude": "1093",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viverols",
+            "length": "5.00",
+            "moyen": "4.46",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Dore l'Eglise",
+            "length": "13.50",
+            "moyen": "3.8",
+            "max": "5.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.84567000000000",
+          "45.5260800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Pradeaux",
+        "altitude": "1196",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Antheme",
+            "length": "8.50",
+            "moyen": "3.01",
+            "max": "5.1",
+            "profil": "https://profils.cols-cyclisme.com/329.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Ambert",
+            "length": "13.50",
+            "moyen": "4.88",
+            "max": "6.4",
+            "profil": "https://profils.cols-cyclisme.com/330.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.77875000000000",
+          "45.6445500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chansert",
+        "altitude": "1236",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Job",
+            "length": "9.50",
+            "moyen": "6.38",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vertolaye",
+            "length": "16.80",
+            "moyen": "4.45",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.84583000000000",
+          "45.5925100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Supeyres",
+        "altitude": "1365",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ambert",
+            "length": "21.30",
+            "moyen": "3.9",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/269.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Antheme",
+            "length": "13.60",
+            "moyen": "3.13",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/270.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.80989400000000",
+          "45.6514230000000"
+        ]
+      },
+      "properties": {
+        "name": "Pierre sur Haute",
+        "altitude": "1634",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col du Béal",
+            "length": "4.00",
+            "moyen": "6.1",
+            "max": "12.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.12541800000000",
+          "45.5573080000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic volcanique de Saint-Romain-Le-Puy",
+        "altitude": "479",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "0.70",
+            "moyen": "14.29",
+            "max": "19.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.98726500000000",
+          "45.6178090000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Pic de la Roue",
+        "altitude": "810",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "12.50",
+            "moyen": "3.44",
+            "max": "6.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.91779700000000",
+          "45.6425040000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Traverse",
+        "altitude": "1058",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "17.00",
+            "moyen": "4",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1169.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.86801900000000",
+          "45.6346200000000"
+        ]
+      },
+      "properties": {
+        "name": "Jasseries de Garnier",
+        "altitude": "1338",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montbrison",
+            "length": "23.00",
+            "moyen": "4.57",
+            "max": "17.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.23755100000000",
+          "45.4417420000000"
+        ]
+      },
+      "properties": {
+        "name": "Chambles",
+        "altitude": "638",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Unieux",
+            "length": "7.00",
+            "moyen": "3.07",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1437.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.99562583068850",
+          "45.4584996942962"
+        ]
+      },
+      "properties": {
+        "name": "Montarcher",
+        "altitude": "1159",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allézieux",
+            "length": "13.20",
+            "moyen": "5.12",
+            "max": "12.5",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.58228121710200",
+          "45.5975527648899"
+        ]
+      },
+      "properties": {
+        "name": "Col de Toutée",
+        "altitude": "996",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cunhlat",
+            "length": "5.32",
+            "moyen": "5.79",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.64649889355470",
+          "45.4878377830802"
+        ]
+      },
+      "properties": {
+        "name": "Bois de Coisse",
+        "altitude": "1096",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marsac en Livradois",
+            "length": "10.80",
+            "moyen": "5.1",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.66309488317870",
+          "45.5182578169980"
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame de Mons",
+        "altitude": "1062",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Flaittes",
+            "length": "9.43",
+            "moyen": "5.42",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.63635408917230",
+          "45.5678014298830"
+        ]
+      },
+      "properties": {
+        "name": "Col des Fourches",
+        "altitude": "970",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D996 / D906",
+            "length": "9.87",
+            "moyen": "4.43",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.20068807934570",
+          "45.4082768358496"
+        ]
+      },
+      "properties": {
+        "name": "Gourgois",
+        "altitude": "769",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Pertuiset",
+            "length": "6.00",
+            "moyen": "5.65",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.17825552893070",
+          "45.3881575509565"
+        ]
+      },
+      "properties": {
+        "name": "Mons",
+        "altitude": "819",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aurec sur Loire",
+            "length": "3.48",
+            "moyen": "10.43",
+            "max": "21.0",
+            "profil": "https://profils.cols-cyclisme.com/2748.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.16288999209600",
+          "45.3523288309332"
+        ]
+      },
+      "properties": {
+        "name": "La Visa",
+        "altitude": "834",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Malvalette",
+            "length": "6.69",
+            "moyen": "5.07",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.94190047885130",
+          "45.2206283722144"
+        ]
+      },
+      "properties": {
+        "name": "Roche en Régnier",
+        "altitude": "890",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viaspre",
+            "length": "7.04",
+            "moyen": "5.4",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D103 / D29",
+            "length": "5.49",
+            "moyen": "6.03",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.89684900000000",
+          "45.2298820000000"
+        ]
+      },
+      "properties": {
+        "name": "Vermoyal",
+        "altitude": "932",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vorey",
+            "length": "5.66",
+            "moyen": "6.75",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.05964745465090",
+          "45.3270910699684"
+        ]
+      },
+      "properties": {
+        "name": "Chanteloube",
+        "altitude": "860",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bas en Basset",
+            "length": "7.76",
+            "moyen": "5.15",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.88713074035650",
+          "46.0118465776918"
+        ]
+      },
+      "properties": {
+        "name": "Arcon",
+        "altitude": "820",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Alban les Eaux",
+            "length": "5.97",
+            "moyen": "6.7",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.81432599999990",
+          "46.0718000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Rivière Noire",
+        "altitude": "1005",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Villards",
+            "length": "14.19",
+            "moyen": "4.45",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "le barrage de Rouchain",
+            "length": "11.28",
+            "moyen": "4.46",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Clément",
+            "length": "14.05",
+            "moyen": "3.67",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "livardois & forez"
+      }
+    }
+  ]
+}

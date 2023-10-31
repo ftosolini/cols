@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.88392000000000",
+          "45.6804600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Petit St. Bernard",
+        "altitude": "2188",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Saint Maurice",
+            "length": "26.50",
+            "moyen": "5.09",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/301.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Prè St. Didier",
+            "length": "23.50",
+            "moyen": "5.04",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/1154.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.92362000000000",
+          "46.0038100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Montets",
+        "altitude": "1461",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chamonix",
+            "length": "11.70",
+            "moyen": "3.64",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/604.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Châtelard",
+            "length": "8.20",
+            "moyen": "4.6",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/605.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.00143600000000",
+          "46.0577520000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Forclaz",
+        "altitude": "1526",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Croix",
+            "length": "12.90",
+            "moyen": "7.96",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/624.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Le Châtelard",
+            "length": "7.50",
+            "moyen": "5.79",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/625.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Martigny",
+            "length": "16.00",
+            "moyen": "6.56",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/626.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.93861700000000",
+          "46.0691630000000"
+        ]
+      },
+      "properties": {
+        "name": "Barrage d'Emosson",
+        "altitude": "1932",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Châtelard",
+            "length": "13.80",
+            "moyen": "5.88",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/727.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.00849900000000",
+          "46.1119260000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Marécottes",
+        "altitude": "1119",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Martigny",
+            "length": "8.70",
+            "moyen": "7.47",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1906.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.01590900000000",
+          "46.0837130000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Arpille",
+        "altitude": "1800",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Martigny",
+            "length": "14.30",
+            "moyen": "9.08",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1910.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.73967400000000",
+          "45.9510530000000"
+        ]
+      },
+      "properties": {
+        "name": "Plaine Joux",
+        "altitude": "1352",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Passy",
+            "length": "14.50",
+            "moyen": "5.46",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/2245.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.92073009552000",
+          "45.6207241099108"
+        ]
+      },
+      "properties": {
+        "name": "La Savonne",
+        "altitude": "1771",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Foy Tarentaise",
+            "length": "7.00",
+            "moyen": "10.41",
+            "max": "20.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.68553835081790",
+          "45.8751031695281"
+        ]
+      },
+      "properties": {
+        "name": "Le Bettex",
+        "altitude": "1400",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vervex",
+            "length": "9.85",
+            "moyen": "8.38",
+            "max": "14.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.82170000000000",
+          "45.9085000000000"
+        ]
+      },
+      "properties": {
+        "name": "Parc animalier du Merlet",
+        "altitude": "1524",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Houches",
+            "length": "5.32",
+            "moyen": "10.26",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/3391.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.97010000000000",
+          "46.0261000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Balme",
+        "altitude": "2191",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Argentière",
+            "length": "9.19",
+            "moyen": "10.14",
+            "max": "17.8",
+            "profil": "https://profils.cols-cyclisme.com/3399.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont blanc"
+      }
+    }
+  ]
+}

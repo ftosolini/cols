@@ -1,0 +1,371 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.61842000000000",
+          "43.5057800000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Magnan",
+        "altitude": "460",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rousset",
+            "length": "2.40",
+            "moyen": "7.13",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1540.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Tholonet",
+            "length": "10.80",
+            "moyen": "2.59",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3080.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.68523000000000",
+          "43.4070700000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de la Couelle",
+        "altitude": "531",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Trets",
+            "length": "7.22",
+            "moyen": "3.78",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2321.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Zacharie",
+            "length": "5.90",
+            "moyen": "4.56",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2322.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.61611000000000",
+          "43.5206900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Cengle",
+        "altitude": "510",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D17 / D46",
+            "length": "6.90",
+            "moyen": "4.13",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2816.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Puyloubier",
+            "length": "4.80",
+            "moyen": "3.6",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3460.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.61984000000000",
+          "43.5788000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Sambuc",
+        "altitude": "615",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Jouques",
+            "length": "10.10",
+            "moyen": "3.26",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.66194000000000",
+          "43.3155500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Espigoulier",
+        "altitude": "723",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Auriol",
+            "length": "13.80",
+            "moyen": "3.78",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/582.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Gemenos",
+            "length": "11.30",
+            "moyen": "5.19",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/583.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Zacharie",
+            "length": "17.25",
+            "moyen": "3.17",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1249.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.48349657990120",
+          "43.4083031602554"
+        ]
+      },
+      "properties": {
+        "name": "Col Sainte Anne",
+        "altitude": "591",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Logis Neuf",
+            "length": "7.65",
+            "moyen": "5.7",
+            "max": "14.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.99221207946780",
+          "43.3682173236436"
+        ]
+      },
+      "properties": {
+        "name": "Montagne de la Loube",
+        "altitude": "798",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D5",
+            "length": "3.89",
+            "moyen": "9.87",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2482.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.74985425270000",
+          "43.2565475010000"
+        ]
+      },
+      "properties": {
+        "name": "Le Camp du Castellet",
+        "altitude": "396",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Anne du Castellet",
+            "length": "3.39",
+            "moyen": "6.81",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/3110.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Cuges les Pins",
+            "length": "6.20",
+            "moyen": "3.27",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/3481.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.76749245922000",
+          "43.3407524896900"
+        ]
+      },
+      "properties": {
+        "name": "Forêt de la Sainte Baume",
+        "altitude": "675",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Nans les Pins",
+            "length": "4.96",
+            "moyen": "5.3",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/3126.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82788786492000",
+          "43.3520482516000"
+        ]
+      },
+      "properties": {
+        "name": "Les Glacières",
+        "altitude": "725",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D95 / D64",
+            "length": "4.96",
+            "moyen": "5.79",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/3125.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82310000000000",
+          "43.3547000000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte des 4 Chênes",
+        "altitude": "731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rougiers",
+            "length": "7.27",
+            "moyen": "5.08",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/3485.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.68847",
+          "43.31170"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Bertagne",
+        "altitude": "1027",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plan d'Aups Sainte Baume",
+            "length": "5.04",
+            "moyen": "6.71",
+            "max": "13.3",
+            "profil": "https://profils.cols-cyclisme.com/3486.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "ste baumes ste victoire"
+      }
+    }
+  ]
+}

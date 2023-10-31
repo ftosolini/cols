@@ -1535,11 +1535,11 @@
         ]
       },
       "properties": {
-        "name": "Col de Peyrefite",
+        "name": "Col d'Azet",
         "altitude": "1580",
         "climbs": [
           {
-            "done": false,
+            "done": true,
             "start": "Bourisp",
             "length": "10.70",
             "moyen": "7.29",
@@ -1554,15 +1554,6 @@
             "moyen": "8.27",
             "max": "13.6",
             "profil": "https://profils.cols-cyclisme.com/257.svg",
-            "category": 1
-          },
-          {
-            "done": false,
-            "start": "Bazus Aure",
-            "length": "12.00",
-            "moyen": "6.73",
-            "max": "14.0",
-            "profil": "https://profils.cols-cyclisme.com/258.svg",
             "category": 1
           }
         ],
@@ -1835,7 +1826,7 @@
         "altitude": "1720",
         "climbs": [
           {
-            "done": false,
+            "done": true,
             "start": "Luz Saint Sauveur",
             "length": "14.70",
             "moyen": "6.87",

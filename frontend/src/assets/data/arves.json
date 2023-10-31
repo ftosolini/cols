@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.40518000000000",
+          "45.0353800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Lautaret",
+        "altitude": "2057",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Clapier",
+            "length": "34.10",
+            "moyen": "3.85",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/48.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Briançon",
+            "length": "27.70",
+            "moyen": "3.08",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/49.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.40784000000000",
+          "45.0640000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Galibier",
+        "altitude": "2642",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col du Lautaret",
+            "length": "8.50",
+            "moyen": "6.88",
+            "max": "12.1",
+            "profil": "https://profils.cols-cyclisme.com/36.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Michel de Maurienne",
+            "length": "34.90",
+            "moyen": "5.51",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/37.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07693000000000",
+          "45.1083000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Poutran",
+        "altitude": "1996",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barrage du Verney",
+            "length": "15.00",
+            "moyen": "7.97",
+            "max": "12.0",
+            "profil": "",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Bourg d'Oisans",
+            "length": "15.80",
+            "moyen": "8.06",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/917.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.14929000000000",
+          "45.0879600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sarenne",
+        "altitude": "1999",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Chambon",
+            "length": "12.80",
+            "moyen": "7.45",
+            "max": "13.5",
+            "profil": "https://profils.cols-cyclisme.com/886.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Bourg d'Oisans",
+            "length": "21.20",
+            "moyen": "6.05",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/963.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Allemont",
+            "length": "26.00",
+            "moyen": "5.46",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1053.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.10921000000000",
+          "45.1906300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Sabot",
+        "altitude": "2100",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barrage du Verney",
+            "length": "14.50",
+            "moyen": "8.9",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1039.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.44473000000000",
+          "45.2027500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Télégraphe",
+        "altitude": "1566",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valloire",
+            "length": "4.80",
+            "moyen": "3.44",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/56.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Saint Michel de Maurienne",
+            "length": "11.80",
+            "moyen": "7.25",
+            "max": "9.7",
+            "profil": "https://profils.cols-cyclisme.com/57.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.33714000000000",
+          "45.2103200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mollard",
+        "altitude": "1630",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villargondran",
+            "length": "17.00",
+            "moyen": "6.11",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/314.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Pont de Belleville",
+            "length": "6.00",
+            "moyen": "6.88",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/952.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "16.93",
+            "moyen": "6.13",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/2212.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.42216000000000",
+          "45.2120900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Albanne",
+        "altitude": "1652",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Bochet",
+            "length": "12.30",
+            "moyen": "7.78",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/2588.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.17539000000000",
+          "45.2396300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Glandon",
+        "altitude": "1924",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chambre",
+            "length": "21.30",
+            "moyen": "6.91",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/44.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Barrage du Verney",
+            "length": "24.10",
+            "moyen": "4.78",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/45.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.20292000000000",
+          "45.2276400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Fer",
+        "altitude": "2064",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "28.20",
+            "moyen": "5.23",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/40.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Barrage du Verney",
+            "length": "27.50",
+            "moyen": "4.7",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/41.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Saint Etienne de Cuines",
+            "length": "22.78",
+            "moyen": "6.93",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2590.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07103400000000",
+          "45.0944780000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de l'Alpe d'Huez",
+        "altitude": "1840",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg d'Oisans",
+            "length": "14.60",
+            "moyen": "7.62",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Rochetaille",
+            "length": "22.60",
+            "moyen": "4.88",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/4.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.27034500000000",
+          "45.2548430000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de La Toussuire",
+        "altitude": "1705",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne, via Saint Pancrace",
+            "length": "17.50",
+            "moyen": "6.54",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/416.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "19.10",
+            "moyen": "5.99",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/417.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.40517000000000",
+          "45.2286530000000"
+        ]
+      },
+      "properties": {
+        "name": "Station des Karellis",
+        "altitude": "1600",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "17.20",
+            "moyen": "6.05",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/1575.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49074400000000",
+          "45.1777180000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Valmeinier",
+        "altitude": "1800",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Michel de Maurienne",
+            "length": "16.10",
+            "moyen": "6.72",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/2042.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07966000000000",
+          "45.0555890000000"
+        ]
+      },
+      "properties": {
+        "name": "Auris en Oisans",
+        "altitude": "1640",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg d'Oisans",
+            "length": "16.10",
+            "moyen": "5.53",
+            "max": "9.9",
+            "profil": "https://profils.cols-cyclisme.com/2043.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Freney d'Oisans",
+            "length": "12.80",
+            "moyen": "5.56",
+            "max": "11.7",
+            "profil": "https://profils.cols-cyclisme.com/2044.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.20548600000000",
+          "45.0737890000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalets Josserand",
+        "altitude": "2254",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Clapier",
+            "length": "23.00",
+            "moyen": "6.57",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/2084.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.33141679376220",
+          "45.1773299666860"
+        ]
+      },
+      "properties": {
+        "name": "Coulouvreuse",
+        "altitude": "1902",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D80 / D926",
+            "length": "6.80",
+            "moyen": "9.88",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2510.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.29858000000000",
+          "45.2819000000000"
+        ]
+      },
+      "properties": {
+        "name": "Héard",
+        "altitude": "1400",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "11.04",
+            "moyen": "7.32",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/2973.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49052000000000",
+          "45.2245000000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Thyl",
+        "altitude": "1348",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Michel de Maurienne",
+            "length": "8.93",
+            "moyen": "7.09",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/2974.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07269000000000",
+          "45.1317200000000"
+        ]
+      },
+      "properties": {
+        "name": "Station d'Oz",
+        "altitude": "1340",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barrage du Verney",
+            "length": "7.26",
+            "moyen": "7.78",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/2977.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.33209700000000",
+          "45.1769430000000"
+        ]
+      },
+      "properties": {
+        "name": "Relais du Chalmieu",
+        "altitude": "1906",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Jean de Maurienne",
+            "length": "22.00",
+            "moyen": "6.08",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/3127.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "arves"
+      }
+    }
+  ]
+}

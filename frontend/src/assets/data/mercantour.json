@@ -1,0 +1,911 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83830000000000",
+          "43.9896900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col St Léger",
+        "altitude": "1070",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Puget Theniers",
+            "length": "11.40",
+            "moyen": "5.78",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/2196.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D2202",
+            "length": "8.01",
+            "moyen": "5.42",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.74403000000000",
+          "44.2591800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Cayolle",
+        "altitude": "2326",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barcelonnette",
+            "length": "29.10",
+            "moyen": "4.09",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/97.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Martin d'Entraunes",
+            "length": "20.50",
+            "moyen": "6.3",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/98.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.79634000000000",
+          "44.3152400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Moutière",
+        "altitude": "2454",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Tinee",
+            "length": "18.30",
+            "moyen": "7.1",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/1060.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Refuge de Bayasse",
+            "length": "8.90",
+            "moyen": "7.43",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/1061.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.05335000000000",
+          "43.9789700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Madone",
+        "altitude": "1162",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villars sur Var (D6202)",
+            "length": "13.90",
+            "moyen": "6.6",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2615.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Thiéry",
+            "length": "2.00",
+            "moyen": "7.15",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2766.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.22165000000000",
+          "44.0708800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col St Martin",
+        "altitude": "1503",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D2205",
+            "length": "16.50",
+            "moyen": "6.19",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1295.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Lantosque",
+            "length": "23.00",
+            "moyen": "4.58",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2195.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.91793000000000",
+          "44.0893500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Valberg",
+        "altitude": "1662",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Guillaumes",
+            "length": "12.00",
+            "moyen": "7.32",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/866.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Guillaumes",
+            "length": "14.60",
+            "moyen": "6.03",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/3031.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.02312000000000",
+          "44.1002400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Couillole",
+        "altitude": "1678",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint sauveur sur tinee",
+            "length": "16.00",
+            "moyen": "7.3",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/350.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Pont du Cians",
+            "length": "29.40",
+            "moyen": "4.56",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/351.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Beuil",
+            "length": "7.20",
+            "moyen": "3.28",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/352.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.23619000000000",
+          "43.9985700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Andrion",
+        "altitude": "1681",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de la Lune",
+            "length": "24.40",
+            "moyen": "5.89",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1294.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Roquebillière",
+            "length": "16.57",
+            "moyen": "6.48",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.41289000000000",
+          "43.9954200000000"
+        ]
+      },
+      "properties": {
+        "name": "Baisse de Tueis",
+        "altitude": "1889",
+        "climbs": [
+          {
+            "done": false,
+            "start": "L'Escarene",
+            "length": "30.20",
+            "moyen": "5.07",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/139.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Breil sur Roya",
+            "length": "26.44",
+            "moyen": "5.93",
+            "max": "0.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.15002000000000",
+          "44.2025300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Lombarde",
+        "altitude": "2350",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Isola",
+            "length": "21.50",
+            "moyen": "6.87",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/304.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Pratolungo",
+            "length": "21.30",
+            "moyen": "6.79",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/353.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.80721600000000",
+          "44.3204590000000"
+        ]
+      },
+      "properties": {
+        "name": "Cime de la Bonette",
+        "altitude": "2802",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Tinee",
+            "length": "25.80",
+            "moyen": "6.4",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/172.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Jausiers",
+            "length": "24.00",
+            "moyen": "6.62",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/173.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.68901300000000",
+          "44.3581140000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Super Sauze",
+        "altitude": "1705",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barcelonnette",
+            "length": "10.40",
+            "moyen": "5.53",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/537.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.15798300000000",
+          "44.1866260000000"
+        ]
+      },
+      "properties": {
+        "name": "Station d'Isola 2000",
+        "altitude": "2010",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Isola",
+            "length": "16.50",
+            "moyen": "6.89",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/547.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.93327400000000",
+          "44.2247050000000"
+        ]
+      },
+      "properties": {
+        "name": "Auron",
+        "altitude": "1652",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Isola",
+            "length": "20.00",
+            "moyen": "3.91",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/1445.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.39996600000000",
+          "44.0738060000000"
+        ]
+      },
+      "properties": {
+        "name": "Vallon de Gordolasque",
+        "altitude": "1800",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lantosque",
+            "length": "22.30",
+            "moyen": "6.07",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/2145.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.34066000000000",
+          "44.1767140000000"
+        ]
+      },
+      "properties": {
+        "name": "Laggo delle Rovine",
+        "altitude": "1520",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valdieri",
+            "length": "14.52",
+            "moyen": "5.14",
+            "max": "10.9",
+            "profil": "https://profils.cols-cyclisme.com/2178.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90866500000000",
+          "43.9881080000000"
+        ]
+      },
+      "properties": {
+        "name": "Auvare",
+        "altitude": "1095",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Puget Theniers",
+            "length": "11.60",
+            "moyen": "5.91",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/2181.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.35592200000000",
+          "44.0954460000000"
+        ]
+      },
+      "properties": {
+        "name": "Madone de Fenestre",
+        "altitude": "1903",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Roquebillière",
+            "length": "21.30",
+            "moyen": "6.14",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2366.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.28292197332760",
+          "44.1144958528209"
+        ]
+      },
+      "properties": {
+        "name": "Le Boréon",
+        "altitude": "1473",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lantosque",
+            "length": "22.80",
+            "moyen": "4.5",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2391.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.06842600000000",
+          "44.0254750000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Sinne",
+        "altitude": "1438",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Cians",
+            "length": "19.80",
+            "moyen": "5.56",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2460.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "D59 / D2205",
+            "length": "14.04",
+            "moyen": "7.24",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2465.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.12747800000000",
+          "43.9820060000000"
+        ]
+      },
+      "properties": {
+        "name": "Bairols",
+        "altitude": "832",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Clans",
+            "length": "7.24",
+            "moyen": "7.47",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2475.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.86704500000000",
+          "44.1209640000000"
+        ]
+      },
+      "properties": {
+        "name": "Bouchanières",
+        "altitude": "1403",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Guillaumes",
+            "length": "8.76",
+            "moyen": "6.95",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2478.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.14951600000000",
+          "43.9964520000000"
+        ]
+      },
+      "properties": {
+        "name": "Clans",
+        "altitude": "683",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Clans",
+            "length": "6.20",
+            "moyen": "6.16",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2479.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83235615682990",
+          "44.3878123396346"
+        ]
+      },
+      "properties": {
+        "name": "Lac des Sagnes",
+        "altitude": "1904",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Jausiers",
+            "length": "12.55",
+            "moyen": "5.29",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.26077200000000",
+          "44.1259930000000"
+        ]
+      },
+      "properties": {
+        "name": "Parking du Salèse",
+        "altitude": "1678",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lantosque",
+            "length": "26.30",
+            "moyen": "4.68",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2577.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.18936100000000",
+          "44.0980430000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Millefonts",
+        "altitude": "2040",
+        "climbs": [
+          {
+            "done": false,
+            "start": "M2205 / M2565",
+            "length": "23.79",
+            "moyen": "6.56",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2599.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.95013914126590",
+          "43.9794938715573"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Barbenière",
+        "altitude": "1477",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D16 / D116",
+            "length": "12.24",
+            "moyen": "8.05",
+            "max": "11.0",
+            "profil": "",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "le Moulin de Rigaud",
+            "length": "17.13",
+            "moyen": "5.86",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83143000000000",
+          "44.1302800000000"
+        ]
+      },
+      "properties": {
+        "name": "Châteauneuf d'Entraunes",
+        "altitude": "1278",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D2202 / D74",
+            "length": "6.38",
+            "moyen": "6.36",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/2984.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.89092000000000",
+          "44.2729500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Anelle",
+        "altitude": "1739",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Tinee",
+            "length": "8.00",
+            "moyen": "7.44",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.91913000000000",
+          "44.1904700000000"
+        ]
+      },
+      "properties": {
+        "name": "Roya",
+        "altitude": "1590",
+        "climbs": [
+          {
+            "done": false,
+            "start": "M2205 / D61",
+            "length": "7.33",
+            "moyen": "7.23",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "mercantour"
+      }
+    }
+  ]
+}

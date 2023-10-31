@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.12594,
+          44.55961
+        ]
+      },
+      "properties": {
+        "name": "Col de Bonnecombe",
+        "climbs": [
+          {
+            "done": true
+          }
+        ],
+        "mountain": "Aubrac"
+      }
+    }
+  ]
+}

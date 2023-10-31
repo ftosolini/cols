@@ -1,0 +1,952 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.59562000000000",
+          "45.5157100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Tra",
+        "altitude": "1308",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pomblière",
+            "length": "12.00",
+            "moyen": "6.74",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/3173.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Aime",
+            "length": "11.80",
+            "moyen": "5.51",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/3192.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.35652000000000",
+          "45.3436600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chaussy",
+        "altitude": "1533",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pontamafrey",
+            "length": "14.00",
+            "moyen": "7.36",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/401.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "La Chambre",
+            "length": "14.40",
+            "moyen": "7.38",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/402.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Hermillon",
+            "length": "15.95",
+            "moyen": "6.35",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2589.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.37570000000000",
+          "45.4352600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Madeleine",
+        "altitude": "1993",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chambre",
+            "length": "19.00",
+            "moyen": "8.01",
+            "max": "13.5",
+            "profil": "https://profils.cols-cyclisme.com/50.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Feissons sur isere",
+            "length": "24.50",
+            "moyen": "6.3",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/344.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "La chambre, via Montgellafrey",
+            "length": "19.80",
+            "moyen": "7.68",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/3112.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.03082000000000",
+          "45.4171400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Iseran",
+        "altitude": "2764",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lanslebourg",
+            "length": "32.90",
+            "moyen": "4.17",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/104.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Bourg Saint Maurice",
+            "length": "48.00",
+            "moyen": "4.07",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/105.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.60166000000000",
+          "45.4050400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Loze",
+        "altitude": "2304",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D915 / D91A",
+            "length": "22.50",
+            "moyen": "6.48",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/3568.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Brides les Bains",
+            "length": "22.44",
+            "moyen": "7.64",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/3612.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83409700000000",
+          "45.5734200000000"
+        ]
+      },
+      "properties": {
+        "name": "Station d'Arc 2000",
+        "altitude": "2130",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Saint Maurice",
+            "length": "26.00",
+            "moyen": "5.06",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/8.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63538800000000",
+          "45.3951940000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Courchevel",
+        "altitude": "2000",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Brides les Bains",
+            "length": "21.70",
+            "moyen": "6.54",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/35.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.66582100000000",
+          "45.5110860000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de La Plagne",
+        "altitude": "2080",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aime",
+            "length": "21.40",
+            "moyen": "6.63",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/38.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.57648200000000",
+          "45.2991270000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Val Thorens",
+        "altitude": "2340",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "36.00",
+            "moyen": "5.17",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/131.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.58120100000000",
+          "45.3741930000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Méribel",
+        "altitude": "1775",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "24.00",
+            "moyen": "5.44",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/185.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.53766500000000",
+          "45.3266090000000"
+        ]
+      },
+      "properties": {
+        "name": "Station des Menuires",
+        "altitude": "1810",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "26.00",
+            "moyen": "5.12",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/187.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.44249300000000",
+          "45.4618920000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Valmorel",
+        "altitude": "1370",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aigueblanche",
+            "length": "14.60",
+            "moyen": "6.27",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/784.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90746400000000",
+          "45.4699470000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Tignes",
+        "altitude": "2092",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Foy Tarentaise",
+            "length": "18.00",
+            "moyen": "5.84",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/785.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69257000000000",
+          "45.3365860000000"
+        ]
+      },
+      "properties": {
+        "name": "Pralognan la Vanoise",
+        "altitude": "1750",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bozel",
+            "length": "20.20",
+            "moyen": "4.41",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1647.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83633800000000",
+          "45.3455630000000"
+        ]
+      },
+      "properties": {
+        "name": "Bellecombe / Plan du lac",
+        "altitude": "2362",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Termignon",
+            "length": "14.00",
+            "moyen": "7.33",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/1831.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81467600000000",
+          "45.5188820000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de La Gura",
+        "altitude": "1640",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Landry",
+            "length": "13.30",
+            "moyen": "6.47",
+            "max": "8.7",
+            "profil": "https://profils.cols-cyclisme.com/2041.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.61039000000000",
+          "45.5086000000000"
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame du Pré",
+        "altitude": "1835",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "20.70",
+            "moyen": "6.55",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/2144.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.36697000000000",
+          "45.3774800000000"
+        ]
+      },
+      "properties": {
+        "name": "Lac du Loup",
+        "altitude": "1540",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chambre",
+            "length": "13.70",
+            "moyen": "7.81",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/2146.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.67261900000000",
+          "45.2292170000000"
+        ]
+      },
+      "properties": {
+        "name": "Refuge de l'Orgère",
+        "altitude": "1933",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Freney",
+            "length": "12.10",
+            "moyen": "7.37",
+            "max": "9.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.57615503300470",
+          "45.2660593794635"
+        ]
+      },
+      "properties": {
+        "name": "Col de Rosael",
+        "altitude": "3000",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Orelle",
+            "length": "20.30",
+            "moyen": "10.39",
+            "max": "17.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.72300220672610",
+          "45.2548979175997"
+        ]
+      },
+      "properties": {
+        "name": "Barrage de Plan d'Amont",
+        "altitude": "2078",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Modane",
+            "length": "14.90",
+            "moyen": "6.85",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.44463175332630",
+          "45.3982641139964"
+        ]
+      },
+      "properties": {
+        "name": "La Sauce",
+        "altitude": "1610",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "18.50",
+            "moyen": "6.11",
+            "max": "9.2",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.40474440475460",
+          "45.2823593361425"
+        ]
+      },
+      "properties": {
+        "name": "Montdenis",
+        "altitude": "1419",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Julien Mont Denis",
+            "length": "10.89",
+            "moyen": "7.08",
+            "max": "0.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.96767434405520",
+          "45.4863905381948"
+        ]
+      },
+      "properties": {
+        "name": "Barrage du Saut",
+        "altitude": "2280",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D902",
+            "length": "5.72",
+            "moyen": "8.22",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46308125396730",
+          "45.2625780591519"
+        ]
+      },
+      "properties": {
+        "name": "Charbutan",
+        "altitude": "1463",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Martin de la Porte",
+            "length": "10.51",
+            "moyen": "7.36",
+            "max": "19.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.55897968804920",
+          "45.4686661133395"
+        ]
+      },
+      "properties": {
+        "name": "Feissons sur Salins",
+        "altitude": "1198",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "10.52",
+            "moyen": "6.84",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71710283624270",
+          "45.5405118787371"
+        ]
+      },
+      "properties": {
+        "name": "Plan Bois",
+        "altitude": "1826",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sangot",
+            "length": "10.35",
+            "moyen": "9.83",
+            "max": "12.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.45059000000000",
+          "45.4955100000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Combelouvière",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Laurent",
+            "length": "11.75",
+            "moyen": "7.05",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/2975.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.64770000000000",
+          "45.4657700000000"
+        ]
+      },
+      "properties": {
+        "name": "La Cour",
+        "altitude": "1529",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bozel",
+            "length": "9.10",
+            "moyen": "7.46",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2976.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63231000000000",
+          "45.5240600000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Plagne Montalbert",
+        "altitude": "1640",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bonnegarde",
+            "length": "12.38",
+            "moyen": "7.49",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/2979.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.55577000000000",
+          "45.4771000000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Feissons",
+        "altitude": "1410",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pomblière",
+            "length": "10.95",
+            "moyen": "8.26",
+            "max": "10.9",
+            "profil": "https://profils.cols-cyclisme.com/2980.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.73960000000000",
+          "45.5237600000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Bauches",
+        "altitude": "1787",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Landry",
+            "length": "14.77",
+            "moyen": "7.01",
+            "max": "10.9",
+            "profil": "https://profils.cols-cyclisme.com/2982.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.47224000000000",
+          "45.2835000000000"
+        ]
+      },
+      "properties": {
+        "name": "La Saussaz",
+        "altitude": "2090",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Martin de la Porte",
+            "length": "14.30",
+            "moyen": "9.02",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/3190.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71152200000000",
+          "45.4307980000000"
+        ]
+      },
+      "properties": {
+        "name": "Plan Fournier",
+        "altitude": "1731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D915",
+            "length": "6.81",
+            "moyen": "7.99",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/3569.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "vanoise"
+      }
+    }
+  ]
+}

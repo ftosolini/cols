@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.87319000000000",
+          "44.1340500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Vernhette",
+        "altitude": "1032",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rome de Tarn",
+            "length": "14.10",
+            "moyen": "5.01",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/927.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.89440000000000",
+          "44.1569600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Poulzinières",
+        "altitude": "1047",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Salles Curan",
+            "length": "11.00",
+            "moyen": "2.25",
+            "max": "0.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.16337000000000",
+          "43.7741500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Homme Mort",
+        "altitude": "670",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Truscas (Avène)",
+            "length": "10.00",
+            "moyen": "4",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.74379000000000",
+          "44.0545000000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Cabal",
+        "altitude": "431",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bruniquel",
+            "length": "7.00",
+            "moyen": "4.71",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.77434000000000",
+          "44.0553300000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Bourres",
+        "altitude": "464",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D87 / D28",
+            "length": "2.00",
+            "moyen": "4.5",
+            "max": "4.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.51662500000000",
+          "43.9038270000000"
+        ]
+      },
+      "properties": {
+        "name": "Cirque de Navacelles - Causse nord",
+        "altitude": "601",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Navacelles",
+            "length": "5.50",
+            "moyen": "4.55",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2219.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.50965200000000",
+          "43.8871300000000"
+        ]
+      },
+      "properties": {
+        "name": "Cirque de Navacelles - Causse sud",
+        "altitude": "610",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Navacelles",
+            "length": "4.00",
+            "moyen": "7",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2296.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "grands-causses"
+      }
+    }
+  ]
+}

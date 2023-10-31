@@ -1,0 +1,562 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.31624000000000",
+          "43.7694800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ayens",
+        "altitude": "1032",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moustiers Sainte Marie",
+            "length": "14.50",
+            "moyen": "3.48",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1688.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.58705000000000",
+          "43.8186300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Luens",
+        "altitude": "1054",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Castellane",
+            "length": "8.40",
+            "moyen": "3.9",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3111.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46391000000000",
+          "43.8653900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Lèque",
+        "altitude": "1146",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Castellane",
+            "length": "9.00",
+            "moyen": "4.76",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/591.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "La Tuiliere",
+            "length": "6.70",
+            "moyen": "5.03",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/592.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63190000000000",
+          "43.8650800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de St Barnabé",
+        "altitude": "1365",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lac de Castillon",
+            "length": "10.50",
+            "moyen": "4.57",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/2213.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Soleilhas",
+            "length": "3.60",
+            "moyen": "6.53",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2214.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Castellane",
+            "length": "16.00",
+            "moyen": "4.05",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2215.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.22718000000000",
+          "43.6634400000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de la Bigue",
+        "altitude": "792",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aups",
+            "length": "4.30",
+            "moyen": "5.65",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/2201.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.62999000000000",
+          "43.7497200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Clavel",
+        "altitude": "1069",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Bastide",
+            "length": "2.00",
+            "moyen": "3",
+            "max": "3.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.66139000000000",
+          "43.7479860000000"
+        ]
+      },
+      "properties": {
+        "name": "Montagne de Lachens",
+        "altitude": "1700",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Clavel",
+            "length": "9.00",
+            "moyen": "7.01",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/953.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Roque Esclapon",
+            "length": "10.18",
+            "moyen": "7.23",
+            "max": "13.8",
+            "profil": "https://profils.cols-cyclisme.com/3133.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.23415592355340",
+          "43.9096554097647"
+        ]
+      },
+      "properties": {
+        "name": "Col de Saint Jurs",
+        "altitude": "1318",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Estoublon",
+            "length": "13.76",
+            "moyen": "5.85",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.27123478097530",
+          "43.7654046332743"
+        ]
+      },
+      "properties": {
+        "name": "Cirque de Vaumale",
+        "altitude": "1202",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Salles sur Verdon",
+            "length": "11.00",
+            "moyen": "6.39",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D71",
+            "length": "5.75",
+            "moyen": "6.43",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3448.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.36598700000000",
+          "43.7563720000000"
+        ]
+      },
+      "properties": {
+        "name": "Collet Barris",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "la route des Crêtes",
+            "length": "7.14",
+            "moyen": "6.9",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Palud sur Verdon",
+            "length": "7.46",
+            "moyen": "6.06",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.31688156634530",
+          "43.8682526687897"
+        ]
+      },
+      "properties": {
+        "name": "Chiran",
+        "altitude": "1905",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D17",
+            "length": "9.58",
+            "moyen": "7.36",
+            "max": "15.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.32336542822260",
+          "43.8401528938111"
+        ]
+      },
+      "properties": {
+        "name": "Les Chauvets",
+        "altitude": "1255",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D23A / D952",
+            "length": "13.69",
+            "moyen": "3.89",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49726342315670",
+          "43.8150974647040"
+        ]
+      },
+      "properties": {
+        "name": "Le Petit Robion",
+        "altitude": "1085",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Castellane",
+            "length": "6.96",
+            "moyen": "5.19",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49729000000000",
+          "43.8890600000000"
+        ]
+      },
+      "properties": {
+        "name": "La Baume",
+        "altitude": "1124",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Castellane",
+            "length": "7.89",
+            "moyen": "4.83",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/3065.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.32991000000000",
+          "43.9040000000000"
+        ]
+      },
+      "properties": {
+        "name": "Coulet de Calasse",
+        "altitude": "1462",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plan d'Asse",
+            "length": "9.20",
+            "moyen": "6.34",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/3066.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D17",
+            "length": "10.95",
+            "moyen": "5.17",
+            "max": "10.9",
+            "profil": "https://profils.cols-cyclisme.com/3200.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.12883965770000",
+          "43.8960969980000"
+        ]
+      },
+      "properties": {
+        "name": "Plateau de Valensole",
+        "altitude": "734",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Bégude Blanche",
+            "length": "4.50",
+            "moyen": "5.51",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/3124.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.50640885630000",
+          "43.9275700361000"
+        ]
+      },
+      "properties": {
+        "name": "Courchons",
+        "altitude": "1294",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint André les Alpes",
+            "length": "7.40",
+            "moyen": "5.53",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/3129.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63425366680000",
+          "43.8851176971000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Vauplane",
+        "altitude": "1607",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Soleilhas",
+            "length": "7.90",
+            "moyen": "6.06",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/3130.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "verdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.29998000000000",
+          "43.5954900000000"
+        ]
+      },
+      "properties": {
+        "name": "Tourtour",
+        "altitude": "657",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villecroze",
+            "length": "6.08",
+            "moyen": "5.23",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3198.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "verdon"
+      }
+    }
+  ]
+}

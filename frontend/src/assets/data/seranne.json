@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.45994000000000",
+          "43.7451200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Vent",
+        "altitude": "703",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arboras",
+            "length": "8.45",
+            "moyen": "5.86",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/1277.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jean de Blaquière",
+            "length": "9.70",
+            "moyen": "5.7",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3117.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "seranne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.54055000000000",
+          "43.7788900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Lavagnes",
+        "altitude": "559",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pégairolles de Buèges",
+            "length": "6.45",
+            "moyen": "5.98",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1227.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Montpeyroux",
+            "length": "13.60",
+            "moyen": "2.99",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3469.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "seranne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.48599000000000",
+          "43.7433220000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Saint-Baudille",
+        "altitude": "840",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Arboras",
+            "length": "13.00",
+            "moyen": "5.12",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2204.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "seranne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.34772500000000",
+          "43.7304340000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Soumont",
+        "altitude": "429",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mas Lavayre",
+            "length": "6.00",
+            "moyen": "4.88",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3197.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "seranne"
+      }
+    }
+  ]
+}

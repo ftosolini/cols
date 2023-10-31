@@ -1,0 +1,2826 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.55291000000000",
+          "46.2621500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Matafelon",
+        "altitude": "475",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Thoirette",
+            "length": "3.60",
+            "moyen": "4.86",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1501.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.49395000000000",
+          "46.1728200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Berthiand",
+        "altitude": "780",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Serrières sur ain",
+            "length": "6.00",
+            "moyen": "7.67",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/665.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Nurieux Volognat",
+            "length": "5.00",
+            "moyen": "5.96",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/1456.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.66730000000000",
+          "46.1964300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Sentier",
+        "altitude": "979",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Oyonnax",
+            "length": "7.32",
+            "moyen": "5.46",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2550.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D1084 / D95",
+            "length": "6.30",
+            "moyen": "6.4",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2551.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.85069000000000",
+          "46.1800600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Menthières",
+        "altitude": "1136",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Confort",
+            "length": "8.00",
+            "moyen": "7.75",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1255.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.01870000000000",
+          "46.3698500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Faucille",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gex",
+            "length": "11.80",
+            "moyen": "5.96",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/587.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Mijoux",
+            "length": "8.50",
+            "moyen": "3.98",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/588.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Morez",
+            "length": "26.80",
+            "moyen": "2.31",
+            "max": "5.9",
+            "profil": "https://profils.cols-cyclisme.com/589.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07250000000000",
+          "46.9014000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chalamont",
+        "altitude": "867",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Salins les Bains",
+            "length": "19.00",
+            "moyen": "2.94",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2552.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90799000000000",
+          "47.2392800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Vierge",
+        "altitude": "962",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Goumois",
+            "length": "8.80",
+            "moyen": "4.53",
+            "max": "5.1",
+            "profil": "https://profils.cols-cyclisme.com/1650.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Hippolyte",
+            "length": "21.70",
+            "moyen": "2.69",
+            "max": "5.6",
+            "profil": "https://profils.cols-cyclisme.com/1651.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.27566000000000",
+          "46.8453500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la République",
+        "altitude": "1003",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D47 / D248",
+            "length": "5.10",
+            "moyen": "3.71",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2428.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.25836000000000",
+          "46.6802700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Landoz-neuve",
+        "altitude": "1235",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mouthe",
+            "length": "10.60",
+            "moyen": "3.07",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/655.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Les Charbonnières",
+            "length": "5.50",
+            "moyen": "3.91",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/1888.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.78689000000000",
+          "46.4625400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Crozatiers",
+        "altitude": "858",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D436 / D470",
+            "length": "14.50",
+            "moyen": "3.44",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/2429.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.00535000000000",
+          "46.5633300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Savine",
+        "altitude": "995",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morez",
+            "length": "6.40",
+            "moyen": "4.36",
+            "max": "5.9",
+            "profil": "https://profils.cols-cyclisme.com/1755.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Champagnole",
+            "length": "25.50",
+            "moyen": "1.78",
+            "max": "5.8",
+            "profil": "https://profils.cols-cyclisme.com/1756.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.79964000000000",
+          "46.2885600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de la Serra",
+        "altitude": "1049",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Claude",
+            "length": "13.50",
+            "moyen": "4.74",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1342.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Germain de Joux",
+            "length": "17.50",
+            "moyen": "3.12",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/2375.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.83591000000000",
+          "46.2784600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sur la Semine",
+        "altitude": "1190",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Molinges",
+            "length": "21.00",
+            "moyen": "3.94",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1800.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13996000000000",
+          "46.0921100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Pitons",
+        "altitude": "1335",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Annemasse",
+            "length": "14.00",
+            "moyen": "6.29",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/195.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Cruseilles",
+            "length": "12.00",
+            "moyen": "4.68",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/196.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Collonges sous Salève",
+            "length": "9.50",
+            "moyen": "8.49",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/646.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "La Muraz",
+            "length": "10.00",
+            "moyen": "6.62",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/1279.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.28425900000000",
+          "47.1721200000000"
+        ]
+      },
+      "properties": {
+        "name": "Montagne de Boujean",
+        "altitude": "928",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bienne",
+            "length": "4.30",
+            "moyen": "11.21",
+            "max": "14.4",
+            "profil": "https://profils.cols-cyclisme.com/3156.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.09023900000000",
+          "46.4555940000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Givrine",
+        "altitude": "1232",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morez",
+            "length": "13.00",
+            "moyen": "3.79",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/674.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Nyon",
+            "length": "21.00",
+            "moyen": "3.9",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1430.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49493000000000",
+          "46.8299800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Étroits",
+        "altitude": "1153",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vuiteboeuf",
+            "length": "12.40",
+            "moyen": "4.46",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/675.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Buttes",
+            "length": "8.00",
+            "moyen": "4.75",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/1929.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "La Gauffre",
+            "length": "13.80",
+            "moyen": "2.44",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/2243.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.25030000000000",
+          "46.5527000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Marchairuz",
+        "altitude": "1449",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Biere",
+            "length": "10.00",
+            "moyen": "7.17",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/676.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Gimel",
+            "length": "12.40",
+            "moyen": "5.84",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/1760.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Brassus",
+            "length": "7.00",
+            "moyen": "5.87",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1761.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.42688400000000",
+          "46.9136130000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Grand Taureau",
+        "altitude": "1323",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pontarlier",
+            "length": "9.70",
+            "moyen": "5.01",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/1036.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.05827100000000",
+          "46.4858100000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Rousses",
+        "altitude": "1105",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morez",
+            "length": "8.80",
+            "moyen": "4.55",
+            "max": "5.9",
+            "profil": "https://profils.cols-cyclisme.com/1037.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.35272300000000",
+          "46.7341830000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Mont d'Or",
+        "altitude": "1415",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Longevilles Mt d'Or",
+            "length": "5.20",
+            "moyen": "9.54",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/1281.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.72000000000000",
+          "47.0511100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Roches",
+        "altitude": "920",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villers le lac",
+            "length": "5.00",
+            "moyen": "4",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1347.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.86972200000000",
+          "47.0727780000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Vue des Alpes",
+        "altitude": "1283",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La chaux de fonds",
+            "length": "5.50",
+            "moyen": "4.36",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1348.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Neuchâtel",
+            "length": "15.30",
+            "moyen": "5.55",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/1930.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.22898500000000",
+          "47.0755910000000"
+        ]
+      },
+      "properties": {
+        "name": "Echevannes",
+        "altitude": "647",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vuillafans",
+            "length": "5.40",
+            "moyen": "5.52",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1666.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.14124400000000",
+          "47.3728040000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix",
+        "altitude": "789",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Ursanne",
+            "length": "4.00",
+            "moyen": "8.78",
+            "max": "13.3",
+            "profil": "https://profils.cols-cyclisme.com/1671.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Courgenay",
+            "length": "4.30",
+            "moyen": "6.49",
+            "max": "13.3",
+            "profil": "https://profils.cols-cyclisme.com/1928.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.82098000000000",
+          "47.2771200000000"
+        ]
+      },
+      "properties": {
+        "name": "Maison Rouge",
+        "altitude": "787",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Hippolyte",
+            "length": "8.40",
+            "moyen": "4.85",
+            "max": "5.6",
+            "profil": "https://profils.cols-cyclisme.com/1672.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.99290400000000",
+          "47.2583970000000"
+        ]
+      },
+      "properties": {
+        "name": "Saignelégier",
+        "altitude": "978",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Goumois",
+            "length": "7.80",
+            "moyen": "6.22",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/1673.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.10747200000000",
+          "46.4255930000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet de la Dôle",
+        "altitude": "1439",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gingins",
+            "length": "11.30",
+            "moyen": "7.94",
+            "max": "11.6",
+            "profil": "https://profils.cols-cyclisme.com/1677.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13254600000000",
+          "46.4327280000000"
+        ]
+      },
+      "properties": {
+        "name": "La Barillette",
+        "altitude": "1528",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gingins",
+            "length": "12.40",
+            "moyen": "7.95",
+            "max": "11.6",
+            "profil": "https://profils.cols-cyclisme.com/1678.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.05937200000000",
+          "47.1330220000000"
+        ]
+      },
+      "properties": {
+        "name": "Chasseral",
+        "altitude": "1607",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Pâquier",
+            "length": "12.80",
+            "moyen": "5.59",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/1679.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Nods",
+            "length": "11.00",
+            "moyen": "6.56",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/1680.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46542700000000",
+          "46.7689640000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet du Suchet",
+        "altitude": "1485",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rances",
+            "length": "9.10",
+            "moyen": "9.45",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1703.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.36594000000000",
+          "46.6498960000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mollendruz",
+        "altitude": "1174",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le pont",
+            "length": "4.60",
+            "moyen": "3.61",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1714.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "L'isle",
+            "length": "9.40",
+            "moyen": "5.36",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/1715.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.46587500000000",
+          "46.7914540000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Aiguillon",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Baulmes",
+            "length": "7.20",
+            "moyen": "9.03",
+            "max": "14.3",
+            "profil": "https://profils.cols-cyclisme.com/1716.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "L'Auberson",
+            "length": "5.80",
+            "moyen": "3.79",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1717.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.79320000000000",
+          "46.9879000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Tourne",
+        "altitude": "1170",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Neuchâtel",
+            "length": "14.60",
+            "moyen": "5.04",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1736.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.31866000000000",
+          "46.5992520000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet du Mont Tendre",
+        "altitude": "1646",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Montricher",
+            "length": "10.10",
+            "moyen": "9.23",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/1745.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.95741500000000",
+          "46.3751160000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Magnard / Lajoux",
+        "altitude": "1172",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Claude",
+            "length": "18.80",
+            "moyen": "3.9",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/1757.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Mijoux",
+            "length": "6.60",
+            "moyen": "3.61",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3175.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.62904200000000",
+          "46.7541280000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Château-Chalon",
+        "altitude": "450",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Voiteur",
+            "length": "4.50",
+            "moyen": "4.11",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1798.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.99600000000000",
+          "47.1325000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Pontins",
+        "altitude": "1110",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Imier",
+            "length": "4.10",
+            "moyen": "8.29",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/1815.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Dombresson",
+            "length": "9.00",
+            "moyen": "4.09",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/1816.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.33693000000000",
+          "46.6853500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mont d'Orzeires",
+        "altitude": "1061",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vallorbe",
+            "length": "5.90",
+            "moyen": "5.15",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/1889.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le pont",
+            "length": "2.20",
+            "moyen": "2.5",
+            "max": "4.8",
+            "profil": "https://profils.cols-cyclisme.com/1890.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.88766100000000",
+          "46.9718710000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Poupet",
+        "altitude": "851",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Salins les Bains",
+            "length": "9.60",
+            "moyen": "5.26",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1891.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.62797900000000",
+          "47.0220550000000"
+        ]
+      },
+      "properties": {
+        "name": "Meix Musy",
+        "altitude": "1123",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morteau",
+            "length": "6.50",
+            "moyen": "5.68",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/1900.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.65618200000000",
+          "47.3576180000000"
+        ]
+      },
+      "properties": {
+        "name": "Passwang",
+        "altitude": "943",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Erschwil",
+            "length": "11.00",
+            "moyen": "4.46",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/2027.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Balsthal",
+            "length": "11.00",
+            "moyen": "4.15",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/2028.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.58182000000000",
+          "47.3357980000000"
+        ]
+      },
+      "properties": {
+        "name": "Scheltenpass",
+        "altitude": "1051",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mervelier",
+            "length": "8.20",
+            "moyen": "6.04",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/2029.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ramiswill",
+            "length": "7.55",
+            "moyen": "5.48",
+            "max": "11.3",
+            "profil": "https://profils.cols-cyclisme.com/2030.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.07844500000000",
+          "46.4010020000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Combe Blanche",
+        "altitude": "1383",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Divonne les bains",
+            "length": "11.83",
+            "moyen": "6.65",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/2150.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.35067500000000",
+          "46.6796550000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet de la Dent de Vaulion",
+        "altitude": "1410",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vaulion",
+            "length": "6.80",
+            "moyen": "7.03",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2173.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.35369500000000",
+          "46.7510700000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Morond",
+        "altitude": "1419",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Métabief",
+            "length": "5.50",
+            "moyen": "8.27",
+            "max": "12.8",
+            "profil": "https://profils.cols-cyclisme.com/2174.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.03935200000000",
+          "47.1898120000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Crosin",
+        "altitude": "1227",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Imier",
+            "length": "5.00",
+            "moyen": "8.24",
+            "max": "10.9",
+            "profil": "https://profils.cols-cyclisme.com/2175.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Les Reussilles",
+            "length": "6.15",
+            "moyen": "3.51",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2176.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.95730876575320",
+          "46.4262439177725"
+        ]
+      },
+      "properties": {
+        "name": "Haut-Crêt",
+        "altitude": "1138",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Claude",
+            "length": "14.20",
+            "moyen": "4.99",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/2548.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.77984599475100",
+          "46.2268947653269"
+        ]
+      },
+      "properties": {
+        "name": "Espace nordique de Giron",
+        "altitude": "1166",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Champfromier",
+            "length": "10.70",
+            "moyen": "5.2",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2549.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.87788200000000",
+          "46.2665180000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Merle",
+        "altitude": "1350",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Claude",
+            "length": "27.60",
+            "moyen": "3.78",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/2564.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.21931000000000",
+          "47.3848690000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Rangiers",
+        "altitude": "856",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Ursanne",
+            "length": "7.10",
+            "moyen": "5.89",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/2594.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Boecourt",
+            "length": "5.40",
+            "moyen": "6.5",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/3168.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Cornol",
+            "length": "6.70",
+            "moyen": "5.01",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/3169.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Develier",
+            "length": "8.21",
+            "moyen": "4.77",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/3794.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.05157300000000",
+          "47.3701150000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montvoie",
+        "altitude": "864",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Porrentruy",
+            "length": "7.00",
+            "moyen": "6.03",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2595.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.50792500000000",
+          "47.2532810000000"
+        ]
+      },
+      "properties": {
+        "name": "Weissenstein",
+        "altitude": "1284",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Solothurn",
+            "length": "8.80",
+            "moyen": "9.53",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2596.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Gänsbrunnen",
+            "length": "5.80",
+            "moyen": "9.52",
+            "max": "15.8",
+            "profil": "https://profils.cols-cyclisme.com/2597.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.53959900000000",
+          "47.2661350000000"
+        ]
+      },
+      "properties": {
+        "name": "Balmberg Passhöhe",
+        "altitude": "1078",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Welschenrohr",
+            "length": "2.90",
+            "moyen": "13.72",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/2598.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.53927100000000",
+          "46.8506400000000"
+        ]
+      },
+      "properties": {
+        "name": "Hôtel du Chasseron",
+        "altitude": "1570",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Croix",
+            "length": "7.70",
+            "moyen": "6.38",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2633.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.85108600000000",
+          "46.5425620000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Joux",
+        "altitude": "1035",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D 28",
+            "length": "10.40",
+            "moyen": "4.63",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2641.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.18276400000000",
+          "46.7578890000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Lancier",
+        "altitude": "1075",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mignovillard",
+            "length": "6.40",
+            "moyen": "3.8",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/2642.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.71781200000000",
+          "46.6610390000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Percée de Chatillon",
+        "altitude": "579",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chatillon",
+            "length": "2.80",
+            "moyen": "4.14",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2670.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.02667900000000",
+          "46.5414690000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Bucle",
+        "altitude": "1000",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morez",
+            "length": "3.70",
+            "moyen": "6.65",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2671.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.70132900000000",
+          "46.4115320000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Cerisier",
+        "altitude": "716",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vouglans",
+            "length": "6.60",
+            "moyen": "5.88",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2674.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.91100000000000",
+          "46.9883100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Coda",
+        "altitude": "575",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chapelle sur Furieuse",
+            "length": "5.90",
+            "moyen": "5.17",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2898.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.93307400000000",
+          "47.1007730000000"
+        ]
+      },
+      "properties": {
+        "name": "Derrière Pertuis",
+        "altitude": "1153",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sonvillier",
+            "length": "7.90",
+            "moyen": "4.62",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2899.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.19388000000000",
+          "47.2098440000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pierre Pertuis",
+        "altitude": "827",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tavannes",
+            "length": "1.50",
+            "moyen": "4.4",
+            "max": "6.7",
+            "profil": "https://profils.cols-cyclisme.com/2903.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.14845900000000",
+          "47.2218480000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Tanne",
+        "altitude": "1007",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tavannes",
+            "length": "4.40",
+            "moyen": "5.75",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2904.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.00694100000000",
+          "47.0962290000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chuffort",
+        "altitude": "1225",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Enges",
+            "length": "9.50",
+            "moyen": "4.97",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/2944.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.99976400000000",
+          "47.0797600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Dame",
+        "altitude": "1217",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Enges",
+            "length": "8.40",
+            "moyen": "4.77",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2945.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.29135200000000",
+          "47.0494080000000"
+        ]
+      },
+      "properties": {
+        "name": "Hautepierre le Châtelet",
+        "altitude": "806",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mouthier Haute Pierre",
+            "length": "5.70",
+            "moyen": "7.11",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2956.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Mouthier Hte Pierre (via les gorges)",
+            "length": "11.40",
+            "moyen": "3.83",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3512.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.34821900000000",
+          "46.6591050000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pétra Félix",
+        "altitude": "1144",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Romainmotier",
+            "length": "12.80",
+            "moyen": "3.73",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3074.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83284600000000",
+          "47.1210460000000"
+        ]
+      },
+      "properties": {
+        "name": "La Chaux de Fonds",
+        "altitude": "1077",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Biaufond",
+            "length": "9.60",
+            "moyen": "4.78",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/3082.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.73308200000000",
+          "47.1023870000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Pissoux",
+        "altitude": "1037",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Barboux",
+            "length": "1.70",
+            "moyen": "10.53",
+            "max": "24.0",
+            "profil": "https://profils.cols-cyclisme.com/3136.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.76378300000000",
+          "47.3518630000000"
+        ]
+      },
+      "properties": {
+        "name": "Ober Hauenstein Passhöhe",
+        "altitude": "731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Balsthal",
+            "length": "7.90",
+            "moyen": "2.96",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/3138.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.13704700000000",
+          "47.1555560000000"
+        ]
+      },
+      "properties": {
+        "name": "Place Centrale",
+        "altitude": "1287",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Orvin",
+            "length": "8.20",
+            "moyen": "7.54",
+            "max": "11.4",
+            "profil": "https://profils.cols-cyclisme.com/3148.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Corgemont",
+            "length": "9.30",
+            "moyen": "6.76",
+            "max": "12.2",
+            "profil": "https://profils.cols-cyclisme.com/3149.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.55291800000000",
+          "47.3084040000000"
+        ]
+      },
+      "properties": {
+        "name": "Mieschegg",
+        "altitude": "1108",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Rossmatte",
+            "length": "6.80",
+            "moyen": "6.63",
+            "max": "19.0",
+            "profil": "https://profils.cols-cyclisme.com/3150.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Welschenrohr",
+            "length": "5.80",
+            "moyen": "7.55",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/3151.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Herbetswil",
+            "length": "7.50",
+            "moyen": "7.99",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/3152.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.59994300000000",
+          "47.2749010000000"
+        ]
+      },
+      "properties": {
+        "name": "Baettlerchuchi",
+        "altitude": "1074",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Attiswil",
+            "length": "7.30",
+            "moyen": "8.33",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3153.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Herbetswil",
+            "length": "6.60",
+            "moyen": "8.08",
+            "max": "11.8",
+            "profil": "https://profils.cols-cyclisme.com/3154.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.52515700000000",
+          "47.3158560000000"
+        ]
+      },
+      "properties": {
+        "name": "Grande Schoenenberg",
+        "altitude": "1062",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Rossmatte",
+            "length": "4.40",
+            "moyen": "9.23",
+            "max": "12.2",
+            "profil": "https://profils.cols-cyclisme.com/3155.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.98369000000000",
+          "47.2710260000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Pommerats",
+        "altitude": "894",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Goumois",
+            "length": "6.20",
+            "moyen": "6.47",
+            "max": "13.6",
+            "profil": "https://profils.cols-cyclisme.com/3157.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.11168700000000",
+          "47.3052180000000"
+        ]
+      },
+      "properties": {
+        "name": "Saint Brais",
+        "altitude": "973",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Ursanne via le Doubs",
+            "length": "12.20",
+            "moyen": "4.38",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/3158.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Ursanne",
+            "length": "11.60",
+            "moyen": "4.6",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/3159.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.39670800000000",
+          "47.2320040000000"
+        ]
+      },
+      "properties": {
+        "name": "Grenchenberg",
+        "altitude": "1353",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Grenchen",
+            "length": "13.80",
+            "moyen": "6.62",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/3160.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Court",
+            "length": "9.20",
+            "moyen": "7.48",
+            "max": "12.8",
+            "profil": "https://profils.cols-cyclisme.com/3161.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.04175800000000",
+          "46.6708030000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Bulay",
+        "altitude": "1104",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Planches en Montagne",
+            "length": "10.80",
+            "moyen": "3.52",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3195.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.20271700000000",
+          "46.5062380000000"
+        ]
+      },
+      "properties": {
+        "name": "Perroude du Vaud",
+        "altitude": "1374",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Vaud",
+            "length": "7.20",
+            "moyen": "7.99",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3372.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Marchissy",
+            "length": "6.70",
+            "moyen": "8.43",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3483.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.35374000000000",
+          "46.6271830000000"
+        ]
+      },
+      "properties": {
+        "name": "Buvette de Châtel",
+        "altitude": "1390",
+        "climbs": [
+          {
+            "done": false,
+            "start": "L'isle",
+            "length": "6.80",
+            "moyen": "9.12",
+            "max": "24.0",
+            "profil": "https://profils.cols-cyclisme.com/3373.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.04807400000000",
+          "47.2886320000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Enfers",
+        "altitude": "955",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Soubey",
+            "length": "7.05",
+            "moyen": "6.79",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/3449.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.05678600000000",
+          "47.3287280000000"
+        ]
+      },
+      "properties": {
+        "name": "Epiquerez",
+        "altitude": "878",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Soubey",
+            "length": "5.70",
+            "moyen": "7.05",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/3450.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.55213400000000",
+          "46.8595580000000"
+        ]
+      },
+      "properties": {
+        "name": "La Grandsonnaz Dessus",
+        "altitude": "1491",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bullet",
+            "length": "6.40",
+            "moyen": "5.41",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3451.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.60960700000000",
+          "46.8549460000000"
+        ]
+      },
+      "properties": {
+        "name": "Mauborget",
+        "altitude": "1196",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Fontaines sur Grandson",
+            "length": "8.00",
+            "moyen": "7.86",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3452.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49098500000000",
+          "46.8683030000000"
+        ]
+      },
+      "properties": {
+        "name": "La Côte aux Fées",
+        "altitude": "1041",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Buttes",
+            "length": "6.10",
+            "moyen": "4.7",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3473.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.68158900000000",
+          "46.9604610000000"
+        ]
+      },
+      "properties": {
+        "name": "Rothel",
+        "altitude": "1091",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Travers",
+            "length": "4.20",
+            "moyen": "8.48",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/3476.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.09365000000000",
+          "46.4114780000000"
+        ]
+      },
+      "properties": {
+        "name": "La Baudichonne",
+        "altitude": "1400",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Rippe",
+            "length": "8.40",
+            "moyen": "9.95",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/3484.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.82056100000000",
+          "47.3622610000000"
+        ]
+      },
+      "properties": {
+        "name": "Passage de la Douleur",
+        "altitude": "796",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Noirefontaine",
+            "length": "9.00",
+            "moyen": "4.8",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3488.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.18940800000000",
+          "46.4942000000000"
+        ]
+      },
+      "properties": {
+        "name": "La Bassine",
+        "altitude": "1276",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Cezille",
+            "length": "10.90",
+            "moyen": "6.34",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/3501.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.28568310000000",
+          "46.5791218000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Cunay",
+        "altitude": "1570",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Biere",
+            "length": "12.40",
+            "moyen": "6.77",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3502.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.41356880000000",
+          "46.6773234000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet Dernier",
+        "altitude": "1290",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Juriens",
+            "length": "5.55",
+            "moyen": "8.94",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/3503.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.40832200000000",
+          "46.8041220000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalet du Mont de l'Herba",
+        "altitude": "1260",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Hôpitaux Neufs",
+            "length": "6.20",
+            "moyen": "4.84",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/3510.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.04270000000000",
+          "46.4594680000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Prémanon",
+        "altitude": "1155",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Doye",
+            "length": "7.70",
+            "moyen": "5.17",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3513.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "jura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.04610321867450",
+          "47.2181457136854"
+        ]
+      },
+      "properties": {
+        "name": "Chapelle des Buis",
+        "altitude": "438",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Besançon",
+            "length": "2.20",
+            "moyen": "8.64",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/3819.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "jura"
+      }
+    }
+  ]
+}

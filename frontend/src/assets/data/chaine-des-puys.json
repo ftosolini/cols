@@ -1,0 +1,649 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.08698000000000",
+          "45.8120400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Chevalard",
+        "altitude": "551",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Clermont Ferrand",
+            "length": "1.80",
+            "moyen": "11.17",
+            "max": "21.0",
+            "profil": "https://profils.cols-cyclisme.com/1689.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Blanzat",
+            "length": "1.80",
+            "moyen": "9",
+            "max": "14.4",
+            "profil": "https://profils.cols-cyclisme.com/1690.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Trémonteix",
+            "length": "2.60",
+            "moyen": "6.42",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/1691.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.98050000000000",
+          "45.8566800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Nugère",
+        "altitude": "860",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Volvic",
+            "length": "5.70",
+            "moyen": "6.49",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/1134.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.96669000000000",
+          "45.6822200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Ventouse",
+        "altitude": "964",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaumont",
+            "length": "16.20",
+            "moyen": "3.15",
+            "max": "5.3",
+            "profil": "https://profils.cols-cyclisme.com/1131.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.97776000000000",
+          "45.8059000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Goules",
+        "altitude": "995",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Clermont Ferrand",
+            "length": "10.40",
+            "moyen": "6.12",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/1132.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chamalières",
+            "length": "13.90",
+            "moyen": "4.14",
+            "max": "6.4",
+            "profil": "https://profils.cols-cyclisme.com/1133.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.94897000000000",
+          "45.7415000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Moréno",
+        "altitude": "1062",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ceyssat",
+            "length": "6.20",
+            "moyen": "4.13",
+            "max": "5.8",
+            "profil": "https://profils.cols-cyclisme.com/1046.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.95563000000000",
+          "45.7638900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Ceyssat",
+        "altitude": "1078",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Royat",
+            "length": "9.60",
+            "moyen": "6.48",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1045.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.70867000000000",
+          "45.5648100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Soeur",
+        "altitude": "1149",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Tour d'Auvergne",
+            "length": "7.00",
+            "moyen": "4.43",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/819.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.82066000000000",
+          "45.6207200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Guéry",
+        "altitude": "1268",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Orcival",
+            "length": "8.40",
+            "moyen": "4.51",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1438.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.82258000000000",
+          "45.4976200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Geneste",
+        "altitude": "1372",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D203 / D30",
+            "length": "10.20",
+            "moyen": "2.95",
+            "max": "4.2",
+            "profil": "https://profils.cols-cyclisme.com/1531.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Besse en Chandesse",
+            "length": "11.80",
+            "moyen": "2.72",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/1759.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.85152000000000",
+          "45.5966700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Morand",
+        "altitude": "1401",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lac Chambon",
+            "length": "10.50",
+            "moyen": "4.87",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/595.svg",
+            "category": 2
+          },
+          {
+            "done": true,
+            "start": "D983",
+            "length": "4.50",
+            "moyen": "4.6",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/596.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.83681000000000",
+          "45.5640200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Saint Robert",
+        "altitude": "1451",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Mont Dore",
+            "length": "6.30",
+            "moyen": "6.05",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/597.svg",
+            "category": 2
+          },
+          {
+            "done": true,
+            "start": "Murol",
+            "length": "14.00",
+            "moyen": "4.04",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/598.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.96328300000000",
+          "45.7708880000000"
+        ]
+      },
+      "properties": {
+        "name": "Puy de Dome",
+        "altitude": "1412",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Panoramique des domes",
+            "length": "4.00",
+            "moyen": "11.95",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/71.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.75805600000000",
+          "45.6081590000000"
+        ]
+      },
+      "properties": {
+        "name": "La Banne d'Ordanche",
+        "altitude": "1318",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Bourboule",
+            "length": "7.30",
+            "moyen": "6.41",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1083.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.85964000000000",
+          "45.5085520000000"
+        ]
+      },
+      "properties": {
+        "name": "Super Besse",
+        "altitude": "1325",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Besse en Chandesse",
+            "length": "7.20",
+            "moyen": "3.96",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/1758.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.77567910083010",
+          "45.5345653410211"
+        ]
+      },
+      "properties": {
+        "name": "Station de Chastreix-Sancy",
+        "altitude": "1414",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D203 / D615",
+            "length": "8.50",
+            "moyen": "4.8",
+            "max": "8.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.07034058377080",
+          "45.4404663866322"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Liste",
+        "altitude": "1131",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ardes",
+            "length": "9.10",
+            "moyen": "5.84",
+            "max": "10.5",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.12277679929200",
+          "45.5705976258800"
+        ]
+      },
+      "properties": {
+        "name": "Mont Bessou",
+        "altitude": "975",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Meymac",
+            "length": "4.76",
+            "moyen": "6.16",
+            "max": "15.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.84257102154540",
+          "45.4714871762651"
+        ]
+      },
+      "properties": {
+        "name": "Suc au May",
+        "altitude": "902",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Boulou",
+            "length": "9.91",
+            "moyen": "3.82",
+            "max": "7.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.48325195758060",
+          "45.3958882919551"
+        ]
+      },
+      "properties": {
+        "name": "Pylône des Orgues",
+        "altitude": "784",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bort les Orgues",
+            "length": "5.06",
+            "moyen": "6.52",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.73565100000000",
+          "45.5453620000000"
+        ]
+      },
+      "properties": {
+        "name": "Puy de Chambourguet",
+        "altitude": "1210",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Tour d'Auvergne",
+            "length": "5.00",
+            "moyen": "5.4",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/2788.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.12627400000000",
+          "45.7209840000000"
+        ]
+      },
+      "properties": {
+        "name": "Plateau de Gergovie",
+        "altitude": "708",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Roche Blanche",
+            "length": "6.30",
+            "moyen": "4.65",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/2853.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Romagnat",
+            "length": "6.50",
+            "moyen": "4.02",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2854.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Chanonat",
+            "length": "6.00",
+            "moyen": "3.67",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2855.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.88527000000000",
+          "45.5498300000000"
+        ]
+      },
+      "properties": {
+        "name": "Rocher de l'Aigle",
+        "altitude": "1192",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Chambon sur lac",
+            "length": "6.50",
+            "moyen": "4.65",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3185.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "chaine-des-puys"
+      }
+    }
+  ]
+}
