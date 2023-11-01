@@ -1,0 +1,634 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.44295000000000",
+          "45.7256900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Forclaz de Queige",
+        "altitude": "871",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Queige",
+            "length": "4.70",
+            "moyen": "7.96",
+            "max": "11.7",
+            "profil": "https://profils.cols-cyclisme.com/710.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ugine",
+            "length": "5.60",
+            "moyen": "8.25",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/932.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.52770000000000",
+          "45.5144500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pradier",
+        "altitude": "1456",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "13.00",
+            "moyen": "7.51",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/3462.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Villette",
+            "length": "14.20",
+            "moyen": "5.96",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/3475.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63337000000000",
+          "45.6947100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Méraillet",
+        "altitude": "1605",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "11.80",
+            "moyen": "7.31",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/319.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.59794000000000",
+          "45.6902500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pré",
+        "altitude": "1703",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lac de Roselend",
+            "length": "3.20",
+            "moyen": "5.25",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/397.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "12.20",
+            "moyen": "7.89",
+            "max": "11.4",
+            "profil": "https://profils.cols-cyclisme.com/398.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69068000000000",
+          "45.6912800000000"
+        ]
+      },
+      "properties": {
+        "name": "Cormet de Roselend",
+        "altitude": "1968",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Saint Maurice",
+            "length": "19.30",
+            "moyen": "5.98",
+            "max": "8.9",
+            "profil": "https://profils.cols-cyclisme.com/147.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "20.30",
+            "moyen": "6.04",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/148.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.67411000000000",
+          "45.7838900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Joly",
+        "altitude": "1989",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "23.50",
+            "moyen": "5.29",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/302.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "La Pierre",
+            "length": "26.50",
+            "moyen": "4.86",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/303.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.53338300000000",
+          "45.7612700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Saisies",
+        "altitude": "1657",
+        "climbs": [
+          {
+            "done": false,
+            "start": "L'Arly",
+            "length": "14.10",
+            "moyen": "6.52",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/54.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Flumet",
+            "length": "14.80",
+            "moyen": "5.05",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/55.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D925 / D218",
+            "length": "15.00",
+            "moyen": "6.38",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/635.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.50673500000000",
+          "45.7472410000000"
+        ]
+      },
+      "properties": {
+        "name": "Signal de Bisanne",
+        "altitude": "1930",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villard sur Doron",
+            "length": "14.40",
+            "moyen": "8.51",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/305.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "L'Arcy",
+            "length": "20.40",
+            "moyen": "7.37",
+            "max": "12.7",
+            "profil": "https://profils.cols-cyclisme.com/306.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Col des Saisies",
+            "length": "5.00",
+            "moyen": "6.12",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/709.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Queige",
+            "length": "17.30",
+            "moyen": "8.06",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1698.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "L'Isle",
+            "length": "30.50",
+            "moyen": "5.02",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3765.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.43555200000000",
+          "45.6828220000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Cyclotouristes",
+        "altitude": "1330",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Albertville",
+            "length": "12.80",
+            "moyen": "7.67",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/788.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Bonnecine",
+            "length": "11.80",
+            "moyen": "6.24",
+            "max": "12.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.47439300000000",
+          "45.6465670000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Dormiaz",
+        "altitude": "1585",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Bathie",
+            "length": "15.20",
+            "moyen": "7.99",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1026.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.60275800000000",
+          "45.6171620000000"
+        ]
+      },
+      "properties": {
+        "name": "Cormet d'Arêches",
+        "altitude": "2107",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "19.30",
+            "moyen": "7.08",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1149.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Aime",
+            "length": "19.00",
+            "moyen": "7.89",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1546.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.58088500000000",
+          "45.6510160000000"
+        ]
+      },
+      "properties": {
+        "name": "Barrage de Saint-Guerin",
+        "altitude": "1600",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaufort",
+            "length": "12.00",
+            "moyen": "7.08",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/1259.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.52323120629880",
+          "45.5593640629609"
+        ]
+      },
+      "properties": {
+        "name": "Grand Naves",
+        "altitude": "1316",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Grand Coeur",
+            "length": "15.55",
+            "moyen": "5.34",
+            "max": "14.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Aigueblanche",
+            "length": "15.30",
+            "moyen": "6.04",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.42163200000000",
+          "45.6998140000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montessuit",
+        "altitude": "640",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D 118",
+            "length": "3.90",
+            "moyen": "7.67",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2672.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D 925",
+            "length": "1.70",
+            "moyen": "7.88",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.49314754998770",
+          "45.6269389635608"
+        ]
+      },
+      "properties": {
+        "name": "Bénétant",
+        "altitude": "1207",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cevins",
+            "length": "11.04",
+            "moyen": "7.42",
+            "max": "12.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.54949889947510",
+          "45.5311693789261"
+        ]
+      },
+      "properties": {
+        "name": "Chalets de la Faverge",
+        "altitude": "1764",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moutiers",
+            "length": "16.50",
+            "moyen": "7.78",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/2768.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.57455657406620",
+          "45.5747056819027"
+        ]
+      },
+      "properties": {
+        "name": "La Bagnaz",
+        "altitude": "2180",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villette",
+            "length": "14.17",
+            "moyen": "10.16",
+            "max": "13.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.74206000000000",
+          "45.6382800000000"
+        ]
+      },
+      "properties": {
+        "name": "Fort de la Platte",
+        "altitude": "1950",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Saint Maurice",
+            "length": "13.39",
+            "moyen": "8.32",
+            "max": "16.8",
+            "profil": "https://profils.cols-cyclisme.com/2978.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.61853000000000",
+          "45.6169330000000"
+        ]
+      },
+      "properties": {
+        "name": "Plan Pichu",
+        "altitude": "1945",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aime",
+            "length": "18.14",
+            "moyen": "6.97",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3613.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "beaufortin"
+      }
+    }
+  ]
+}

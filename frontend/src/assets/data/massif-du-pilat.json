@@ -1,0 +1,696 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.69731000000000",
+          "45.4766200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Grenouze",
+        "altitude": "624",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Chapelle Villard",
+            "length": "4.50",
+            "moyen": "4.84",
+            "max": "5.5",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Rive de Gier",
+            "length": "14.00",
+            "moyen": "2.78",
+            "max": "4.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Sainte Croix En Jarez",
+            "length": "6.00",
+            "moyen": "3.4",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/986.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Condrieu",
+            "length": "8.09",
+            "moyen": "5.71",
+            "max": "17.0",
+            "profil": "https://profils.cols-cyclisme.com/2887.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.61965000000000",
+          "45.4604200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix du Mazet",
+        "altitude": "650",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sainte Croix En Jarez",
+            "length": "4.40",
+            "moyen": "5.3",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.67839000000000",
+          "45.4644900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pavezin",
+        "altitude": "651",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rive de Gier",
+            "length": "15.00",
+            "moyen": "2.11",
+            "max": "4.0",
+            "profil": "https://profils.cols-cyclisme.com/979.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Pélussin",
+            "length": "10.50",
+            "moyen": "2.22",
+            "max": "4.0",
+            "profil": "",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "La Terrasse sur Dorlay",
+            "length": "11.50",
+            "moyen": "1.71",
+            "max": "4.0",
+            "profil": "",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "D19",
+            "length": "5.50",
+            "moyen": "4.82",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Sainte Croix En Jarez",
+            "length": "6.00",
+            "moyen": "3.85",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.59853000000000",
+          "45.3102500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Banchet",
+        "altitude": "673",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Pierre de Boeuf",
+            "length": "17.50",
+            "moyen": "3.05",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1010.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.63244000000000",
+          "45.4451800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Montvieux",
+        "altitude": "811",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pélussin",
+            "length": "8.50",
+            "moyen": "4.62",
+            "max": "5.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "La Terrasse sur Dorlay",
+            "length": "8.00",
+            "moyen": "4.46",
+            "max": "5.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54864000000000",
+          "45.4157800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix du Planil",
+        "altitude": "847",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Chamond",
+            "length": "10.00",
+            "moyen": "4.83",
+            "max": "6.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Izieux",
+            "length": "12.00",
+            "moyen": "3.76",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/996.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "La Grand Croix",
+            "length": "14.00",
+            "moyen": "3.8",
+            "max": "5.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56570000000000",
+          "45.2700200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Burdignes",
+        "altitude": "893",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "5.80",
+            "moyen": "6.16",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1539.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.45765000000000",
+          "45.2532800000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Tracol",
+        "altitude": "1023",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Riotord",
+            "length": "6.00",
+            "moyen": "2.5",
+            "max": "5.0",
+            "profil": "",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "11.70",
+            "moyen": "4.23",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/942.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48034000000000",
+          "45.3327300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Bois",
+        "altitude": "1161",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne",
+            "length": "17.00",
+            "moyen": "3.79",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/501.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "12.00",
+            "moyen": "5.22",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/967.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.52830000000000",
+          "45.3678700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Chaubouret",
+        "altitude": "1201",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne",
+            "length": "16.00",
+            "moyen": "3.82",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/500.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Chamond",
+            "length": "15.80",
+            "moyen": "5.31",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/946.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "13.90",
+            "moyen": "4.72",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/1397.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.61593000000000",
+          "45.3886000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Oeillon",
+        "altitude": "1234",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chavanay",
+            "length": "20.00",
+            "moyen": "5.4",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/129.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Malleval (D503 / D79)",
+            "length": "22.60",
+            "moyen": "4.54",
+            "max": "11.4",
+            "profil": "https://profils.cols-cyclisme.com/2646.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Terrasse sur Dorlay",
+            "length": "15.20",
+            "moyen": "5.74",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2649.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.75594000000000",
+          "45.5365600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Bourrin",
+        "altitude": "471",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Condrieu",
+            "length": "12.80",
+            "moyen": "2.45",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1338.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Loire sur Rhône",
+            "length": "5.60",
+            "moyen": "5.54",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3838.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.70895000000000",
+          "45.4955900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chassenoud",
+        "altitude": "557",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Condrieu",
+            "length": "8.00",
+            "moyen": "5.19",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1339.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Rive de Gier",
+            "length": "11.48",
+            "moyen": "2.78",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2645.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.72177000000000",
+          "45.5153100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pilon",
+        "altitude": "408",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Treves",
+            "length": "7.40",
+            "moyen": "2.66",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3847.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Condrieu",
+            "length": "9.20",
+            "moyen": "2.83",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3848.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.40583626452630",
+          "45.3901378902312"
+        ]
+      },
+      "properties": {
+        "name": "Le Guizay",
+        "altitude": "865",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne",
+            "length": "4.00",
+            "moyen": "6.15",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/2528.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.74355956567390",
+          "45.5223305870500"
+        ]
+      },
+      "properties": {
+        "name": "Croix Régis",
+        "altitude": "503",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Loire sur Rhône",
+            "length": "8.85",
+            "moyen": "3.92",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48059168034460",
+          "45.2985715172291"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Caille",
+        "altitude": "1182",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg Argental",
+            "length": "11.73",
+            "moyen": "5.46",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/2644.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43681901635740",
+          "45.3676905127939"
+        ]
+      },
+      "properties": {
+        "name": "Croix du Trève",
+        "altitude": "1040",
+        "climbs": [
+          {
+            "done": false,
+            "start": "la Ricamarie",
+            "length": "11.30",
+            "moyen": "3.91",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2647.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.78511235430910",
+          "45.5197762811564"
+        ]
+      },
+      "properties": {
+        "name": "Le Girard",
+        "altitude": "486",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ampuis",
+            "length": "5.46",
+            "moyen": "5.97",
+            "max": "11.8",
+            "profil": "https://profils.cols-cyclisme.com/2651.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.74460600000000",
+          "45.3358820000000"
+        ]
+      },
+      "properties": {
+        "name": "Charnas",
+        "altitude": "336",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Serrières",
+            "length": "3.00",
+            "moyen": "6.57",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/2784.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du pilat"
+      }
+    }
+  ]
+}

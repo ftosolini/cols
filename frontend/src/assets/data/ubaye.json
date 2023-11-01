@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.34854000000000",
+          "44.4880700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pontis",
+        "altitude": "1301",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Ubaye",
+            "length": "5.00",
+            "moyen": "10.12",
+            "max": "17.8",
+            "profil": "https://profils.cols-cyclisme.com/535.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Savines le Lac",
+            "length": "4.40",
+            "moyen": "8.09",
+            "max": "17.8",
+            "profil": "https://profils.cols-cyclisme.com/536.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.89857000000000",
+          "44.4218100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Larche",
+        "altitude": "1991",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Gleizolles",
+            "length": "16.10",
+            "moyen": "4.24",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/348.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vinadio",
+            "length": "31.70",
+            "moyen": "3.43",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/349.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.70278000000000",
+          "44.5389400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Vars",
+        "altitude": "2108",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Gleizolles",
+            "length": "14.10",
+            "moyen": "5.66",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/92.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Guillestre",
+            "length": "19.40",
+            "moyen": "5.73",
+            "max": "8.7",
+            "profil": "https://profils.cols-cyclisme.com/93.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.56938000000000",
+          "44.5935400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Coche",
+        "altitude": "1791",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint André d'Embrun",
+            "length": "12.28",
+            "moyen": "6.97",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1832.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.64611000000000",
+          "44.4883300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Parpaillon",
+        "altitude": "2650",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Condamine Chatelard",
+            "length": "17.20",
+            "moyen": "7.93",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/149.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Embrun",
+            "length": "27.90",
+            "moyen": "6.34",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/150.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.55676700000000",
+          "44.4942840000000"
+        ]
+      },
+      "properties": {
+        "name": "Station des Orres",
+        "altitude": "1650",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Embrun",
+            "length": "17.70",
+            "moyen": "4.41",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/186.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63344000000000",
+          "44.6226190000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Risoul 1850",
+        "altitude": "1850",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Guillestre",
+            "length": "14.00",
+            "moyen": "6.07",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/347.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.84234700000000",
+          "44.5928260000000"
+        ]
+      },
+      "properties": {
+        "name": "Maljasset",
+        "altitude": "1915",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Jausiers",
+            "length": "27.40",
+            "moyen": "2.54",
+            "max": "10.7",
+            "profil": "https://profils.cols-cyclisme.com/958.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.80079300000000",
+          "44.5254850000000"
+        ]
+      },
+      "properties": {
+        "name": "Fouillouze",
+        "altitude": "1907",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Paul sur Ubaye",
+            "length": "8.00",
+            "moyen": "5.88",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.48969300000000",
+          "44.4376490000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Famouras",
+        "altitude": "2140",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Fresquière Méollans",
+            "length": "11.00",
+            "moyen": "10.45",
+            "max": "19.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63800100000000",
+          "44.5968300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Valbelle",
+        "altitude": "2372",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Embrun",
+            "length": "25.00",
+            "moyen": "6.08",
+            "max": "10.5",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.85851100000000",
+          "44.4728840000000"
+        ]
+      },
+      "properties": {
+        "name": "Fort de Viraysse",
+        "altitude": "2765",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Gleizolles",
+            "length": "15.00",
+            "moyen": "10",
+            "max": "18.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71998000000000",
+          "44.4676230000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Sainte Anne la Condamine",
+        "altitude": "1840",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Condamine Châtelard",
+            "length": "6.00",
+            "moyen": "9.33",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1568.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.95484400000000",
+          "44.3586570000000"
+        ]
+      },
+      "properties": {
+        "name": "Ferrere",
+        "altitude": "1892",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bersezio",
+            "length": "6.00",
+            "moyen": "4.62",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/2177.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "ubaye"
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.65700000000000",
+          "45.0264600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Echelle",
+        "altitude": "1762",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Vachette",
+            "length": "17.00",
+            "moyen": "2.3",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/396.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Bardonecchia",
+            "length": "8.80",
+            "moyen": "5.41",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/428.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.72345000000000",
+          "44.9309500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montgenevre",
+        "altitude": "1850",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Vachette",
+            "length": "7.73",
+            "moyen": "6.39",
+            "max": "7.7",
+            "profil": "https://profils.cols-cyclisme.com/793.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Cesana Torinese",
+            "length": "8.30",
+            "moyen": "6.02",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/947.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.61111000000000",
+          "44.9629200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Granon",
+        "altitude": "2404",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Briançon",
+            "length": "16.70",
+            "moyen": "7.19",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/122.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Val des Pres",
+            "length": "15.30",
+            "moyen": "6.59",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/123.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.52855800000000",
+          "45.0579290000000"
+        ]
+      },
+      "properties": {
+        "name": "Chalets de Laval",
+        "altitude": "2030",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Nevache",
+            "length": "11.00",
+            "moyen": "4",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/945.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.75111000000000",
+          "44.9644400000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Chaberton",
+        "altitude": "3136",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cesanna (Fenils)",
+            "length": "18.00",
+            "moyen": "10",
+            "max": "0.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.47076500000000",
+          "45.0852390000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Rochilles",
+        "altitude": "2500",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valloire",
+            "length": "15.00",
+            "moyen": "6.67",
+            "max": "13.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.64704900000000",
+          "44.9118590000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Toulouse",
+        "altitude": "1962",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Briançon",
+            "length": "6.30",
+            "moyen": "9.87",
+            "max": "12.3",
+            "profil": "https://profils.cols-cyclisme.com/2149.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "cerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81451200000000",
+          "45.0179750000000"
+        ]
+      },
+      "properties": {
+        "name": "Vazon",
+        "altitude": "1660",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Oulx",
+            "length": "7.52",
+            "moyen": "9.79",
+            "max": "15.7",
+            "profil": "https://profils.cols-cyclisme.com/2179.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "cerces"
+      }
+    }
+  ]
+}

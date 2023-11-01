@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.45654000000000",
+          "43.2398100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Gineste",
+        "altitude": "326",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marseille",
+            "length": "5.40",
+            "moyen": "4.56",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/867.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif des calanques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.59172000000000",
+          "43.2368200000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas d'Ouillier",
+        "altitude": "340",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cassis",
+            "length": "6.00",
+            "moyen": "5.05",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2052.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif des calanques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.55580700000000",
+          "43.2011470000000"
+        ]
+      },
+      "properties": {
+        "name": "Corniche des Crêtes",
+        "altitude": "380",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cassis",
+            "length": "5.00",
+            "moyen": "7.6",
+            "max": "30.0",
+            "profil": "https://profils.cols-cyclisme.com/1556.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Ciotat",
+            "length": "4.45",
+            "moyen": "7.42",
+            "max": "23.0",
+            "profil": "https://profils.cols-cyclisme.com/3013.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "massif des calanques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.67163000000000",
+          "43.2344200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Caunet",
+        "altitude": "394",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Ciotat",
+            "length": "8.50",
+            "moyen": "4.42",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2815.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif des calanques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.84860000000000",
+          "43.2182400000000"
+        ]
+      },
+      "properties": {
+        "name": "Rochers de l'Aigle",
+        "altitude": "520",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Beausset",
+            "length": "4.84",
+            "moyen": "7.13",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/3209.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "massif des calanques"
+      }
+    }
+  ]
+}

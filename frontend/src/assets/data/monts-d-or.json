@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.79343000000000",
+          "45.8427700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Presles",
+        "altitude": "527",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Albigny sur saone",
+            "length": "6.60",
+            "moyen": "5.35",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/262.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Vaise (Lyon)",
+            "length": "6.70",
+            "moyen": "5.03",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/298.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts d or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.78029000000000",
+          "45.8467700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Verdun",
+        "altitude": "585",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Limonest",
+            "length": "2.80",
+            "moyen": "5.68",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/1875.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Albigny sur saone",
+            "length": "8.50",
+            "moyen": "4.73",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1876.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts d or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.79781700000000",
+          "45.8415830000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Thou",
+        "altitude": "600",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint romain",
+            "length": "6.20",
+            "moyen": "6.87",
+            "max": "14.5",
+            "profil": "https://profils.cols-cyclisme.com/1870.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Couzon",
+            "length": "6.80",
+            "moyen": "6.25",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/1871.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Albigny sur saone",
+            "length": "9.70",
+            "moyen": "4.3",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/1880.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts d or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.82041200000000",
+          "45.8228200000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Cindre",
+        "altitude": "475",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vaise (Lyon)",
+            "length": "5.90",
+            "moyen": "4.83",
+            "max": "6.4",
+            "profil": "https://profils.cols-cyclisme.com/1877.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint romain",
+            "length": "6.20",
+            "moyen": "4.85",
+            "max": "14.5",
+            "profil": "https://profils.cols-cyclisme.com/1878.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Paul Bocuse",
+            "length": "5.70",
+            "moyen": "5.26",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/1879.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts d or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.78073300000000",
+          "45.8488810000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Verdun",
+        "altitude": "608",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chasselay",
+            "length": "7.40",
+            "moyen": "5.14",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/1881.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Albigny sur saone",
+            "length": "8.30",
+            "moyen": "5.12",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1882.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "monts d or"
+      }
+    }
+  ]
+}

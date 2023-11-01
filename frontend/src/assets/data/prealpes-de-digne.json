@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13037000000000",
+          "44.0739100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Trisson",
+        "altitude": "691",
+        "climbs": [
+          {
+            "done": false,
+            "start": "RN 85",
+            "length": "3.30",
+            "moyen": "4.67",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1833.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.16419000000000",
+          "44.3747600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Sagnes",
+        "altitude": "1182",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bresiers",
+            "length": "8.00",
+            "moyen": "4.38",
+            "max": "7.5",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "D951",
+            "length": "17.70",
+            "moyen": "3.1",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/971.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.14723000000000",
+          "44.2152500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontbelle",
+        "altitude": "1304",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sisteron",
+            "length": "25.50",
+            "moyen": "3.25",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/1007.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Thoard",
+            "length": "11.00",
+            "moyen": "5",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2583.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.32841000000000",
+          "44.3272200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Fanget",
+        "altitude": "1459",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Seynes les Alpes",
+            "length": "4.50",
+            "moyen": "6.67",
+            "max": "10.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Dignes les Bains",
+            "length": "27.50",
+            "moyen": "3.07",
+            "max": "13.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.23773000000000",
+          "44.4000100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Garcinets",
+        "altitude": "1185",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D 900b",
+            "length": "15.60",
+            "moyen": "3.28",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/552.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Espinasses",
+            "length": "12.50",
+            "moyen": "4.3",
+            "max": "6.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.08206000000000",
+          "44.4341250000000"
+        ]
+      },
+      "properties": {
+        "name": "Urtis les Marmets",
+        "altitude": "1158",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Curbans",
+            "length": "8.00",
+            "moyen": "6.68",
+            "max": "14.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.13050600000000",
+          "44.0640140000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Vieil Aiglun",
+        "altitude": "772",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aiglun",
+            "length": "3.60",
+            "moyen": "6.86",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/2584.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.29780900000000",
+          "44.3467940000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Chabanon",
+        "altitude": "1590",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Selonnet",
+            "length": "7.25",
+            "moyen": "7.31",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/2638.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.14508000000000",
+          "44.1112400000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Bonnet",
+        "altitude": "866",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Augiers",
+            "length": "6.83",
+            "moyen": "4.54",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/3062.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.11132000000000",
+          "43.9933400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Espinouse",
+        "altitude": "838",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D12 / D8",
+            "length": "6.26",
+            "moyen": "5.53",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/3063.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "prealpes de digne"
+      }
+    }
+  ]
+}

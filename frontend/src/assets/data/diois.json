@@ -1,0 +1,702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.46250000000000",
+          "44.4265900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Fromagère",
+        "altitude": "1072",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Charce",
+            "length": "7.50",
+            "moyen": "6.07",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1002.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Rosans",
+            "length": "7.00",
+            "moyen": "5.8",
+            "max": "6.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.57044000000000",
+          "44.4320300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Tourettes",
+        "altitude": "1126",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de La Saulce",
+            "length": "3.30",
+            "moyen": "7.55",
+            "max": "9.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Serre Boyer",
+            "length": "4.90",
+            "moyen": "6.04",
+            "max": "9.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.59839000000000",
+          "44.5496200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Cabre",
+        "altitude": "1180",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaurieres",
+            "length": "9.00",
+            "moyen": "4.74",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/879.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Pierre d'Argençon",
+            "length": "11.20",
+            "moyen": "3.6",
+            "max": "7.7",
+            "profil": "https://profils.cols-cyclisme.com/2290.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.65404000000000",
+          "44.5005200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Carabès",
+        "altitude": "1261",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sigottier",
+            "length": "10.50",
+            "moyen": "5.15",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/992.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Valdrôme",
+            "length": "9.70",
+            "moyen": "4.91",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/2289.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.17592000000000",
+          "44.4617600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Valouse",
+        "altitude": "735",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Pailette",
+            "length": "8.80",
+            "moyen": "2.88",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/991.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.21613000000000",
+          "44.4890700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col la Sausse",
+        "altitude": "791",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Ferréol Trente Pas",
+            "length": "11.00",
+            "moyen": "3.74",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/739.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.24864000000000",
+          "44.5078400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Lescou",
+        "altitude": "829",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Crupies",
+            "length": "10.50",
+            "moyen": "3.29",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/1006.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.24607000000000",
+          "44.5315300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Muse",
+        "altitude": "932",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Nazaire le desert",
+            "length": "7.50",
+            "moyen": "4.93",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3834.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.41365000000000",
+          "44.5515500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Prémol",
+        "altitude": "964",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Luc en Diois",
+            "length": "11.00",
+            "moyen": "3.91",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "La Charce",
+            "length": "10.00",
+            "moyen": "3.46",
+            "max": "6.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.29519000000000",
+          "44.4822700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Pertie",
+        "altitude": "972",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villeperdrix",
+            "length": "9.00",
+            "moyen": "6.56",
+            "max": "11.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.31925000000000",
+          "44.5180100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chamauche",
+        "altitude": "1037",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Motte Chalancon",
+            "length": "9.50",
+            "moyen": "5.17",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3833.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.34268000000000",
+          "44.6446100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pennes",
+        "altitude": "1040",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Benoit en Diois",
+            "length": "12.50",
+            "moyen": "5.21",
+            "max": "10.2",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Barnave",
+            "length": "8.00",
+            "moyen": "5.75",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/749.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.20155000000000",
+          "44.6268500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Chaudière",
+        "altitude": "1047",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saillans",
+            "length": "11.50",
+            "moyen": "6.72",
+            "max": "8.7",
+            "profil": "https://profils.cols-cyclisme.com/638.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Bourdeaux",
+            "length": "10.90",
+            "moyen": "5.8",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/848.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.65404000000000",
+          "44.6914600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Grimone",
+        "altitude": "1318",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N75 / D539",
+            "length": "4.40",
+            "moyen": "5.64",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/562.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Chatillon en Diois",
+            "length": "22.10",
+            "moyen": "3.38",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/563.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.60253000000000",
+          "44.7572500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Menée (Tunnel)",
+        "altitude": "1402",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D75",
+            "length": "12.90",
+            "moyen": "4.43",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/970.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Menée",
+            "length": "15.20",
+            "moyen": "5.04",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2288.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.26077000000000",
+          "44.4547900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chaudebonne",
+        "altitude": "763",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D94 / D567",
+            "length": "12.00",
+            "moyen": "3.28",
+            "max": "12.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.35011209588630",
+          "44.7440645124428"
+        ]
+      },
+      "properties": {
+        "name": "Croix de Justin",
+        "altitude": "988",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Die",
+            "length": "7.11",
+            "moyen": "8.28",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/2346.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.30895628076180",
+          "44.6638134310434"
+        ]
+      },
+      "properties": {
+        "name": "Rimon et Savel",
+        "altitude": "998",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Benoit en Diois",
+            "length": "15.29",
+            "moyen": "4.57",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2351.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.13269000000000",
+          "44.5334000000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Vesc",
+        "altitude": "750",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Crupies",
+            "length": "6.90",
+            "moyen": "4.22",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3187.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.22439000000000",
+          "44.4200100000000"
+        ]
+      },
+      "properties": {
+        "name": "Eyroles",
+        "altitude": "591",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Ferréol Trente Pas",
+            "length": "2.60",
+            "moyen": "6.77",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3188.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.07702000000000",
+          "44.6624200000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Lauzens",
+        "altitude": "504",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aouste sur Scye",
+            "length": "6.90",
+            "moyen": "4.3",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3189.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.08945100000000",
+          "44.5622950000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pertuis",
+        "altitude": "626",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Dieulefit",
+            "length": "4.90",
+            "moyen": "4.63",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3437.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Felines sur Rimandoules",
+            "length": "4.60",
+            "moyen": "5.67",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3438.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "diois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.11810500000000",
+          "44.5608280000000"
+        ]
+      },
+      "properties": {
+        "name": "Champ Rond",
+        "altitude": "705",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Crupies",
+            "length": "6.60",
+            "moyen": "3.76",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Bourdeaux",
+            "length": "4.80",
+            "moyen": "6.21",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3440.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "diois"
+      }
+    }
+  ]
+}

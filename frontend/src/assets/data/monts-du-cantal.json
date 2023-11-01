@@ -1,0 +1,476 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.54744000000000",
+          "45.0498200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Bruel",
+        "altitude": "1020",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vercuere",
+            "length": "3.50",
+            "moyen": "6.57",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.56227000000000",
+          "45.2639600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Besseyre",
+        "altitude": "1048",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Riom es montagnes",
+            "length": "8.00",
+            "moyen": "2.56",
+            "max": "8.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.89044000000000",
+          "44.9460700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Puy de Renel",
+        "altitude": "1075",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rochebrune",
+            "length": "4.60",
+            "moyen": "4.22",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.81562000000000",
+          "45.1462200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Entremont",
+        "altitude": "1184",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Dienne",
+            "length": "2.90",
+            "moyen": "5.48",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/1043.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Murat",
+            "length": "7.00",
+            "moyen": "4.21",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2277.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.58899000000000",
+          "45.1919800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Aulac",
+        "altitude": "1228",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Trizac",
+            "length": "9.00",
+            "moyen": "3.33",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1051.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Falgoux",
+            "length": "5.60",
+            "moyen": "5.57",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/3825.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.57944000000000",
+          "45.0705000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Legal",
+        "altitude": "1231",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vercuere",
+            "length": "8.50",
+            "moyen": "4.98",
+            "max": "7.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.59230000000000",
+          "45.1548100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Néronne",
+        "altitude": "1241",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Salers",
+            "length": "8.70",
+            "moyen": "3.36",
+            "max": "4.6",
+            "profil": "https://profils.cols-cyclisme.com/345.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.67352000000000",
+          "45.0579400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pertus",
+        "altitude": "1309",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mandailles",
+            "length": "4.60",
+            "moyen": "8.35",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1749.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Jacques des Blats",
+            "length": "5.75",
+            "moyen": "5.43",
+            "max": "9.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.81437000000000",
+          "45.0847000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Molède",
+        "altitude": "1329",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Murat",
+            "length": "8.00",
+            "moyen": "8.54",
+            "max": "14.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.70200000000000",
+          "45.1305000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Serre",
+        "altitude": "1335",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cheylade",
+            "length": "11.50",
+            "moyen": "3.28",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/354.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.81833000000000",
+          "45.0187900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Grifoul",
+        "altitude": "1338",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lustrande",
+            "length": "5.50",
+            "moyen": "6.76",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2255.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.79375000000000",
+          "45.0530700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Prat de Bouc",
+        "altitude": "1396",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Murat",
+            "length": "8.20",
+            "moyen": "6.16",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/1047.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Sagnette",
+            "length": "3.10",
+            "moyen": "6.32",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2242.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pignou",
+            "length": "10.90",
+            "moyen": "4.61",
+            "max": "9.8",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.66215000000000",
+          "45.1042300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Redondet",
+        "altitude": "1531",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mandailles",
+            "length": "11.30",
+            "moyen": "5.21",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/355.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.67178000000000",
+          "45.1140400000000"
+        ]
+      },
+      "properties": {
+        "name": "Pas de Peyrol",
+        "altitude": "1588",
+        "climbs": [
+          {
+            "done": true,
+            "start": "Salers",
+            "length": "20.50",
+            "moyen": "3.1",
+            "max": "12.8",
+            "profil": "https://profils.cols-cyclisme.com/74.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Mandailles",
+            "length": "13.30",
+            "moyen": "4.86",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/75.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Dienne",
+            "length": "12.40",
+            "moyen": "4.3",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/76.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Cheylade",
+            "length": "16.80",
+            "moyen": "3.6",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/77.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.75337400000000",
+          "45.0846720000000"
+        ]
+      },
+      "properties": {
+        "name": "Super Lioran",
+        "altitude": "1330",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Murat",
+            "length": "14.60",
+            "moyen": "2.81",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/1592.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Thiézac",
+            "length": "11.90",
+            "moyen": "4.43",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/1593.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts du cantal"
+      }
+    }
+  ]
+}

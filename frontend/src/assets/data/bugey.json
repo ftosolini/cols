@@ -1,0 +1,1342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.46245000000000",
+          "46.0558600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montratier",
+        "altitude": "500",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Préau",
+            "length": "3.90",
+            "moyen": "5.64",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/1499.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.44153000000000",
+          "45.9809500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Nivolet",
+        "altitude": "602",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rambert en Bugey",
+            "length": "5.90",
+            "moyen": "5.29",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/1490.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Jean le Vieux",
+            "length": "8.00",
+            "moyen": "4.48",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/3822.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.51406000000000",
+          "46.1308600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Ceignes",
+        "altitude": "646",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cerdon",
+            "length": "7.00",
+            "moyen": "4.77",
+            "max": "0.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.40584000000000",
+          "45.8799400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fay",
+        "altitude": "680",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Sorlin en Bugey",
+            "length": "8.30",
+            "moyen": "5.42",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/654.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Torcieu",
+            "length": "14.60",
+            "moyen": "3.76",
+            "max": "7.7",
+            "profil": "https://profils.cols-cyclisme.com/1498.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Vaux en Bugey",
+            "length": "9.80",
+            "moyen": "4.03",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/2405.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.57273000000000",
+          "45.7594200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Fosses",
+        "altitude": "745",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Appregnin",
+            "length": "6.45",
+            "moyen": "5.4",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3777.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.48598000000000",
+          "45.9644300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Evosges",
+        "altitude": "758",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rambert en Bugey",
+            "length": "9.70",
+            "moyen": "4.73",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/1489.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Tenay",
+            "length": "10.30",
+            "moyen": "3.86",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3816.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.48261000000000",
+          "46.0205900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Cendrier",
+        "altitude": "793",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rambert en Bugey",
+            "length": "11.00",
+            "moyen": "4.48",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1493.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.50280000000000",
+          "46.0980600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Sappel",
+        "altitude": "794",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vieu d'Izenave",
+            "length": "4.50",
+            "moyen": "3.27",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/1500.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Cerdon",
+            "length": "7.60",
+            "moyen": "6.14",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1517.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.50337000000000",
+          "45.9993700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Pezieres",
+        "altitude": "810",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Rambert en Bugey",
+            "length": "12.00",
+            "moyen": "4.17",
+            "max": "0.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.55112000000000",
+          "45.9946700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Berche",
+        "altitude": "864",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Jujurieux",
+            "length": "19.00",
+            "moyen": "2.97",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1492.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.56295000000000",
+          "46.0249700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Cruchon",
+        "altitude": "903",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Corcelles",
+            "length": "1.80",
+            "moyen": "3.33",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1496.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.61967000000000",
+          "45.9190200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Lèbe",
+        "altitude": "914",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Artemare",
+            "length": "12.50",
+            "moyen": "5.25",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/1439.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.65628000000000",
+          "46.0579100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Cheminée",
+        "altitude": "925",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Petit Abergement",
+            "length": "4.30",
+            "moyen": "3.6",
+            "max": "5.8",
+            "profil": "https://profils.cols-cyclisme.com/1495.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.58289000000000",
+          "45.8761600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Ballon",
+        "altitude": "942",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tenay",
+            "length": "12.50",
+            "moyen": "4.82",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1491.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Virieu le Grand",
+            "length": "13.41",
+            "moyen": "4.81",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2470.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.56899000000000",
+          "46.0441700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pisseloup",
+        "altitude": "968",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Outriaz",
+            "length": "4.70",
+            "moyen": "5.62",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1497.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Corcelles",
+            "length": "1.65",
+            "moyen": "7.21",
+            "max": "9.5",
+            "profil": "https://profils.cols-cyclisme.com/3845.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.63831000000000",
+          "46.1279200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Colliard",
+        "altitude": "979",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Neyrolles",
+            "length": "6.50",
+            "moyen": "7.14",
+            "max": "0.0",
+            "profil": "https://profils.cols-cyclisme.com/1494.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.48327000000000",
+          "45.8589200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Portes",
+        "altitude": "1005",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Sorlin en Bugey",
+            "length": "18.00",
+            "moyen": "4.83",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/652.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Serrières de Briord",
+            "length": "12.20",
+            "moyen": "6.39",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/994.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Rambert en Bugey",
+            "length": "16.00",
+            "moyen": "4.52",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3828.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.74838000000000",
+          "46.0083000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Richemond",
+        "altitude": "1036",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lochieu",
+            "length": "11.50",
+            "moyen": "3.7",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/315.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Bellegarde",
+            "length": "18.30",
+            "moyen": "3.69",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/316.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Hotonnes",
+            "length": "8.50",
+            "moyen": "3.95",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/1319.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.64693000000000",
+          "46.1108800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Belle Roche",
+        "altitude": "1056",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Nantua",
+            "length": "12.20",
+            "moyen": "4.73",
+            "max": "9.4",
+            "profil": "https://profils.cols-cyclisme.com/1447.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ruffieu",
+            "length": "15.80",
+            "moyen": "2.09",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1864.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.62198000000000",
+          "46.0321300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Cuvillat",
+        "altitude": "1073",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Champdor",
+            "length": "4.00",
+            "moyen": "6.2",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/1035.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Petit Abergement",
+            "length": "4.90",
+            "moyen": "6.18",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/1861.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.63953000000000",
+          "45.9839500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Rochette",
+        "altitude": "1112",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ruffieu",
+            "length": "6.20",
+            "moyen": "6.16",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/1034.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Hauteville Lompnes",
+            "length": "5.80",
+            "moyen": "5.12",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/1318.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.68379000000000",
+          "46.1181900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bérentin",
+        "altitude": "1144",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Grand Abergement",
+            "length": "11.60",
+            "moyen": "2.79",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/1448.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Nantua",
+            "length": "15.10",
+            "moyen": "4.4",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1862.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Voute",
+            "length": "11.80",
+            "moyen": "5.41",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/1863.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.63516000000000",
+          "45.9573200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Mazière",
+        "altitude": "1151",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cormaranche en Bugey",
+            "length": "5.02",
+            "moyen": "5.54",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3817.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.72563000000000",
+          "46.1150100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Cuvery",
+        "altitude": "1178",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bellegarde sur Valserine",
+            "length": "14.40",
+            "moyen": "5.65",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1449.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Le Grand Abergement",
+            "length": "14.20",
+            "moyen": "2.5",
+            "max": "5.8",
+            "profil": "https://profils.cols-cyclisme.com/1887.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.74891000000000",
+          "45.9523600000000"
+        ]
+      },
+      "properties": {
+        "name": "Golet de la Biche",
+        "altitude": "1310",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gignez",
+            "length": "13.80",
+            "moyen": "6.94",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1044.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Artemare",
+            "length": "20.50",
+            "moyen": "5.2",
+            "max": "11.8",
+            "profil": "https://profils.cols-cyclisme.com/1058.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.76176000000000",
+          "45.9034200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Colombier",
+        "altitude": "1498",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Artemare, via Virieu-le-Petit",
+            "length": "15.90",
+            "moyen": "7.83",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/155.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Artemare, via Lochieu",
+            "length": "20.50",
+            "moyen": "6.08",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/156.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Anglefort",
+            "length": "15.20",
+            "moyen": "7.93",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/157.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Culoz",
+            "length": "18.30",
+            "moyen": "6.86",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/158.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Lochieu",
+            "length": "12.30",
+            "moyen": "7.32",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1407.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.73134000000000",
+          "45.5934600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Crusille",
+        "altitude": "576",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Genix sur Guiers",
+            "length": "10.30",
+            "moyen": "3.5",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/512.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Novalaise",
+            "length": "3.50",
+            "moyen": "4.37",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/513.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.73418000000000",
+          "45.5659400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Banchet",
+        "altitude": "590",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Bridoire",
+            "length": "7.15",
+            "moyen": "4.57",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2190.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.84738000000000",
+          "45.6928000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Chat",
+        "altitude": "633",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Bourget du Lac",
+            "length": "7.20",
+            "moyen": "5.67",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/511.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Yenne",
+            "length": "8.90",
+            "moyen": "4.53",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/860.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.87460000000000",
+          "45.7769300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Chambotte",
+        "altitude": "650",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La biolle",
+            "length": "6.70",
+            "moyen": "3.93",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/870.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Chindrieux",
+            "length": "5.00",
+            "moyen": "8.32",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/871.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.72504000000000",
+          "45.6090200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Lattaz",
+        "altitude": "754",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gerbaix",
+            "length": "2.67",
+            "moyen": "6.59",
+            "max": "19.2",
+            "profil": "https://profils.cols-cyclisme.com/2065.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint-Genix-les-Villages",
+            "length": "9.00",
+            "moyen": "5.67",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3840.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.70954000000000",
+          "45.6337100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mont Tournier",
+        "altitude": "821",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Genix sur Guiers",
+            "length": "11.20",
+            "moyen": "5.55",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2189.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ameysin",
+            "length": "10.11",
+            "moyen": "5.65",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2432.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.86916000000000",
+          "45.8248500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Sapenay",
+        "altitude": "897",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chindrieux",
+            "length": "7.80",
+            "moyen": "7.59",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/872.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La biolle",
+            "length": "13.90",
+            "moyen": "3.64",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/873.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.87771000000000",
+          "45.8472000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Clergeon",
+        "altitude": "979",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ruffieux",
+            "length": "8.70",
+            "moyen": "8.32",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1062.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Rumilly",
+            "length": "15.37",
+            "moyen": "4.93",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2507.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82361000000000",
+          "45.5805400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Epine",
+        "altitude": "987",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Novalaise",
+            "length": "8.00",
+            "moyen": "6.96",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/399.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chambery",
+            "length": "15.60",
+            "moyen": "4.6",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/400.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82148200000000",
+          "45.6599860000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont du Chat",
+        "altitude": "1504",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Bourget du Lac",
+            "length": "14.30",
+            "moyen": "8.85",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/142.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Yenne",
+            "length": "17.00",
+            "moyen": "7.44",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/143.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "D921 / D41A",
+            "length": "14.13",
+            "moyen": "7.2",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/2454.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.71316900000000",
+          "46.0457280000000"
+        ]
+      },
+      "properties": {
+        "name": "Les Bergonnes (Plans d'Hotonnes)",
+        "altitude": "1143",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Grand Abergement",
+            "length": "6.50",
+            "moyen": "4.92",
+            "max": "6.7",
+            "profil": "https://profils.cols-cyclisme.com/2244.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82107523834220",
+          "45.7550548412082"
+        ]
+      },
+      "properties": {
+        "name": "Ontex",
+        "altitude": "720",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lucey",
+            "length": "6.78",
+            "moyen": "7.18",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2431.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.62969369807290",
+          "45.9550586524855"
+        ]
+      },
+      "properties": {
+        "name": "Planachat",
+        "altitude": "1234",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sutrieu",
+            "length": "8.93",
+            "moyen": "7.01",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/2463.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Cormaranche en Bugey",
+            "length": "4.33",
+            "moyen": "7.74",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/3815.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.60871023822030",
+          "45.8436927745713"
+        ]
+      },
+      "properties": {
+        "name": "Egieu",
+        "altitude": "858",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rossillon",
+            "length": "8.18",
+            "moyen": "6.21",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2464.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "bugey"
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.59338000000000",
+          "44.0467900000000"
+        ]
+      },
+      "properties": {
+        "name": "Colle St. Michel",
+        "altitude": "1431",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Annot",
+            "length": "16.70",
+            "moyen": "4.44",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1795.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Thorame Haute",
+            "length": "10.00",
+            "moyen": "3.5",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69791000000000",
+          "44.1751100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Champs",
+        "altitude": "2093",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Colmars",
+            "length": "12.00",
+            "moyen": "7.02",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/125.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Martin",
+            "length": "16.20",
+            "moyen": "6.49",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/126.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.59426000000000",
+          "44.2971800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Allos",
+        "altitude": "2247",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barcelonnette",
+            "length": "17.50",
+            "moyen": "6.33",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/113.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Colmars",
+            "length": "22.50",
+            "moyen": "4.48",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/114.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.69801000000000",
+          "44.2456140000000"
+        ]
+      },
+      "properties": {
+        "name": "Lac d'Allos",
+        "altitude": "2110",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allos",
+            "length": "10.60",
+            "moyen": "6.57",
+            "max": "16.0",
+            "profil": "https://profils.cols-cyclisme.com/1787.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.71381400000000",
+          "44.0153800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Fa",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D660 / D902",
+            "length": "9.30",
+            "moyen": "8.23",
+            "max": "13.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.63024000000000",
+          "43.9584800000000"
+        ]
+      },
+      "properties": {
+        "name": "Colle Basse",
+        "altitude": "1471",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Annot",
+            "length": "9.85",
+            "moyen": "7.86",
+            "max": "14.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.48935743371580",
+          "43.9762906029912"
+        ]
+      },
+      "properties": {
+        "name": "Mont Chalvet",
+        "altitude": "1533",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint André les Alpes",
+            "length": "6.75",
+            "moyen": "9.16",
+            "max": "14.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.78039800000000",
+          "44.0395780000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Villars",
+        "altitude": "1255",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Daluis",
+            "length": "6.52",
+            "moyen": "9.16",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2591.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83490655819700",
+          "44.0879828999625"
+        ]
+      },
+      "properties": {
+        "name": "Sauze",
+        "altitude": "1320",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Guillaumes",
+            "length": "8.04",
+            "moyen": "6.44",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81733000000000",
+          "44.0625200000000"
+        ]
+      },
+      "properties": {
+        "name": "Villeplane",
+        "altitude": "1215",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D2202",
+            "length": "7.85",
+            "moyen": "4.99",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2983.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.76990000000000",
+          "44.1066300000000"
+        ]
+      },
+      "properties": {
+        "name": "Enaux",
+        "altitude": "1420",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villeneuve d'Entraunes",
+            "length": "6.71",
+            "moyen": "7.3",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/3055.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.61378304760730",
+          "43.9194096650380"
+        ]
+      },
+      "properties": {
+        "name": "Col de Toutes Aures",
+        "altitude": "1120",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Scaffarels",
+            "length": "10.60",
+            "moyen": "4.39",
+            "max": "7.7",
+            "profil": "https://profils.cols-cyclisme.com/3131.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "pelat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.70055787365710",
+          "43.9845377754530"
+        ]
+      },
+      "properties": {
+        "name": "Braux",
+        "altitude": "937",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N202 / D110",
+            "length": "7.07",
+            "moyen": "4.21",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/3140.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "pelat"
+      }
+    }
+  ]
+}

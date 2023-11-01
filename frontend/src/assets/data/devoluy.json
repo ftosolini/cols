@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.08125000000000",
+          "44.6140600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Bayard",
+        "altitude": "1248",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gap",
+            "length": "7.50",
+            "moyen": "6.84",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/85.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "La Fare en Champsaur",
+            "length": "7.00",
+            "moyen": "4.03",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1282.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.85788000000000",
+          "44.6666200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Festre",
+        "altitude": "1441",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Madeleine",
+            "length": "14.40",
+            "moyen": "4.1",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2155.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Barrage du Sautet",
+            "length": "22.10",
+            "moyen": "2.93",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2771.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.98486000000000",
+          "44.6922500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Noyer",
+        "altitude": "1664",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Noyer",
+            "length": "7.50",
+            "moyen": "8.21",
+            "max": "14.5",
+            "profil": "https://profils.cols-cyclisme.com/199.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Disdier",
+            "length": "14.50",
+            "moyen": "4.25",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/200.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pont de Giers (via le Pin)",
+            "length": "6.60",
+            "moyen": "6.42",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2229.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.04814000000000",
+          "44.6225800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Gleize",
+        "altitude": "1696",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col Bayard",
+            "length": "4.50",
+            "moyen": "9.96",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1283.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.93500000000000",
+          "44.6269400000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Bure",
+        "altitude": "2709",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rioupes",
+            "length": "19.00",
+            "moyen": "7.11",
+            "max": "14.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.93274400000000",
+          "44.6750470000000"
+        ]
+      },
+      "properties": {
+        "name": "Super Dévoluy",
+        "altitude": "1474",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Disdier",
+            "length": "10.40",
+            "moyen": "4",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/2273.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "devoluy"
+      }
+    }
+  ]
+}

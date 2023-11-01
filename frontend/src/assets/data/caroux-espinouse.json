@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.03862000000000",
+          "43.6936900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Layrac",
+        "altitude": "765",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Graissessac",
+            "length": "9.20",
+            "moyen": "4.53",
+            "max": "8.1",
+            "profil": "https://profils.cols-cyclisme.com/1543.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.03969000000000",
+          "43.6306000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pierre Plantée",
+        "altitude": "509",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Gervais sur Mare",
+            "length": "3.70",
+            "moyen": "4.49",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/2444.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Taussac la Billière",
+            "length": "5.80",
+            "moyen": "4.53",
+            "max": "5.7",
+            "profil": "https://profils.cols-cyclisme.com/2445.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.05577000000000",
+          "43.6387000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Très Vents",
+        "altitude": "580",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Hérépian",
+            "length": "8.00",
+            "moyen": "5",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/868.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.05007000000000",
+          "43.6103900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Princes",
+        "altitude": "588",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Poujol sur Orb",
+            "length": "6.60",
+            "moyen": "6.33",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2441.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Lamalou les bains",
+            "length": "5.70",
+            "moyen": "6.81",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2442.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.02038000000000",
+          "43.6186000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Madale",
+        "altitude": "691",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Gervais sur Mare",
+            "length": "6.60",
+            "moyen": "5.27",
+            "max": "7.6",
+            "profil": "https://profils.cols-cyclisme.com/2439.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Le Poujol sur Orb",
+            "length": "9.60",
+            "moyen": "5.43",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2440.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.96186000000000",
+          "43.6852500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Mounis",
+        "altitude": "808",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Andabre",
+            "length": "6.80",
+            "moyen": "6.56",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1554.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.75585000000000",
+          "43.5338700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Cabaretou",
+        "altitude": "941",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Riols",
+            "length": "11.60",
+            "moyen": "5.61",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1545.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Pons de Thomières",
+            "length": "10.00",
+            "moyen": "6.16",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2218.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.83984000000000",
+          "43.5988100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontfroide",
+        "altitude": "972",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Olargues",
+            "length": "11.80",
+            "moyen": "6.61",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1544.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.80271000000000",
+          "43.5828300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Bane",
+        "altitude": "1003",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Fraisse sur Agout",
+            "length": "3.10",
+            "moyen": "7.26",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/2443.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.94169000000000",
+          "43.6530800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Espinouse",
+        "altitude": "1119",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plaisance",
+            "length": "22.50",
+            "moyen": "3.81",
+            "max": "11.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "caroux-espinouse"
+      }
+    }
+  ]
+}

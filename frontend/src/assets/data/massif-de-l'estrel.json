@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.79441000000000",
+          "43.5015400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Testanier",
+        "altitude": "311",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Napoule",
+            "length": "15.40",
+            "moyen": "1.99",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1337.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif de l'estrel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90558900000000",
+          "43.4765290000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de l'Ours",
+        "altitude": "469",
+        "climbs": [
+          {
+            "done": false,
+            "start": "lac de Grenouillet",
+            "length": "10.90",
+            "moyen": "4.16",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/3094.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D6098",
+            "length": "9.70",
+            "moyen": "4.66",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/3095.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D559",
+            "length": "15.09",
+            "moyen": "2.86",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3415.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif de l'estrel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.81727688118900",
+          "43.5025873200000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Vinaigre",
+        "altitude": "553",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Fréjus",
+            "length": "8.00",
+            "moyen": "6.05",
+            "max": "9.6",
+            "profil": "https://profils.cols-cyclisme.com/3096.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Col du Testanier",
+            "length": "4.00",
+            "moyen": "6.03",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3196.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif de l'estrel"
+      }
+    }
+  ]
+}

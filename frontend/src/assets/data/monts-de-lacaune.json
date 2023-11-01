@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.62731000000000",
+          "43.7875200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Peyronnenc",
+        "altitude": "879",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint sernin sur rance",
+            "length": "15.20",
+            "moyen": "3.8",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2223.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "monts de lacaune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.61195000000000",
+          "43.6895700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Bassine",
+        "altitude": "885",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Viane",
+            "length": "7.70",
+            "moyen": "4.74",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2250.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "monts de lacaune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.73916900000000",
+          "43.6797920000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Montalet",
+        "altitude": "1209",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lacaune les Bains",
+            "length": "7.50",
+            "moyen": "5.25",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2247.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Nages",
+            "length": "4.80",
+            "moyen": "8.19",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2248.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "monts de lacaune"
+      }
+    }
+  ]
+}

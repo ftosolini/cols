@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.90082000000000",
+          "45.2599100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Mont Cenis",
+        "altitude": "2081",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lanslebourg",
+            "length": "9.80",
+            "moyen": "6.96",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/87.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Susa",
+            "length": "30.50",
+            "moyen": "5.18",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/88.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.84638900000000",
+          "45.1355560000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Sommeiller",
+        "altitude": "3009",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bardonecchia",
+            "length": "26.00",
+            "moyen": "6.58",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/650.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.73446500000000",
+          "45.0845390000000"
+        ]
+      },
+      "properties": {
+        "name": "Fregiusia - Jafferau",
+        "altitude": "1908",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bardonecchia",
+            "length": "5.40",
+            "moyen": "11.54",
+            "max": "14.5",
+            "profil": "https://profils.cols-cyclisme.com/1729.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.68051601593020",
+          "45.1622577230514"
+        ]
+      },
+      "properties": {
+        "name": "Puits d'aération du tunnel de Fréjus",
+        "altitude": "1960",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Modane",
+            "length": "15.10",
+            "moyen": "5.99",
+            "max": "12.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.83155186285400",
+          "45.1931816351589"
+        ]
+      },
+      "properties": {
+        "name": "Ferme d'Etache",
+        "altitude": "1946",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bramans",
+            "length": "10.70",
+            "moyen": "6.74",
+            "max": "12.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.91378894978030",
+          "45.2009108481638"
+        ]
+      },
+      "properties": {
+        "name": "Fort de Malamot",
+        "altitude": "2915",
+        "climbs": [
+          {
+            "done": false,
+            "start": "le barrage de Mont Cenis",
+            "length": "9.10",
+            "moyen": "10.36",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/2504.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.84285175159300",
+          "45.0656756225043"
+        ]
+      },
+      "properties": {
+        "name": "Fort Pramand",
+        "altitude": "2098",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Salbertrand (SS24)",
+            "length": "10.11",
+            "moyen": "10.04",
+            "max": "15.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.67366190111080",
+          "45.1307772418714"
+        ]
+      },
+      "properties": {
+        "name": "Col du Fréjus",
+        "altitude": "2540",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Modane",
+            "length": "19.56",
+            "moyen": "7.48",
+            "max": "12.5",
+            "profil": "https://profils.cols-cyclisme.com/2770.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "massif du mont cenis"
+      }
+    }
+  ]
+}

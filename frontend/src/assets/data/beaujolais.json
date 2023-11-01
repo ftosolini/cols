@@ -1,0 +1,1845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.32962865945870",
+          "46.1321686110069"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Buche",
+        "altitude": "683",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cours la Ville",
+            "length": "1.50",
+            "moyen": "4.67",
+            "max": "5.5",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.42543000000000",
+          "46.1492900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Aillets",
+        "altitude": "715",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamure sur Azergues",
+            "length": "15.40",
+            "moyen": "2.16",
+            "max": "6.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.34583000000000",
+          "45.9155100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pin Bouchain",
+        "altitude": "759",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tarare",
+            "length": "10.00",
+            "moyen": "3.84",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.40886000000000",
+          "46.1370300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Ecorbans",
+        "altitude": "825",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lamure sur Azergues",
+            "length": "16.00",
+            "moyen": "2.93",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.36399000000000",
+          "45.8550100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Casard",
+        "altitude": "864",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tarare",
+            "length": "11.00",
+            "moyen": "4.34",
+            "max": "6.2",
+            "profil": "https://profils.cols-cyclisme.com/1008.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64435000000000",
+          "46.1064100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Brouilly",
+        "altitude": "333",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Quincié-en-Beaujolais, D37",
+            "length": "1.80",
+            "moyen": "5.94",
+            "max": "8.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64237000000000",
+          "46.1791300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Truges",
+        "altitude": "480",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villié Morgon",
+            "length": "4.40",
+            "moyen": "4.91",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1186.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.57262000000000",
+          "46.2760200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de l'Orme",
+        "altitude": "493",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Germolles sur Grosne",
+            "length": "2.80",
+            "moyen": "5.04",
+            "max": "7.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64835000000000",
+          "46.1925000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Durbize",
+        "altitude": "543",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaujeu",
+            "length": "9.90",
+            "moyen": "2.6",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/279.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "7.70",
+            "moyen": "3.9",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/280.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.39179000000000",
+          "46.2370500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Cépée",
+        "altitude": "550",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D10 / D66",
+            "length": "3.30",
+            "moyen": "2.64",
+            "max": "8.8",
+            "profil": "https://profils.cols-cyclisme.com/285.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.69488000000000",
+          "46.2919700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Grange du Bois",
+        "altitude": "523",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Verand, la roche",
+            "length": "6.50",
+            "moyen": "4.51",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.55734000000000",
+          "46.0702000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pierre Plate",
+        "altitude": "593",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Perréon",
+            "length": "4.60",
+            "moyen": "6.61",
+            "max": "10.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43930000000000",
+          "45.9161700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Paquet",
+        "altitude": "598",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Clément sur Valsonne",
+            "length": "2.10",
+            "moyen": "10",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2425.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.57473000000000",
+          "46.0268700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Vieille Morte",
+        "altitude": "597",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Rivolet",
+            "length": "8.80",
+            "moyen": "3.18",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/289.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.66028000000000",
+          "46.2610500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Gerbey",
+        "altitude": "612",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Julienas",
+            "length": "7.30",
+            "moyen": "4.79",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "6.50",
+            "moyen": "5.54",
+            "max": "11.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.64336000000000",
+          "46.2546800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Sibérie",
+        "altitude": "611",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "7.20",
+            "moyen": "5.14",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/288.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53731000000000",
+          "46.2069100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Crie",
+        "altitude": "624",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monsols",
+            "length": "2.40",
+            "moyen": "4.25",
+            "max": "6.0",
+            "profil": "",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Saint Didier sur Beaujeu",
+            "length": "7.30",
+            "moyen": "3.42",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.42640000000000",
+          "45.9303900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Cassettes",
+        "altitude": "622",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valsonne",
+            "length": "4.00",
+            "moyen": "3.73",
+            "max": "8.0",
+            "profil": "",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Tarare",
+            "length": "4.20",
+            "moyen": "5.07",
+            "max": "5.3",
+            "profil": "https://profils.cols-cyclisme.com/1371.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53165000000000",
+          "46.0001100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Papin",
+        "altitude": "636",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chambost Allieres",
+            "length": "6.20",
+            "moyen": "4.5",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.62244000000000",
+          "46.2582000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Boubon",
+        "altitude": "648",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "9.40",
+            "moyen": "4.13",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/277.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Mamert",
+            "length": "5.10",
+            "moyen": "4.67",
+            "max": "7.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56354000000000",
+          "46.2065500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Serve",
+        "altitude": "708",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monsols",
+            "length": "4.90",
+            "moyen": "3.78",
+            "max": "5.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48054000000000",
+          "46.1335400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix des Brosses",
+        "altitude": "646",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Claveisolles",
+            "length": "5.60",
+            "moyen": "3.5",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1361.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.63642000000000",
+          "46.2893400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Carcan",
+        "altitude": "645",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cenve (D23 / D68)",
+            "length": "4.20",
+            "moyen": "3.48",
+            "max": "9.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.59111000000000",
+          "46.0217100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de St Bonnet",
+        "altitude": "645",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Salles Arbuissonnas",
+            "length": "7.20",
+            "moyen": "5.13",
+            "max": "9.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.47137000000000",
+          "45.9697900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Thel",
+        "altitude": "651",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valsonne",
+            "length": "7.90",
+            "moyen": "2.3",
+            "max": "7.1",
+            "profil": "https://profils.cols-cyclisme.com/273.svg",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Chamelet",
+            "length": "4.70",
+            "moyen": "7.26",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/274.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Ternand",
+            "length": "9.50",
+            "moyen": "3.92",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/3776.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.36833000000000",
+          "46.0408900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Burdel",
+        "altitude": "680",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cublize",
+            "length": "5.70",
+            "moyen": "4.12",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/276.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.62245000000000",
+          "46.2396500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontmartin",
+        "altitude": "664",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vauxrenard",
+            "length": "6.00",
+            "moyen": "2.77",
+            "max": "5.3",
+            "profil": "https://profils.cols-cyclisme.com/281.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "12.00",
+            "moyen": "3.23",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/282.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54206000000000",
+          "46.0972000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Marchampt",
+        "altitude": "687",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marchampt",
+            "length": "6.00",
+            "moyen": "5.45",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pont Gaillard",
+            "length": "5.01",
+            "moyen": "5.17",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2523.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54603000000000",
+          "45.9985600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Joncin",
+        "altitude": "699",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chambost Allieres",
+            "length": "8.20",
+            "moyen": "4.6",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/294.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Létra",
+            "length": "5.68",
+            "moyen": "6.36",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/3837.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.51622000000000",
+          "46.2042200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Oncins",
+        "altitude": "702",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Crie",
+            "length": "2.00",
+            "moyen": "4.9",
+            "max": "12.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.56540000000000",
+          "45.9886400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Chêne",
+        "altitude": "704",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Denice",
+            "length": "11.00",
+            "moyen": "3.55",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/290.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Chambost Allieres",
+            "length": "10.70",
+            "moyen": "3.38",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/291.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43158000000000",
+          "46.0344700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Cambuse",
+        "altitude": "707",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cublize",
+            "length": "5.30",
+            "moyen": "4.21",
+            "max": "5.8",
+            "profil": "https://profils.cols-cyclisme.com/283.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Grandris",
+            "length": "7.40",
+            "moyen": "3.65",
+            "max": "5.2",
+            "profil": "https://profils.cols-cyclisme.com/284.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.44128000000000",
+          "46.1678300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Echarmeaux",
+        "altitude": "712",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D10 / D66",
+            "length": "8.50",
+            "moyen": "2.71",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/297.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Les Depots, D37",
+            "length": "11.00",
+            "moyen": "3.16",
+            "max": "8.5",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.54884000000000",
+          "46.0799900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Rosier",
+        "altitude": "721",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Marchampt",
+            "length": "5.60",
+            "moyen": "6.5",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/2560.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Le Perréon",
+            "length": "6.70",
+            "moyen": "6.43",
+            "max": "10.5",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Marchampt",
+            "length": "8.50",
+            "moyen": "4.27",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Pont Gaillard",
+            "length": "6.07",
+            "moyen": "4.83",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2521.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.37858000000000",
+          "45.9269400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Sauvages",
+        "altitude": "723",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tarare",
+            "length": "7.70",
+            "moyen": "4.35",
+            "max": "8.2",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Amplepuis",
+            "length": "7.10",
+            "moyen": "4.25",
+            "max": "7.9",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.39636000000000",
+          "45.9728200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pilon",
+        "altitude": "727",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Valsonne",
+            "length": "6.70",
+            "moyen": "3.76",
+            "max": "5.3",
+            "profil": "https://profils.cols-cyclisme.com/296.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Amplepuis",
+            "length": "6.50",
+            "moyen": "4.38",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/990.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43856000000000",
+          "45.9848400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de l'Orme",
+        "altitude": "730",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Just d'Avray",
+            "length": "3.20",
+            "moyen": "5.53",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/1372.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48770000000000",
+          "46.2333800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Champ Juin",
+        "altitude": "731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Monsols",
+            "length": "5.60",
+            "moyen": "3.64",
+            "max": "5.2",
+            "profil": "https://profils.cols-cyclisme.com/278.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53768000000000",
+          "46.0591300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Montmain",
+        "altitude": "737",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Papilloud",
+            "length": "3.00",
+            "moyen": "5.3",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/275.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Lamure sur Azergues",
+            "length": "5.55",
+            "moyen": "6.38",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/2520.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.53021000000000",
+          "46.1210800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Casse Froide",
+        "altitude": "739",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaujeu",
+            "length": "10.50",
+            "moyen": "4.26",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/272.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Lamure sur Azergues",
+            "length": "10.00",
+            "moyen": "3.55",
+            "max": "5.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "d9 la varenne",
+            "length": "6.40",
+            "moyen": "5.78",
+            "max": "15.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Marchampt",
+            "length": "11.00",
+            "moyen": "3.81",
+            "max": "18.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.61842000000000",
+          "46.1923400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Fut d'Avenas",
+        "altitude": "743",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vauxrenard",
+            "length": "6.10",
+            "moyen": "4.72",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/292.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "11.20",
+            "moyen": "4.57",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Villié Morgon",
+            "length": "9.00",
+            "moyen": "5.36",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Beaujeu",
+            "length": "8.78",
+            "moyen": "4.94",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2522.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.36036000000000",
+          "46.0977200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Pavillon",
+        "altitude": "755",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cours la Ville",
+            "length": "4.00",
+            "moyen": "3.25",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/295.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.41909000000000",
+          "45.9983800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix des Fourches",
+        "altitude": "776",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ronno",
+            "length": "3.40",
+            "moyen": "4.03",
+            "max": "5.3",
+            "profil": "https://profils.cols-cyclisme.com/286.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Grandris",
+            "length": "10.90",
+            "moyen": "3.1",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/287.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.43899000000000",
+          "46.0916900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix Nicelle",
+        "altitude": "782",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ranchal",
+            "length": "7.00",
+            "moyen": "1.06",
+            "max": "6.0",
+            "profil": "",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "D385",
+            "length": "6.00",
+            "moyen": "6.17",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/3836.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.45255000000000",
+          "45.9727800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Chal",
+        "altitude": "789",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D82",
+            "length": "2.05",
+            "moyen": "7.32",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3778.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.46808000000000",
+          "46.1850400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix d'Ajoux",
+        "altitude": "853",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chenelette",
+            "length": "3.00",
+            "moyen": "6.53",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1181.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Propières",
+            "length": "2.80",
+            "moyen": "6.86",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3835.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.42947000000000",
+          "46.1094200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Favardy",
+        "altitude": "856",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ranchal",
+            "length": "4.60",
+            "moyen": "3.35",
+            "max": "6.0",
+            "profil": "",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Saint Nizier d'Azergues",
+            "length": "8.10",
+            "moyen": "5.53",
+            "max": "12.7",
+            "profil": "https://profils.cols-cyclisme.com/3818.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48052000000000",
+          "46.1976200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Patoux",
+        "altitude": "910",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Crie",
+            "length": "5.70",
+            "moyen": "5.14",
+            "max": "18.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Les Depots, D37",
+            "length": "9.90",
+            "moyen": "5.61",
+            "max": "17.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.48694000000000",
+          "46.2080600000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Saint Rigaud",
+        "altitude": "1012",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Col de Crie",
+            "length": "7.30",
+            "moyen": "5.34",
+            "max": "18.0",
+            "profil": "https://profils.cols-cyclisme.com/1177.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Les Depots, D37",
+            "length": "11.70",
+            "moyen": "5.57",
+            "max": "22.0",
+            "profil": "https://profils.cols-cyclisme.com/1572.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.65506000000000",
+          "46.1073120000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Brouilly",
+        "altitude": "476",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Quincié-en-Beaujolais, D37",
+            "length": "3.65",
+            "moyen": "6.47",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1178.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Saint Lager",
+            "length": "3.05",
+            "moyen": "7.64",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1398.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.68283300000000",
+          "46.2069880000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Labourons",
+        "altitude": "436",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Fief",
+            "length": "5.50",
+            "moyen": "3.38",
+            "max": "5.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.58332900000000",
+          "45.9782150000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Saule d'Oingt",
+        "altitude": "553",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lacenas",
+            "length": "6.30",
+            "moyen": "4.25",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.62944900000000",
+          "46.0793370000000"
+        ]
+      },
+      "properties": {
+        "name": "Croix des Rameaux",
+        "altitude": "383",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Odenas",
+            "length": "1.70",
+            "moyen": "5.06",
+            "max": "7.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.68637800000000",
+          "45.9260580000000"
+        ]
+      },
+      "properties": {
+        "name": "Lachassagne",
+        "altitude": "369",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Anse",
+            "length": "3.00",
+            "moyen": "5.7",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/2422.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.55380800000000",
+          "46.0317030000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Parasoir",
+        "altitude": "674",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chambost Allieres",
+            "length": "7.20",
+            "moyen": "4.5",
+            "max": "5.5",
+            "profil": "https://profils.cols-cyclisme.com/2423.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Rivolet",
+            "length": "7.00",
+            "moyen": "4.56",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/2424.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.66890600000000",
+          "45.8915590000000"
+        ]
+      },
+      "properties": {
+        "name": "Charnay",
+        "altitude": "412",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Morancé",
+            "length": "3.40",
+            "moyen": "5.76",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2426.svg",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Alix",
+            "length": "2.50",
+            "moyen": "5.68",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2427.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.34757002683100",
+          "46.2554550089231"
+        ]
+      },
+      "properties": {
+        "name": "Montagne de Dun",
+        "altitude": "693",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chevannes",
+            "length": "3.63",
+            "moyen": "8.46",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2524.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.47341000000000",
+          "45.8250770000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Pélerat",
+        "altitude": "707",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Forgeux",
+            "length": "5.54",
+            "moyen": "5.81",
+            "max": "6.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.41215000000000",
+          "45.8653100000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Pont",
+        "altitude": "745",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tarare",
+            "length": "6.55",
+            "moyen": "5.27",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "beaujolais"
+      }
+    }
+  ]
+}

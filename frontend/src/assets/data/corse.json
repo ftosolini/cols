@@ -1,0 +1,2147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.64838000000000",
+          "42.3638200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Palmarella",
+        "altitude": "408",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Fango",
+            "length": "11.30",
+            "moyen": "3.35",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/1789.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Porto",
+            "length": "34.40",
+            "moyen": "1.01",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1790.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.73453000000000",
+          "42.0219900000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca San Bastiano",
+        "altitude": "411",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de la Liscia",
+            "length": "7.20",
+            "moyen": "5.61",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/1785.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Mezzavia",
+            "length": "12.20",
+            "moyen": "3.02",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/1786.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.64287000000000",
+          "42.2178400000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di San Martino",
+        "altitude": "433",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Chiuni",
+            "length": "7.70",
+            "moyen": "5.32",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/1788.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.96127000000000",
+          "41.9670400000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Mercuju",
+        "altitude": "715",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bastelicaccia",
+            "length": "14.20",
+            "moyen": "4.61",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2160.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.15220000000000",
+          "41.6312600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bacinu",
+        "altitude": "809",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Pargula",
+            "length": "10.20",
+            "moyen": "4.54",
+            "max": "7.4",
+            "profil": "https://profils.cols-cyclisme.com/1685.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Sotta",
+            "length": "15.50",
+            "moyen": "4.9",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/1686.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.21141000000000",
+          "41.7046900000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca d'Illarata",
+        "altitude": "991",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Porto Vecchio",
+            "length": "26.50",
+            "moyen": "3.74",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/672.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Zonza",
+            "length": "11.00",
+            "moyen": "2.27",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/673.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.11224000000000",
+          "42.1118600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Vizzavona",
+        "altitude": "1163",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vivario",
+            "length": "12.40",
+            "moyen": "4.06",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1780.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "N193 / D29",
+            "length": "19.60",
+            "moyen": "4.43",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/1782.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.03541000000000",
+          "42.0418600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Scalella",
+        "altitude": "1193",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bastelica",
+            "length": "10.20",
+            "moyen": "4.34",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2161.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Tavera",
+            "length": "11.42",
+            "moyen": "7",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/2685.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.22481000000000",
+          "41.7958600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bavella",
+        "altitude": "1218",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Zonza",
+            "length": "8.90",
+            "moyen": "5.17",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/664.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Solenzara",
+            "length": "30.00",
+            "moyen": "4.1",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/2682.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.75628000000000",
+          "42.4758400000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Marsolinu",
+        "altitude": "443",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Suare",
+            "length": "4.50",
+            "moyen": "6.76",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1791.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.37302000000000",
+          "42.5988900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Vierge",
+        "altitude": "443",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Biguglia",
+            "length": "7.50",
+            "moyen": "5.33",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/2086.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.38299000000000",
+          "42.6769400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Teghime",
+        "altitude": "536",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bastia",
+            "length": "11.20",
+            "moyen": "4.76",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/1681.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Saint Florent",
+            "length": "12.60",
+            "moyen": "4.23",
+            "max": "9.9",
+            "profil": "https://profils.cols-cyclisme.com/1682.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Saint Florent",
+            "length": "14.30",
+            "moyen": "3.73",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/1683.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Montesoro",
+            "length": "7.20",
+            "moyen": "7.11",
+            "max": "11.8",
+            "profil": "https://profils.cols-cyclisme.com/1684.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.40820000000000",
+          "42.4906800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Chercheroni",
+        "altitude": "623",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N198 (via Olmo)",
+            "length": "10.00",
+            "moyen": "5.72",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/2569.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.36345000000000",
+          "42.4517400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col St Antoine",
+        "altitude": "687",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barchetta",
+            "length": "13.40",
+            "moyen": "4.55",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2172.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.18242000000000",
+          "42.2403400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Belle Granaje",
+        "altitude": "723",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Vecchio",
+            "length": "8.10",
+            "moyen": "3.62",
+            "max": "5.4",
+            "profil": "https://profils.cols-cyclisme.com/1783.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Corte",
+            "length": "8.70",
+            "moyen": "3.71",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/1784.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.29638000000000",
+          "42.5378900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bigorno",
+        "altitude": "885",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Volpajola",
+            "length": "12.00",
+            "moyen": "4.15",
+            "max": "5.6",
+            "profil": "https://profils.cols-cyclisme.com/2170.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Biguglia",
+            "length": "22.70",
+            "moyen": "3.79",
+            "max": "6.6",
+            "profil": "https://profils.cols-cyclisme.com/2559.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ponte Novu",
+            "length": "16.00",
+            "moyen": "4.58",
+            "max": "8.2",
+            "profil": "https://profils.cols-cyclisme.com/2713.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.33148000000000",
+          "42.4274600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Prato",
+        "altitude": "985",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ponte Leccia",
+            "length": "17.80",
+            "moyen": "4.44",
+            "max": "6.1",
+            "profil": "https://profils.cols-cyclisme.com/2171.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pont de Rimitorio",
+            "length": "15.60",
+            "moyen": "5.04",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/2716.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.40008500000000",
+          "42.6955020000000"
+        ]
+      },
+      "properties": {
+        "name": "Serra di Pigno",
+        "altitude": "961",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bastia",
+            "length": "10.68",
+            "moyen": "8.75",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2629.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.87851919104000",
+          "42.2903677982658"
+        ]
+      },
+      "properties": {
+        "name": "Col du Vergio",
+        "altitude": "1478",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Porto Marina",
+            "length": "34.80",
+            "moyen": "4.22",
+            "max": "5.9",
+            "profil": "https://profils.cols-cyclisme.com/2681.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.82996425396730",
+          "42.2234956701084"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sevi",
+        "altitude": "1102",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sagone",
+            "length": "21.00",
+            "moyen": "5.22",
+            "max": "11.4",
+            "profil": "https://profils.cols-cyclisme.com/2683.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D84 / D124",
+            "length": "19.64",
+            "moyen": "3.9",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.12276057573240",
+          "41.9982029662830"
+        ]
+      },
+      "properties": {
+        "name": "Val d'Ese",
+        "altitude": "1609",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Zipitoli",
+            "length": "20.00",
+            "moyen": "4.88",
+            "max": "11.6",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.14746779315190",
+          "42.0773975086299"
+        ]
+      },
+      "properties": {
+        "name": "Capannelle",
+        "altitude": "1675",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D69 / D169",
+            "length": "13.96",
+            "moyen": "6.27",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.03066148059090",
+          "42.2288730771105"
+        ]
+      },
+      "properties": {
+        "name": "Gorges de la Restonica",
+        "altitude": "1370",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Corte",
+            "length": "14.90",
+            "moyen": "6.44",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/2688.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.19017194841000",
+          "42.1441518461688"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sorba",
+        "altitude": "1311",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vivario",
+            "length": "9.20",
+            "moyen": "7.08",
+            "max": "8.5",
+            "profil": "https://profils.cols-cyclisme.com/2689.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Ghisoni",
+            "length": "10.10",
+            "moyen": "6.35",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/2690.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.62097099935310",
+          "42.2379787457260"
+        ]
+      },
+      "properties": {
+        "name": "Monte San Ghiabicu",
+        "altitude": "624",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plage de Ficaghiola",
+            "length": "8.00",
+            "moyen": "7.24",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2691.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.60080078756110",
+          "42.2425220881409"
+        ]
+      },
+      "properties": {
+        "name": "Bocca d'Osini",
+        "altitude": "412",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Plage d'Arone",
+            "length": "7.80",
+            "moyen": "5.09",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.65781132275390",
+          "42.1878921560149"
+        ]
+      },
+      "properties": {
+        "name": "Revinda",
+        "altitude": "510",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D81 / D481",
+            "length": "7.80",
+            "moyen": "6.33",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.63240187329100",
+          "42.1456744532600"
+        ]
+      },
+      "properties": {
+        "name": "Chapelle Saint Elie",
+        "altitude": "440",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Cargese",
+            "length": "5.71",
+            "moyen": "7.67",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.75059928629150",
+          "42.1239905714521"
+        ]
+      },
+      "properties": {
+        "name": "Col Saint Sauveur",
+        "altitude": "536",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D81 / D56",
+            "length": "9.00",
+            "moyen": "5.91",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.69995103173820",
+          "41.9540423099802"
+        ]
+      },
+      "properties": {
+        "name": "Punta Pozzo di Borgo",
+        "altitude": "770",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ajaccio",
+            "length": "12.46",
+            "moyen": "6.12",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2696.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.77417600000000",
+          "41.7700019490739"
+        ]
+      },
+      "properties": {
+        "name": "Punta di a Saina",
+        "altitude": "642",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Verghia",
+            "length": "13.00",
+            "moyen": "4.89",
+            "max": "6.8",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.18992604187010",
+          "41.6583237294284"
+        ]
+      },
+      "properties": {
+        "name": "Col de l'Ospedale",
+        "altitude": "957",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Palavese",
+            "length": "14.00",
+            "moyen": "6.29",
+            "max": "10.4",
+            "profil": "https://profils.cols-cyclisme.com/2698.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.02238200000000",
+          "41.7738720000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Saint Eustache",
+        "altitude": "986",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Moca",
+            "length": "8.40",
+            "moyen": "6.29",
+            "max": "8.6",
+            "profil": "https://profils.cols-cyclisme.com/2699.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Petreto",
+            "length": "11.00",
+            "moyen": "5.15",
+            "max": "6.7",
+            "profil": "https://profils.cols-cyclisme.com/2700.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Moulin d'Arnia",
+            "length": "8.70",
+            "moyen": "4.54",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.90567912695310",
+          "42.0736113301080"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Tartavellu",
+        "altitude": "885",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont d'Azzana",
+            "length": "11.20",
+            "moyen": "5.63",
+            "max": "8.4",
+            "profil": "https://profils.cols-cyclisme.com/2701.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vignacce",
+            "length": "11.20",
+            "moyen": "5.73",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/2702.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.14103379629520",
+          "41.8207667672119"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di E Croci",
+        "altitude": "1523",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Quenza",
+            "length": "11.50",
+            "moyen": "6.29",
+            "max": "10.6",
+            "profil": "https://profils.cols-cyclisme.com/2703.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.08450542327890",
+          "41.8219206965102"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Vaccia",
+        "altitude": "1193",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Olivese",
+            "length": "12.60",
+            "moyen": "5.58",
+            "max": "9.8",
+            "profil": "https://profils.cols-cyclisme.com/2704.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.87812319293210",
+          "42.1125579120105"
+        ]
+      },
+      "properties": {
+        "name": "Punta Campu Mujanu",
+        "altitude": "737",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont d'Azzana",
+            "length": "9.67",
+            "moyen": "4.98",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.36715791534430",
+          "42.9735551994758"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Serra",
+        "altitude": "361",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tollare",
+            "length": "7.00",
+            "moyen": "5.13",
+            "max": "6.8",
+            "profil": "https://profils.cols-cyclisme.com/2706.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Port de Centuri",
+            "length": "6.60",
+            "moyen": "5.5",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2707.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.38713281481930",
+          "42.9460180720412"
+        ]
+      },
+      "properties": {
+        "name": "Col Sainte Catherine",
+        "altitude": "508",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mute",
+            "length": "9.28",
+            "moyen": "5.39",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.40250229494630",
+          "42.8177300934394"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di San Guivanni",
+        "altitude": "959",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Balba",
+            "length": "10.33",
+            "moyen": "7.76",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Stazzona",
+            "length": "14.00",
+            "moyen": "6.79",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.14166283266600",
+          "42.6662242347718"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Vezzu",
+        "altitude": "311",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D81 / N197",
+            "length": "6.33",
+            "moyen": "4.12",
+            "max": "6.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.35972819565430",
+          "42.6005279891504"
+        ]
+      },
+      "properties": {
+        "name": "Col de Santo Stephano",
+        "altitude": "368",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Casatorra",
+            "length": "8.90",
+            "moyen": "3.9",
+            "max": "5.0",
+            "profil": "https://profils.cols-cyclisme.com/2712.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.39469222222900",
+          "42.4882715859078"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pirello",
+        "altitude": "607",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N198 / D10",
+            "length": "9.90",
+            "moyen": "5.68",
+            "max": "8.3",
+            "profil": "https://profils.cols-cyclisme.com/2714.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.41980500000000",
+          "42.4488980000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sant Agostino",
+        "altitude": "685",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Rimitorio",
+            "length": "8.60",
+            "moyen": "5.65",
+            "max": "13.7",
+            "profil": "https://profils.cols-cyclisme.com/2715.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "San Pancrazio",
+            "length": "12.60",
+            "moyen": "4.96",
+            "max": "7.2",
+            "profil": "https://profils.cols-cyclisme.com/3560.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.32822186508180",
+          "42.2360242955026"
+        ]
+      },
+      "properties": {
+        "name": "Piedicorte di Gaggio",
+        "altitude": "731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N200 / D314",
+            "length": "12.30",
+            "moyen": "4.46",
+            "max": "6.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "N200 / D14",
+            "length": "14.52",
+            "moyen": "4.62",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.14735698159790",
+          "42.4221333233930"
+        ]
+      },
+      "properties": {
+        "name": "Croce d'Arbitro",
+        "altitude": "664",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N193 / D18",
+            "length": "10.30",
+            "moyen": "4.36",
+            "max": "6.3",
+            "profil": "https://profils.cols-cyclisme.com/2720.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "Ponte Castirla",
+            "length": "6.40",
+            "moyen": "4.98",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/2721.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.05534648355100",
+          "42.5576398173946"
+        ]
+      },
+      "properties": {
+        "name": "Bocca Capanna",
+        "altitude": "844",
+        "climbs": [
+          {
+            "done": false,
+            "start": "N197 / N2197",
+            "length": "20.60",
+            "moyen": "4.06",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Piana",
+            "length": "9.34",
+            "moyen": "5.75",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.00489426983640",
+          "42.5496997693332"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Battaglia",
+        "altitude": "1101",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Regino",
+            "length": "17.00",
+            "moyen": "6.08",
+            "max": "9.9",
+            "profil": "https://profils.cols-cyclisme.com/2724.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.36367893121340",
+          "42.5287163259449"
+        ]
+      },
+      "properties": {
+        "name": "Scolca",
+        "altitude": "590",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barchetta",
+            "length": "7.40",
+            "moyen": "6.64",
+            "max": "9.2",
+            "profil": "https://profils.cols-cyclisme.com/2725.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.31820339660650",
+          "42.2838465139664"
+        ]
+      },
+      "properties": {
+        "name": "Col de Casardo",
+        "altitude": "1094",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pinello",
+            "length": "11.48",
+            "moyen": "6.36",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Pianiccia",
+            "length": "26.76",
+            "moyen": "3.59",
+            "max": "7.0",
+            "profil": "",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Chapelle San Giovanni",
+            "length": "21.58",
+            "moyen": "4.19",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.47806513284910",
+          "42.3796096697879"
+        ]
+      },
+      "properties": {
+        "name": "Serrale",
+        "altitude": "551",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Santa Lucia di Moriani",
+            "length": "5.82",
+            "moyen": "8.61",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.28231416918950",
+          "42.4119808987405"
+        ]
+      },
+      "properties": {
+        "name": "Poggio",
+        "altitude": "691",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Scoltola",
+            "length": "6.88",
+            "moyen": "5.36",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.31560906878670",
+          "42.1610039801643"
+        ]
+      },
+      "properties": {
+        "name": "Col de Sbiro",
+        "altitude": "734",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ruisseau de Pettilargo",
+            "length": "10.17",
+            "moyen": "6.18",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.34260282031260",
+          "42.1396548654308"
+        ]
+      },
+      "properties": {
+        "name": "Chapelle San Michele",
+        "altitude": "639",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aghione",
+            "length": "11.34",
+            "moyen": "5.04",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.91685339172360",
+          "42.1960493596389"
+        ]
+      },
+      "properties": {
+        "name": "Pantanu",
+        "altitude": "1015",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Guagno les Bains",
+            "length": "8.55",
+            "moyen": "6.84",
+            "max": "13.4",
+            "profil": "https://profils.cols-cyclisme.com/2730.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.02633872750860",
+          "41.7366270239860"
+        ]
+      },
+      "properties": {
+        "name": "Col de Siu",
+        "altitude": "731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D257 / D557",
+            "length": "12.40",
+            "moyen": "5.65",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/2731.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "D69 / D119",
+            "length": "16.30",
+            "moyen": "4.17",
+            "max": "6.9",
+            "profil": "https://profils.cols-cyclisme.com/2732.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.85491071395270",
+          "41.8537840258169"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Belle Valle",
+        "altitude": "521",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Capitoro",
+            "length": "9.30",
+            "moyen": "5.02",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2733.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.82517174072270",
+          "42.0392480612955"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Sarzoggiu",
+        "altitude": "612",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Furcina",
+            "length": "13.60",
+            "moyen": "4.09",
+            "max": "7.8",
+            "profil": "https://profils.cols-cyclisme.com/2734.gif",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D1 / D361",
+            "length": "8.56",
+            "moyen": "6.1",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.89377819469000",
+          "41.9769359582819"
+        ]
+      },
+      "properties": {
+        "name": "Bocca San Petru",
+        "altitude": "555",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mezzana",
+            "length": "8.00",
+            "moyen": "6.5",
+            "max": "8.7",
+            "profil": "https://profils.cols-cyclisme.com/2736.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.85986876508170",
+          "42.1754259563067"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Sorru",
+        "altitude": "624",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Belfiori",
+            "length": "5.21",
+            "moyen": "7.64",
+            "max": "9.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.32374993121330",
+          "42.4772495645360"
+        ]
+      },
+      "properties": {
+        "name": "Bisinchi",
+        "altitude": "582",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ponte Novu",
+            "length": "7.53",
+            "moyen": "5.76",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.82314326347660",
+          "41.7926114175857"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Gradello",
+        "altitude": "529",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Favalella",
+            "length": "12.40",
+            "moyen": "4.21",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/2740.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.86988615869140",
+          "42.5662969753394"
+        ]
+      },
+      "properties": {
+        "name": "Bocca di Salvi",
+        "altitude": "509",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ponte Vecchiu",
+            "length": "9.50",
+            "moyen": "4.38",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "D551",
+            "length": "7.28",
+            "moyen": "6.18",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.65660000000000",
+          "42.2474000000000"
+        ]
+      },
+      "properties": {
+        "name": "Calanques de Piana",
+        "altitude": "447",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Porto",
+            "length": "7.95",
+            "moyen": "5.12",
+            "max": "6.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.92270000000000",
+          "42.4031000000000"
+        ]
+      },
+      "properties": {
+        "name": "Station du Haut Asco",
+        "altitude": "1450",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ponte Leccia",
+            "length": "34.00",
+            "moyen": "3.7",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3557.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.11580000000000",
+          "42.4977000000000"
+        ]
+      },
+      "properties": {
+        "name": "Castifao",
+        "altitude": "520",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Capannacce",
+            "length": "4.55",
+            "moyen": "5.49",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.35360000000000",
+          "42.4928000000000"
+        ]
+      },
+      "properties": {
+        "name": "Campile",
+        "altitude": "550",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Barchetta",
+            "length": "7.83",
+            "moyen": "5.87",
+            "max": "8.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.38280000000000",
+          "42.3502000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Arcarota",
+        "altitude": "823",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D506 / D46",
+            "length": "8.70",
+            "moyen": "4.98",
+            "max": "7.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.14330000000000",
+          "42.3469000000000"
+        ]
+      },
+      "properties": {
+        "name": "Bocca d'Ominanda",
+        "altitude": "638",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ponte Castirla",
+            "length": "7.00",
+            "moyen": "4.84",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/3562.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.29990000000000",
+          "42.3271000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Saint Antoine",
+        "altitude": "996",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Féo",
+            "length": "14.29",
+            "moyen": "4.66",
+            "max": "10.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.19480000000000",
+          "42.0282000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Verde",
+        "altitude": "1289",
+        "climbs": [
+          {
+            "done": false,
+            "start": "pont de Cannareccia",
+            "length": "7.66",
+            "moyen": "5.73",
+            "max": "6.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "corse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.19320000000000",
+          "42.1875000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Morello",
+        "altitude": "820",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont du Vecchio",
+            "length": "9.45",
+            "moyen": "3.89",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "corse"
+      }
+    }
+  ]
+}

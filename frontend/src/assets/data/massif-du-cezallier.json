@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.85386000000000",
+          "45.2101600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Montirargues",
+        "altitude": "1141",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Gazelle",
+            "length": "3.00",
+            "moyen": "4.03",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3766.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.96951000000000",
+          "45.2232500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Combalut",
+        "altitude": "1196",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Maillargues",
+            "length": "2.60",
+            "moyen": "6.92",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.97826000000000",
+          "45.2069600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Lampre",
+        "altitude": "1199",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Maillargues",
+            "length": "3.40",
+            "moyen": "5.68",
+            "max": "10.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.97729000000000",
+          "45.2450800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Baladour",
+        "altitude": "1207",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allanche",
+            "length": "5.00",
+            "moyen": "4.8",
+            "max": "7.0",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Massiac",
+            "length": "21.60",
+            "moyen": "2.9",
+            "max": "8.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.97402000000000",
+          "45.2546900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Baptiste",
+        "altitude": "1229",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allanche",
+            "length": "4.50",
+            "moyen": "5.6",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/3784.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.97309215228270",
+          "45.4009793274535"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Volpilière",
+        "altitude": "1230",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ardes",
+            "length": "16.57",
+            "moyen": "3.8",
+            "max": "5.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.05847222964470",
+          "45.3802141393514"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Pierre Plantée",
+        "altitude": "1129",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ardes",
+            "length": "11.34",
+            "moyen": "4.68",
+            "max": "6.5",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.76192000000000",
+          "45.2885400000000"
+        ]
+      },
+      "properties": {
+        "name": "Lugarde",
+        "altitude": "1010",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Condat",
+            "length": "7.40",
+            "moyen": "4.11",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3186.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "massif du cezallier"
+      }
+    }
+  ]
+}

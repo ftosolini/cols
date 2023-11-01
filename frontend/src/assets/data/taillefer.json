@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.84359000000000",
+          "44.9283900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Malissol",
+        "altitude": "1153",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Nantes en Ratier",
+            "length": "2.43",
+            "moyen": "8.56",
+            "max": "10.3",
+            "profil": "https://profils.cols-cyclisme.com/2571.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Basse Valette",
+            "length": "3.38",
+            "moyen": "5.98",
+            "max": "7.9",
+            "profil": "https://profils.cols-cyclisme.com/2572.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.86095000000000",
+          "45.0248800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Morte",
+        "altitude": "1368",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sechilienne",
+            "length": "15.30",
+            "moyen": "6.56",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/1431.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.77246900000000",
+          "45.0267770000000"
+        ]
+      },
+      "properties": {
+        "name": "Laffrey",
+        "altitude": "904",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sechilienne",
+            "length": "8.70",
+            "moyen": "6.21",
+            "max": "11.2",
+            "profil": "https://profils.cols-cyclisme.com/86.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Vizille",
+            "length": "6.30",
+            "moyen": "9.59",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/2400.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.98355900000000",
+          "45.0747210000000"
+        ]
+      },
+      "properties": {
+        "name": "Station d'Oulles",
+        "altitude": "1440",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bourg d'Oisans",
+            "length": "10.50",
+            "moyen": "7.14",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/1214.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.73824700000000",
+          "45.0027720000000"
+        ]
+      },
+      "properties": {
+        "name": "Montagne du Conest",
+        "altitude": "1520",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vizille",
+            "length": "18.40",
+            "moyen": "6.71",
+            "max": "17.5",
+            "profil": "https://profils.cols-cyclisme.com/2083.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82388200000000",
+          "44.9722750000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Saint Honoré",
+        "altitude": "1505",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Fugières",
+            "length": "6.80",
+            "moyen": "6.99",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/2152.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.86800000000000",
+          "45.0439000000000"
+        ]
+      },
+      "properties": {
+        "name": "Bois du Chênevier",
+        "altitude": "1731",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sechilienne",
+            "length": "19.10",
+            "moyen": "7.16",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/3600.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "taillefer"
+      }
+    }
+  ]
+}

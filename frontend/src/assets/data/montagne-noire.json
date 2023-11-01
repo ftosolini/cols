@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.57347000000000",
+          "43.4198100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Salettes",
+        "altitude": "886",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Citou",
+            "length": "12.50",
+            "moyen": "4.16",
+            "max": "7.0",
+            "profil": "https://profils.cols-cyclisme.com/2471.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "montagne-noire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.51738000000000",
+          "43.4130800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Sous",
+        "altitude": "893",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Citou",
+            "length": "10.50",
+            "moyen": "5.02",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/2472.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "montagne-noire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.24979000000000",
+          "43.4597400000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Fontbruno",
+        "altitude": "880",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Labruguière",
+            "length": "14.00",
+            "moyen": "4.69",
+            "max": "7.5",
+            "profil": "https://profils.cols-cyclisme.com/2053.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "montagne-noire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.46356500000000",
+          "43.4243020000000"
+        ]
+      },
+      "properties": {
+        "name": "Pic de Nore",
+        "altitude": "1211",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Mazamet",
+            "length": "17.00",
+            "moyen": "5.71",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/394.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Villeneuve Minervois",
+            "length": "22.00",
+            "moyen": "4.56",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/395.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Cabrespine",
+            "length": "17.50",
+            "moyen": "5.43",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/1464.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "montagne-noire"
+      }
+    }
+  ]
+}

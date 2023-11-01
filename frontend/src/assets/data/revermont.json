@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.35718000000000",
+          "46.2316600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de France",
+        "altitude": "371",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Meillonnas",
+            "length": "3.00",
+            "moyen": "3.5",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1163.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "revermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.38527000000000",
+          "46.2222100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Rousse",
+        "altitude": "380",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Meillonnas",
+            "length": "5.80",
+            "moyen": "2.69",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1164.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "revermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.40882000000000",
+          "46.1644100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Roche",
+        "altitude": "401",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Just",
+            "length": "13.00",
+            "moyen": "1.18",
+            "max": "7.0",
+            "profil": "",
+            "category": 5
+          },
+          {
+            "done": false,
+            "start": "Bohas",
+            "length": "1.40",
+            "moyen": "7.21",
+            "max": "0.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "revermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.38337600000000",
+          "46.2597840000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix des Angoulures",
+        "altitude": "430",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Treffort Cuisiat",
+            "length": "3.00",
+            "moyen": "4.5",
+            "max": "13.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "revermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.33882200000000",
+          "46.1943730000000"
+        ]
+      },
+      "properties": {
+        "name": "Signal de Cuiron",
+        "altitude": "589",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Ceyzériat",
+            "length": "4.00",
+            "moyen": "6.95",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/1166.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "revermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.51948100000000",
+          "46.5992190000000"
+        ]
+      },
+      "properties": {
+        "name": "Saint Laurent la Roche",
+        "altitude": "480",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Grusse",
+            "length": "6.00",
+            "moyen": "4.25",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/3511.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "revermont"
+      }
+    }
+  ]
+}

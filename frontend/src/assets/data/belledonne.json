@@ -1,0 +1,666 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.96524000000000",
+          "45.2770600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix des Adrets",
+        "altitude": "871",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Froges",
+            "length": "8.40",
+            "moyen": "7.36",
+            "max": "11.8",
+            "profil": "https://profils.cols-cyclisme.com/2783.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.98755000000000",
+          "45.2739700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Ayes",
+        "altitude": "944",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tencin",
+            "length": "9.80",
+            "moyen": "6.9",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1524.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.02696000000000",
+          "45.3312800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Barioz",
+        "altitude": "1041",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Goncelin",
+            "length": "14.90",
+            "moyen": "5.2",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/1523.svg",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Tencin",
+            "length": "12.00",
+            "moyen": "6.59",
+            "max": "11.0",
+            "profil": "https://profils.cols-cyclisme.com/3841.svg",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.84895000000000",
+          "45.0874900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col Luitel",
+        "altitude": "1262",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vaulnaveys le Haut",
+            "length": "10.90",
+            "moyen": "7.84",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/101.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Sechilienne",
+            "length": "10.30",
+            "moyen": "8.75",
+            "max": "14.3",
+            "profil": "https://profils.cols-cyclisme.com/102.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.21920000000000",
+          "45.5051800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Champ Laurent",
+        "altitude": "1116",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chamoux sur Gelon",
+            "length": "10.00",
+            "moyen": "8",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/696.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.24847000000000",
+          "45.4899100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Cucheron",
+        "altitude": "1188",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Granges",
+            "length": "4.10",
+            "moyen": "7.66",
+            "max": "12.8",
+            "profil": "https://profils.cols-cyclisme.com/205.svg",
+            "category": 2
+          },
+          {
+            "done": false,
+            "start": "La Corbiere",
+            "length": "11.60",
+            "moyen": "6.94",
+            "max": "13.1",
+            "profil": "https://profils.cols-cyclisme.com/206.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82384000000000",
+          "45.1681100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Coche",
+        "altitude": "725",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gières",
+            "length": "6.70",
+            "moyen": "7.31",
+            "max": "9.1",
+            "profil": "https://profils.cols-cyclisme.com/3459.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.05610600000000",
+          "45.2723920000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Le Pleynet",
+        "altitude": "1450",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allevard",
+            "length": "22.70",
+            "moyen": "4.34",
+            "max": "7.3",
+            "profil": "https://profils.cols-cyclisme.com/188.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.99361100000000",
+          "45.2568230000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Prapoutel",
+        "altitude": "1360",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tencin",
+            "length": "16.50",
+            "moyen": "6.76",
+            "max": "8.7",
+            "profil": "https://profils.cols-cyclisme.com/218.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Froges",
+            "length": "15.30",
+            "moyen": "7.18",
+            "max": "11.3",
+            "profil": "https://profils.cols-cyclisme.com/220.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.16898100000000",
+          "45.4192700000000"
+        ]
+      },
+      "properties": {
+        "name": "Val Pelouse",
+        "altitude": "1728",
+        "climbs": [
+          {
+            "done": false,
+            "start": "La Rochette",
+            "length": "16.30",
+            "moyen": "8.41",
+            "max": "12.1",
+            "profil": "https://profils.cols-cyclisme.com/418.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.80425400000000",
+          "45.1535130000000"
+        ]
+      },
+      "properties": {
+        "name": "Fort des Quatres Seigneurs",
+        "altitude": "920",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Gières",
+            "length": "9.80",
+            "moyen": "7.19",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/615.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Tavernolles",
+            "length": "7.20",
+            "moyen": "7.89",
+            "max": "12.6",
+            "profil": "https://profils.cols-cyclisme.com/750.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.12823200000000",
+          "45.3938030000000"
+        ]
+      },
+      "properties": {
+        "name": "Super Collet",
+        "altitude": "1650",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allevard",
+            "length": "16.00",
+            "moyen": "7.34",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1171.gif",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "La Rochette",
+            "length": "22.09",
+            "moyen": "5.89",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3614.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.87447700000000",
+          "45.1106180000000"
+        ]
+      },
+      "properties": {
+        "name": "Roche Beranger (Station de Chamrousse)",
+        "altitude": "1715",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Uriage les Bains",
+            "length": "20.30",
+            "moyen": "6.42",
+            "max": "11.5",
+            "profil": "https://profils.cols-cyclisme.com/130.svg",
+            "category": 0
+          },
+          {
+            "done": false,
+            "start": "Vaulnaveys le Haut",
+            "length": "17.60",
+            "moyen": "7.41",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1276.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.10725800000000",
+          "45.3936670000000"
+        ]
+      },
+      "properties": {
+        "name": "Collet d'Allevard",
+        "altitude": "1450",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Allevard",
+            "length": "11.70",
+            "moyen": "8.33",
+            "max": "10.2",
+            "profil": "https://profils.cols-cyclisme.com/1634.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.82549100000000",
+          "45.1006770000000"
+        ]
+      },
+      "properties": {
+        "name": "Montchaffrey",
+        "altitude": "918",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vaulnaveys le Haut",
+            "length": "6.40",
+            "moyen": "8.91",
+            "max": "14.5",
+            "profil": "https://profils.cols-cyclisme.com/2085.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.99703900000000",
+          "45.2403740000000"
+        ]
+      },
+      "properties": {
+        "name": "Pre de l'Arc",
+        "altitude": "1336",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Brignoud",
+            "length": "14.40",
+            "moyen": "7.69",
+            "max": "10.1",
+            "profil": "https://profils.cols-cyclisme.com/2147.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.95149352296450",
+          "45.2395025799773"
+        ]
+      },
+      "properties": {
+        "name": "Col des Mouilles",
+        "altitude": "1020",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Villard Bonnot",
+            "length": "9.77",
+            "moyen": "7.87",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/2474.svg",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.91780497773740",
+          "45.2003030747595"
+        ]
+      },
+      "properties": {
+        "name": "Col de Pré Long",
+        "altitude": "1202",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Lancey",
+            "length": "11.58",
+            "moyen": "8.08",
+            "max": "12.5",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.25235029656980",
+          "45.5290245548157"
+        ]
+      },
+      "properties": {
+        "name": "Les Grangettes",
+        "altitude": "1250",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chamoux sur Gelon",
+            "length": "11.15",
+            "moyen": "8.18",
+            "max": "10.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.21852600000000",
+          "45.3050680000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Fremezan",
+        "altitude": "1836",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne de Cuines",
+            "length": "16.60",
+            "moyen": "8.17",
+            "max": "11.1",
+            "profil": "https://profils.cols-cyclisme.com/2606.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.26170900000000",
+          "45.3713120000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Replat",
+        "altitude": "1000",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Remy de Maurienne",
+            "length": "7.10",
+            "moyen": "8.24",
+            "max": "11.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.01576300000000",
+          "45.2699550000000"
+        ]
+      },
+      "properties": {
+        "name": "Station de Pipay",
+        "altitude": "1591",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tencin",
+            "length": "19.46",
+            "moyen": "6.89",
+            "max": "10.5",
+            "profil": "https://profils.cols-cyclisme.com/3567.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "5.90960000000000",
+          "45.1780000000000"
+        ]
+      },
+      "properties": {
+        "name": "Bois de Freydière",
+        "altitude": "1318",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Domène",
+            "length": "12.90",
+            "moyen": "8.25",
+            "max": "15.0",
+            "profil": "https://profils.cols-cyclisme.com/3647.gif",
+            "category": 0
+          }
+        ],
+        "mountain": "belledonne"
+      }
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.80617000000000",
+          "49.8475000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Loup",
+        "altitude": "383",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Haulmé",
+            "length": "5.00",
+            "moyen": "4.78",
+            "max": "8.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.75602000000000",
+          "43.2625000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Louvière",
+        "altitude": "333",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Molandier",
+            "length": "4.70",
+            "moyen": "1.91",
+            "max": "5.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.90430000000000",
+          "45.2549300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Barbe Bleue",
+        "altitude": "352",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Anneyron",
+            "length": "4.00",
+            "moyen": "4.68",
+            "max": "6.5",
+            "profil": "",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Mantaille",
+            "length": "2.27",
+            "moyen": "4.36",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3507.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.70946000000000",
+          "47.3370200000000"
+        ]
+      },
+      "properties": {
+        "name": "Col d'Ardenay",
+        "altitude": "75",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Chaudefond sur Layon",
+            "length": "1.60",
+            "moyen": "3.56",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1405.gif",
+            "category": 5
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.63404000000000",
+          "47.7288800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Crémant",
+        "altitude": "206",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bailly",
+            "length": "0.80",
+            "moyen": "12.5",
+            "max": "15.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.43399800000000",
+          "49.4576510000000"
+        ]
+      },
+      "properties": {
+        "name": "Chateau de Malbrouck",
+        "altitude": "435",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Manderen",
+            "length": "0.90",
+            "moyen": "20",
+            "max": "20.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.15146700000000",
+          "49.6750130000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Beaumont en Beine",
+        "altitude": "165",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Beaumont en Beine",
+            "length": "3.20",
+            "moyen": "2.91",
+            "max": "12.5",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.69200600000000",
+          "49.9415550000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Malgre Tout",
+        "altitude": "450",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Revin",
+            "length": "4.00",
+            "moyen": "7.5",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/684.svg",
+            "category": 2
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.61757700000000",
+          "50.6771810000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont d'Ecault",
+        "altitude": "110",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Etienne au Mont",
+            "length": "0.70",
+            "moyen": "14.43",
+            "max": "23.0",
+            "profil": "https://profils.cols-cyclisme.com/930.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.97306800000000",
+          "45.2536840000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Lagrange",
+        "altitude": "258",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Saint Pantaly d'Ans",
+            "length": "2.80",
+            "moyen": "4.93",
+            "max": "9.5",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.47652000000000",
+          "48.9296390000000"
+        ]
+      },
+      "properties": {
+        "name": "Pain de sucre",
+        "altitude": "242",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Le Vey",
+            "length": "1.00",
+            "moyen": "19.4",
+            "max": "22.0",
+            "profil": "https://profils.cols-cyclisme.com/1754.gif",
+            "category": 1
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.68497300000000",
+          "43.4019390000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont Saint Clair",
+        "altitude": "175",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sète",
+            "length": "1.60",
+            "moyen": "10.81",
+            "max": "20.0",
+            "profil": "https://profils.cols-cyclisme.com/2075.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.87732786322020",
+          "45.5045124568640"
+        ]
+      },
+      "properties": {
+        "name": "Les Charmilles",
+        "altitude": "382",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Vienne",
+            "length": "2.87",
+            "moyen": "7.46",
+            "max": "9.3",
+            "profil": "https://profils.cols-cyclisme.com/2661.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.85213500000000",
+          "47.2606190000000"
+        ]
+      },
+      "properties": {
+        "name": "Urcy",
+        "altitude": "456",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pont de Pany",
+            "length": "5.70",
+            "moyen": "3.02",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/2786.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.75257500000000",
+          "47.3396800000000"
+        ]
+      },
+      "properties": {
+        "name": "Le Garmois",
+        "altitude": "274",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Prâlon",
+            "length": "4.30",
+            "moyen": "6.37",
+            "max": "15.5",
+            "profil": "https://profils.cols-cyclisme.com/2787.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.34174200000000",
+          "47.0261520000000"
+        ]
+      },
+      "properties": {
+        "name": "Frienisberg",
+        "altitude": "728",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Aarberg via Ruchwil",
+            "length": "10.30",
+            "moyen": "2.7",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/3170.gif",
+            "category": 4
+          },
+          {
+            "done": false,
+            "start": "Aarberg via Seedorf",
+            "length": "6.50",
+            "moyen": "4.28",
+            "max": "12.4",
+            "profil": "https://profils.cols-cyclisme.com/3171.gif",
+            "category": 3
+          },
+          {
+            "done": false,
+            "start": "Suberg",
+            "length": "4.90",
+            "moyen": "5.16",
+            "max": "10.8",
+            "profil": "https://profils.cols-cyclisme.com/3172.gif",
+            "category": 3
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.74266600000000",
+          "47.0998670000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Bessey en Chaume",
+        "altitude": "576",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bouilland",
+            "length": "7.10",
+            "moyen": "5.62",
+            "max": "10.0",
+            "profil": "",
+            "category": 2
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.31810300000000",
+          "47.2561540000000"
+        ]
+      },
+      "properties": {
+        "name": "Schwägalp",
+        "altitude": "1352",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Neu St Johann",
+            "length": "11.90",
+            "moyen": "5",
+            "max": "10.0",
+            "profil": "https://profils.cols-cyclisme.com/3375.gif",
+            "category": 1
+          },
+          {
+            "done": false,
+            "start": "Urnasch",
+            "length": "10.90",
+            "moyen": "4.75",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/3376.gif",
+            "category": 2
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.97767300000000",
+          "48.1707090000000"
+        ]
+      },
+      "properties": {
+        "name": "Côte de Bouilly",
+        "altitude": "301",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Bouilly",
+            "length": "3.60",
+            "moyen": "3.89",
+            "max": "8.0",
+            "profil": "https://profils.cols-cyclisme.com/3467.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.00739900000000",
+          "46.8941340000000"
+        ]
+      },
+      "properties": {
+        "name": "Mont des Alouettes",
+        "altitude": "228",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Les Herbiers",
+            "length": "3.00",
+            "moyen": "3.93",
+            "max": "6.5",
+            "profil": "https://profils.cols-cyclisme.com/3474.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.90314500000000",
+          "45.0306340000000"
+        ]
+      },
+      "properties": {
+        "name": "Luzège",
+        "altitude": "458",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Argentat-Beaulieu",
+            "length": "3.00",
+            "moyen": "10",
+            "max": "12.0",
+            "profil": "",
+            "category": 1
+          }
+        ],
+        "mountain": "autre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-118.14790805132080",
+          "51.0391582600782"
+        ]
+      },
+      "properties": {
+        "name": "Promenade des Prés-dans-le-Ciel",
+        "altitude": "1900",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Revelstoke",
+            "length": "26.00",
+            "moyen": "5.77",
+            "max": "9.0",
+            "profil": "",
+            "category": 0
+          }
+        ],
+        "mountain": "autre"
+      }
+    }
+  ]
+}

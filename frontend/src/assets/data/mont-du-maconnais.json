@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.86918000000000",
+          "46.5190800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Préole",
+        "altitude": "270",
+        "climbs": [
+          {
+            "done": false,
+            "start": "plottes 71",
+            "length": "1.20",
+            "moyen": "4.25",
+            "max": "6.5",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.87274000000000",
+          "46.5496600000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Beaufer",
+        "altitude": "303",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D482 / D14",
+            "length": "1.50",
+            "moyen": "3.27",
+            "max": "6.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.80058000000000",
+          "46.5414000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Brancion",
+        "altitude": "354",
+        "climbs": [
+          {
+            "done": false,
+            "start": "d14 depuis le menhir 71",
+            "length": "2.00",
+            "moyen": "3.7",
+            "max": "6.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.66968000000000",
+          "46.3832700000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Bois Clair",
+        "altitude": "394",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Sologny",
+            "length": "2.80",
+            "moyen": "4.14",
+            "max": "6.0",
+            "profil": "",
+            "category": 4
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.81674000000000",
+          "46.5699100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Chèvres",
+        "altitude": "419",
+        "climbs": [
+          {
+            "done": false,
+            "start": "d215 collonge 71",
+            "length": "2.00",
+            "moyen": "7.55",
+            "max": "13.0",
+            "profil": "https://profils.cols-cyclisme.com/1309.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.83093000000000",
+          "46.5904500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de Navois",
+        "altitude": "448",
+        "climbs": [
+          {
+            "done": false,
+            "start": "d215 mancey 71",
+            "length": "2.20",
+            "moyen": "7.55",
+            "max": "14.0",
+            "profil": "https://profils.cols-cyclisme.com/1310.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.76964000000000",
+          "46.4933900000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Pistole",
+        "altitude": "464",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Blanot",
+            "length": "4.60",
+            "moyen": "2.57",
+            "max": "11.0",
+            "profil": "",
+            "category": 5
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.71717000000000",
+          "46.4567100000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Percée",
+        "altitude": "468",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D15 / D134 (maison forestière)",
+            "length": "5.40",
+            "moyen": "3.56",
+            "max": "9.0",
+            "profil": "https://profils.cols-cyclisme.com/1303.gif",
+            "category": 4
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.75188000000000",
+          "46.4784000000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix",
+        "altitude": "486",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Blanot",
+            "length": "2.30",
+            "moyen": "6.09",
+            "max": "11.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.71390000000000",
+          "46.4433300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Quatre Vents",
+        "altitude": "489",
+        "climbs": [
+          {
+            "done": false,
+            "start": "D15 / D134 (maison forestière)",
+            "length": "3.70",
+            "moyen": "4.7",
+            "max": "9.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.69770000000000",
+          "46.4109300000000"
+        ]
+      },
+      "properties": {
+        "name": "Col de la Croix de Montmain",
+        "altitude": "500",
+        "climbs": [
+          {
+            "done": false,
+            "start": "igé 71",
+            "length": "5.60",
+            "moyen": "4.11",
+            "max": "9.0",
+            "profil": "",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.66078000000000",
+          "46.3492500000000"
+        ]
+      },
+      "properties": {
+        "name": "Col des Enceints",
+        "altitude": "529",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Pierreclos",
+            "length": "4.30",
+            "moyen": "5.98",
+            "max": "12.0",
+            "profil": "https://profils.cols-cyclisme.com/1280.svg",
+            "category": 3
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "4.63514000000000",
+          "46.3183800000000"
+        ]
+      },
+      "properties": {
+        "name": "Col du Grand Vent",
+        "altitude": "615",
+        "climbs": [
+          {
+            "done": false,
+            "start": "Tramayes",
+            "length": "4.20",
+            "moyen": "3.93",
+            "max": "6.0",
+            "profil": "https://profils.cols-cyclisme.com/1198.svg",
+            "category": 4
+          }
+        ],
+        "mountain": "mont du maconnais"
+      }
+    }
+  ]
+}
