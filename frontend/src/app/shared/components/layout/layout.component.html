@@ -1,11 +1,11 @@
 <mat-drawer-container class="layout" hasBackdrop="false">
-  <mat-drawer position="start" mode="push" opened>
-    <app-nav-menu></app-nav-menu>
-  </mat-drawer>
-  <mat-drawer #rightPanel position="end">
-    <ng-content select="[rightMenu]"></ng-content>
-  </mat-drawer>
-  <div class="content">
-    <ng-content></ng-content>
-  </div>
+    <mat-drawer position="start" mode="push" opened>
+        <app-nav-menu></app-nav-menu>
+    </mat-drawer>
+    <mat-drawer #rightPanel position="end">
+        <ng-content select="[rightMenu]"></ng-content>
+    </mat-drawer>
+    <div class="content">
+        <ng-content></ng-content>
+    </div>
 </mat-drawer-container>

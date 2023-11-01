@@ -1,29 +1,29 @@
 <mat-nav-list class="menu" [class.labels]="!isLabelHidden">
-  <mat-list-item (click)="isLabelHidden = !isLabelHidden">
-    <mat-icon matListItemIcon>directions_bike</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Cols à vélo</div>
-  </mat-list-item>
-  <mat-divider></mat-divider>
-  <mat-list-item [routerLink]="['/map']" routerLinkActive>
-    <mat-icon matListItemIcon>map</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Map</div>
-  </mat-list-item>
-  <mat-list-item [routerLink]="['/items']" routerLinkActive>
-    <mat-icon matListItemIcon>list</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Items</div>
-  </mat-list-item>
-  <div class="spacer"></div>
-  <mat-list-item routerLink="/profile" routerLinkActive>
-    <mat-icon matListItemIcon>person</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Profile</div>
-  </mat-list-item>
-  <mat-list-item routerLink="/settings" routerLinkActive>
-    <mat-icon matListItemIcon>settings</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Settings</div>
-  </mat-list-item>
-  <mat-divider></mat-divider>
-  <mat-list-item (click)="logout()">
-    <mat-icon matListItemIcon>logout</mat-icon>
-    <div [hidden]="isLabelHidden" matListItemTitle>Logout</div>
-  </mat-list-item>
+    <mat-list-item (click)="isLabelHidden = !isLabelHidden">
+        <mat-icon matListItemIcon>directions_bike</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Cols à vélo</div>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item [routerLink]="['/map']" routerLinkActive>
+        <mat-icon matListItemIcon>map</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Map</div>
+    </mat-list-item>
+    <mat-list-item [routerLink]="['/items']" routerLinkActive>
+        <mat-icon matListItemIcon>list</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Items</div>
+    </mat-list-item>
+    <div class="spacer"></div>
+    <mat-list-item routerLink="/profile" routerLinkActive>
+        <mat-icon matListItemIcon>person</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Profile</div>
+    </mat-list-item>
+    <mat-list-item routerLink="/settings" routerLinkActive>
+        <mat-icon matListItemIcon>settings</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Settings</div>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item (click)="logout()">
+        <mat-icon matListItemIcon>logout</mat-icon>
+        <div [hidden]="isLabelHidden" matListItemTitle>Logout</div>
+    </mat-list-item>
 </mat-nav-list>

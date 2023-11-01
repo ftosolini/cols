@@ -7,40 +7,40 @@ import { MapComponent } from 'src/app/map/components/map/map.component'
 import { LayoutComponent } from 'src/app/shared/components/layout/layout.component'
 
 const routes: Routes = [
-  {
-    path: 'login',
-    component: LoginComponent,
-    canActivate: [publicGuard]
-  },
-  {
-    path: 'map',
-    component: MapComponent,
-    canActivate: [privateGuard]
-  },
-  {
-    path: 'items',
-    component: LayoutComponent,
-    canActivate: [privateGuard]
-  },
-  {
-    path: 'profile',
-    component: LayoutComponent,
-    canActivate: [privateGuard]
-  },
-  {
-    path: 'settings',
-    component: LayoutComponent,
-    canActivate: [privateGuard]
-  },
-  { path: '', redirectTo: 'login', pathMatch: 'full' },
-  {
-    path: '**',
-    redirectTo: 'login'
-  }
+    {
+        path: 'login',
+        component: LoginComponent,
+        canActivate: [publicGuard],
+    },
+    {
+        path: 'map',
+        component: MapComponent,
+        canActivate: [privateGuard],
+    },
+    {
+        path: 'items',
+        component: LayoutComponent,
+        canActivate: [privateGuard],
+    },
+    {
+        path: 'profile',
+        component: LayoutComponent,
+        canActivate: [privateGuard],
+    },
+    {
+        path: 'settings',
+        component: LayoutComponent,
+        canActivate: [privateGuard],
+    },
+    { path: '', redirectTo: 'login', pathMatch: 'full' },
+    {
+        path: '**',
+        redirectTo: 'login',
+    },
 ]
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule],
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule],
 })
 export class AppRoutingModule {}
