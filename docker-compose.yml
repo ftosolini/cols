@@ -1,0 +1,87 @@
+version: "3.9"
+
+services:
+  api:
+    restart: on-failure
+    build: ./server
+    ports:
+      - "3000:3000"
+    volumes:
+      - apiLog:${QRCOLS_API_LOG__PATH}
+    environment:
+      - QRCOLS_API_LOG__PATH
+    networks:
+      - qrcols-network
+
+  database:
+    image: mariadb:10.11.2
+    restart: unless-stopped
+    ports:
+      - "3306:3306"
+    volumes:
+      - database-data:/var/lib/postgresql/data
+    environment:
+      MARIADB_ROOT_PASSWORD: "password"
+      MARIADB_DATABASE: "qrcols"
+      MARIADB_USER: "user"
+      MARIADB_PASSWORD: "password"
+    networks:
+      - qrcols-network
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:21.0.1
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+      - "8443:8443"
+    environment:
+      DB_ADDR: database
+      DB_VENDOR: mariadb
+      DB_USER: "user"
+      DB_PASSWORD: "password"
+      KEYCLOAK_ADMIN: "admin"
+      KEYCLOAK_ADMIN_PASSWORD: "admin"
+    command:
+      - start-dev
+      - --import-realm
+    volumes:
+      - ./qrcols-realm.json:/opt/keycloak/data/import/realm.json
+    depends_on:
+      - database
+      - maildev
+    networks:
+      - qrcols-network
+
+  maildev:
+    image: maildev/maildev
+    ports:
+      - "1080:1080" # HTTP port for the web interface
+      - "1025:1025" # SMTP port for receiving emails
+    networks:
+      - qrcols-network
+
+  dependencies:
+    container_name: ${COMPOSE_PROJECT_NAME}-dependencies
+    depends_on:
+      - database
+      - keycloak
+      - maildev
+    image: dadarek/wait-for-dependencies
+    command: |
+      mysql:3306
+      keycloak:8080
+      maildev:1080
+    environment:
+      SLEEP_LENGTH: 5
+      TIMEOUT_LENGTH: 60
+    networks:
+      - qrcols-network
+
+networks:
+  qrcols-network:
+    name: qrcols-network
+    driver: bridge
+
+volumes:
+  apiLog:
+  database-data:

@@ -42,11 +42,8 @@ testem.log
 Thumbs.db
 /frontend/.angular/cache/
 /**/node_modules/
-/frontend/coverage/
-
-# build files
-/frontend/dist/
-/backend/dist/
+/**/coverage/
+/**/dist/
 
 # local env files
 **/*.env
