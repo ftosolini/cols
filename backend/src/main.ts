@@ -11,7 +11,7 @@ async function bootstrap() {
     const app = await NestFactory.create(AppModule, {})
     const configService = app.get(ConfigService)
 
-    // TODO set cors option from config
+    // FIXME set cors option from config
     app.enableCors({
         origin: /https?:\/\/localhost:\d{4}/,
         methods: 'GET,PUT,PATCH,POST,DELETE',
@@ -36,7 +36,7 @@ async function bootstrap() {
 
     app.use(
         session({
-            secret: 'session-secret', // TODO use configService
+            secret: 'session-secret', // FIXME use configService
             resave: false,
             saveUninitialized: false,
             rolling: true, // keep session alive

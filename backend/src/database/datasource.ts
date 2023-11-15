@@ -18,5 +18,5 @@ export default new DataSource({
     database: configService.get('database.name'),
     entities: ['src/**/*.entity.ts'],
     migrations: ['migrations/*.ts'],
-    synchronize: false,
+    synchronize: configService.get('env') === 'test',
 })
