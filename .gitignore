@@ -41,5 +41,15 @@ testem.log
 .DS_Store
 Thumbs.db
 /frontend/.angular/cache/
-/frontend/node_modules/
+/**/node_modules/
 /frontend/coverage/
+
+# build files
+/frontend/dist/
+/backend/dist/
+
+# local env files
+**/*.env
+
+# logs
+/logs
