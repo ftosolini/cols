@@ -1,11 +1,11 @@
 {
-    "name": "cols",
+    "name": "qr-cols",
     "description": "todo",
     "private": true,
     "repository": "",
     "version": "0.0.0",
     "engines": {
-        "node": "18.14.0"
+        "node": "20.9.0"
     },
     "packageManager": "yarn@3.2.1",
     "scripts": {
@@ -16,6 +16,7 @@
         "populate": "yarn foreach:services -v run populate",
         "start": "yarn foreach:services -ipv -j unlimited run start",
         "style": "yarn workspaces foreach -v run style",
+        "test": "yarn workspaces foreach -v run test",
         "watch": "yarn foreach:services -ipv -j unlimited run watch"
     },
     "devDependencies": {

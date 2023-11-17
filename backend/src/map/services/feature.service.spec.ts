@@ -1,186 +1,273 @@
-import { Test } from '@nestjs/testing'
-import { getRepositoryToken } from '@nestjs/typeorm'
+// unit test of the feature service against a real database
+
+import { Test, TestingModule } from '@nestjs/testing'
+import { getRepositoryToken, TypeOrmModule } from '@nestjs/typeorm'
+import { ConfigModule } from 'config/config.module'
+import { TestDatabaseModule } from 'database/test-database.module'
 import { Feature } from 'map/entities/feature.entity'
 import { FeatureService } from 'map/services/feature.service'
 import { Repository } from 'typeorm'
 
-describe('featureService', () => {
-    let featureService: FeatureService
+describe('FeatureService', () => {
     let featureRepository: Repository<Feature>
+    let featureService: FeatureService
+    let module: TestingModule
 
-    beforeEach(async () => {
-        const moduleRef = await Test.createTestingModule({
+    beforeAll(async () => {
+        module = await Test.createTestingModule({
+            imports: [
+                ConfigModule,
+                TestDatabaseModule.forFeature([Feature]),
+                TypeOrmModule.forFeature([Feature]),
+            ],
             providers: [
-                FeatureService,
                 {
                     provide: getRepositoryToken(Feature),
                     useClass: Repository,
                 },
             ],
         }).compile()
+        featureRepository = module.get<Repository<Feature>>(getRepositoryToken(Feature))
+        featureService = new FeatureService(featureRepository)
+    })
 
-        featureService = moduleRef.get<FeatureService>(FeatureService)
-        featureRepository = moduleRef.get<Repository<Feature>>(getRepositoryToken(Feature))
+    beforeEach(async () => {
+        await featureRepository.clear()
+    })
+
+    afterAll(async () => {
+        await module.close()
     })
 
     describe('create', () => {
         it('should create a feature', async () => {
             const feature = {
-                id: '1',
-                latitude: 12,
-                longitude: 230,
-                name: 'Test Feature',
-                properties: {},
+                properties: {
+                    prop1: 'prop1',
+                },
+                name: 'test',
+                latitude: 0,
+                longitude: 0,
             }
-            jest.spyOn(featureRepository, 'save').mockResolvedValue(feature)
-
-            expect(await featureService.create(feature)).toEqual(feature)
-        })
-
-        it('should create a feature with a default properties value', async () => {
-            const feature = {
-                id: '1',
-                latitude: 12,
-                longitude: 230,
-                name: 'Test Feature',
-            }
-            jest.spyOn(featureRepository, 'save').mockResolvedValue({...feature, properties: {}})
-
-            expect(await featureService.create(feature)).toEqual({...feature, properties: {}})
+            const createdFeature = await featureService.create(feature)
+            expect(createdFeature).toBeDefined()
+            expect(createdFeature.id).toBeDefined()
+            expect(createdFeature.properties).toEqual(feature.properties)
+            expect(createdFeature.latitude).toEqual(feature.latitude)
+            expect(createdFeature.longitude).toEqual(feature.longitude)
+            expect(createdFeature.name).toEqual(feature.name)
+            expect(createdFeature.id).toBeDefined()
         })
     })
 
     describe('update', () => {
         it('should update a feature', async () => {
             const feature = {
-                id: '1',
-                latitude: 12,
-                longitude: 230,
-                name: 'Test Feature',
-                properties: {},
+                properties: {
+                    prop1: 'prop1',
+                },
+                name: 'test',
+                latitude: 0,
+                longitude: 0,
             }
-            jest.spyOn(featureRepository, 'save').mockResolvedValue(feature)
-
-            expect(await featureService.update('1', feature)).toEqual(feature)
+            const createdFeature = await featureService.create(feature)
+            const updatedFeature = await featureService.update(createdFeature.id, {
+                ...createdFeature,
+                name: 'test2',
+            })
+            expect(updatedFeature).toBeDefined()
+            expect(updatedFeature.id).toEqual(createdFeature.id)
+            expect(updatedFeature.properties).toEqual(feature.properties)
+            expect(updatedFeature.latitude).toEqual(feature.latitude)
+            expect(updatedFeature.longitude).toEqual(feature.longitude)
+            expect(updatedFeature.name).toEqual('test2')
         })
     })
 
     describe('findAll', () => {
-        it('should return an array of features', async () => {
-            const features = [
-                { id: '1', latitude: 12, longitude: 230, name: 'Test Feature 1', properties: {} },
-                { id: '2', latitude: 132, longitude: 23, name: 'Test Feature 2', properties: {} },
-            ]
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features)
-
-            expect(await featureService.findAll()).toEqual(features)
+        it('should find all features', async () => {
+            const feature = {
+                properties: {
+                    prop1: 'prop1',
+                },
+                name: 'test',
+                latitude: 0,
+                longitude: 0,
+            }
+            await featureService.create(feature)
+            const features = await featureService.findAll()
+            expect(features).toBeDefined()
+            expect(features.length).toEqual(1)
         })
     })
 
     describe('findById', () => {
-        it('should return a feature', async () => {
+        it('should find a feature by id', async () => {
             const feature = {
-                id: '1',
-                latitude: 12,
-                longitude: 230,
-                name: 'Test Feature',
-                properties: {},
+                name: 'test',
+                latitude: 0,
+                longitude: 0,
             }
-            jest.spyOn(featureRepository, 'findOneBy').mockResolvedValue(feature)
-
-            expect(await featureService.findById('1')).toEqual(feature)
+            const createdFeature = await featureService.create(feature)
+            const foundFeature = await featureService.findById(createdFeature.id)
+            expect(foundFeature).toBeDefined()
+            expect(foundFeature?.id).toEqual(createdFeature.id)
+            expect(foundFeature?.latitude).toEqual(feature.latitude)
+            expect(foundFeature?.longitude).toEqual(feature.longitude)
+            expect(foundFeature?.name).toEqual(feature.name)
         })
 
-        it('should return null if feature is not found', async () => {
-            jest.spyOn(featureRepository, 'findOneBy').mockResolvedValue(null)
-
-            expect(await featureService.findById('1')).toBeNull()
-        })
-    })
-
-    describe('findByRect', () => {
-        it('should return an array of features', async () => {
-            const features = [
-                { id: '1', latitude: 12, longitude: 230, name: 'Test Feature 1', properties: {} },
-                { id: '2', latitude: 132, longitude: 23, name: 'Test Feature 2', properties: {} },
-            ]
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features)
-
-            expect(await featureService.findByRect(5, 5, 300, 300)).toEqual(features)
-        })
-
-        it('should return an empty array if no features are found', async () => {
-            jest.spyOn(featureRepository, 'find').mockResolvedValue([])
-
-            expect(await featureService.findByRect(5, 5, 300, 300)).toEqual([])
-        })
-    })
-
-    describe('paginate', () => {
-        it('should return an array of 5 features', async () => {
-            const features = [
-                { id: '1', latitude: 12, longitude: 230, name: 'Test Feature 1', properties: {} },
-                { id: '2', latitude: 132, longitude: 23, name: 'Test Feature 2', properties: {} },
-                { id: '3', latitude: 132, longitude: 23, name: 'Test Feature 3', properties: {} },
-                { id: '4', latitude: 132, longitude: 23, name: 'Test Feature 4', properties: {} },
-                { id: '5', latitude: 132, longitude: 23, name: 'Test Feature 5', properties: {} },
-                { id: '6', latitude: 132, longitude: 23, name: 'Test Feature 6', properties: {} },
-            ]
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features.slice(0, 5))
-            expect(await featureService.paginate(0, 5)).toEqual(features.slice(0, 5))
-        })
-        it('if no limit is provided, should return an array of 25 features', async () => {
-            const features = Array.from({ length: 30 }, (_, i) => ({
-                id: `${i}`,
-                latitude: 12 + i,
-                longitude: 230 - i,
-                name: `Test Feature ${i}`,
-                properties: {},
-            }))
-
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features.slice(5, 30))
-            expect(await featureService.paginate(5)).toEqual(features.slice(5, 30))
-        })
-
-        it('if no offset is provided, should return an array of 25 features', async () => {
-            const features = Array.from({ length: 30 }, (_, i) => ({
-                id: `${i}`,
-                latitude: 12 + i,
-                longitude: 230 - i,
-                name: `Test Feature ${i}`,
-                properties: {},
-            }))
-
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features.slice(0, 25))
-            expect(await featureService.paginate()).toEqual(features.slice(0, 25))
-        })
-
-        it('should return 5 features from the sixth position', async () => {
-            const features = Array.from({ length: 10 }, (_, i) => ({
-                id: `${i}`,
-                latitude: 12 + i,
-                longitude: 230 - i,
-                name: `Test Feature ${i}`,
-                properties: {},
-            }))
-
-            jest.spyOn(featureRepository, 'find').mockResolvedValue(features.slice(5, 10))
-            expect(await featureService.paginate(5, 5)).toEqual(features.slice(5, 10))
+        it('should return null if feature not found', async () => {
+            const foundFeature = await featureService.findById('notfound')
+            expect(foundFeature).toBeNull()
         })
     })
 
     describe('delete', () => {
         it('should delete a feature', async () => {
             const feature = {
-                id: '1',
-                latitude: 12,
-                longitude: 230,
-                name: 'Test Feature',
-                properties: {},
+                properties: {
+                    prop1: 'prop1',
+                },
+                name: 'test',
+                latitude: 0,
+                longitude: 0,
             }
-            jest.spyOn(featureRepository, 'delete').mockResolvedValue({ raw: feature, affected: 1 })
+            const createdFeature = await featureService.create(feature)
+            await featureService.delete(createdFeature.id)
+            const foundFeature = await featureService.findById(createdFeature.id)
+            expect(foundFeature).toBeNull()
+        })
+    })
 
-            expect(await featureService.delete('1')).toBeUndefined()
+    describe('findByRect', () => {
+        it('should return feature fitting the rectangle', async () => {
+            const features = [
+                {
+                    name: 'test',
+                    latitude: 0,
+                    longitude: 0,
+                },
+                {
+                    name: 'test',
+                    latitude: 1,
+                    longitude: 1,
+                },
+                {
+                    name: 'test',
+                    latitude: 2,
+                    longitude: 2,
+                },
+            ]
+
+            await Promise.all(features.map((feature) => featureService.create(feature)))
+            const foundFeatures = await featureService.findByRect(0, 0, 1, 1)
+            expect(foundFeatures).toBeDefined()
+            expect(foundFeatures.length).toEqual(2)
+            foundFeatures.forEach((feature) => {
+                expect(feature.latitude).toBeGreaterThanOrEqual(0)
+                expect(feature.latitude).toBeLessThanOrEqual(1)
+                expect(feature.longitude).toBeGreaterThanOrEqual(0)
+                expect(feature.longitude).toBeLessThanOrEqual(1)
+            })
+        })
+    })
+
+    describe('paginate', () => {
+        const features = [
+            {
+                name: 'Paris',
+                latitude: 0,
+                longitude: 0,
+            },
+            {
+                name: 'Lyon',
+                latitude: 1,
+                longitude: 1,
+            },
+            {
+                name: 'Toulouse',
+                latitude: 2,
+                longitude: 2,
+            },
+            {
+                name: 'Grenoble',
+                latitude: 2,
+                longitude: 2,
+            },
+            {
+                name: 'Bordeaux',
+                latitude: 2,
+                longitude: 2,
+            },
+            {
+                name: 'Tours',
+                latitude: 2,
+                longitude: 2,
+            },
+        ]
+        beforeEach(async () => {
+            await Promise.all(features.map((feature) => featureService.create(feature)))
+        })
+
+        it('should paginate features', async () => {
+            const foundFeatures = await featureService.paginate(1, 2)
+            expect(foundFeatures).toBeDefined()
+            expect(foundFeatures.length).toEqual(2)
+            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+                features
+                    .map((feature) => feature.name)
+                    .sort(function (a, b) {
+                        if (a > b) {
+                            return 1
+                        }
+                        if (b > a) {
+                            return -1
+                        }
+                        return 0
+                    })
+                    .slice(1, 3)
+            )
+        })
+
+        it('should paginate features with default values', async () => {
+            const foundFeatures = await featureService.paginate()
+            expect(foundFeatures).toBeDefined()
+            expect(foundFeatures.length).toEqual(Math.min(25, features.length))
+            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+                features
+                    .map((feature) => feature.name)
+                    .sort(function (a, b) {
+                        if (a > b) {
+                            return 1
+                        }
+                        if (b > a) {
+                            return -1
+                        }
+                        return 0
+                    })
+                    .slice(0, Math.min(25, features.length))
+            )
+        })
+
+        it('should return the second page of features', async () => {
+            const foundFeatures = await featureService.paginate(2, 2)
+            expect(foundFeatures).toBeDefined()
+            expect(foundFeatures.length).toEqual(2)
+            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+                features
+                    .map((feature) => feature.name)
+                    .sort(function (a, b) {
+                        if (a > b) {
+                            return 1
+                        }
+                        if (b > a) {
+                            return -1
+                        }
+                        return 0
+                    })
+                    .slice(2, 4)
+            )
         })
     })
 })

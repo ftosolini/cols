@@ -5,7 +5,9 @@ import { Between, Repository } from 'typeorm'
 
 @Injectable()
 export class FeatureService {
-    constructor(@InjectRepository(Feature) private featureRepository: Repository<Feature>) {}
+    constructor(
+        @InjectRepository(Feature) private readonly featureRepository: Repository<Feature>
+    ) {}
 
     /**
      * Create a feature

@@ -12,9 +12,10 @@ import { DatabaseModule } from 'database/database.module'
 import { LoggerMiddleware } from 'logger/logger.middleware'
 import { LoggerModule } from 'logger/logger.module'
 import { LoggerService } from 'logger/logger.service'
+import { MapModule } from 'map/map.module'
 
 @Module({
-    imports: [ConfigModule, DatabaseModule, LoggerModule],
+    imports: [ConfigModule, DatabaseModule, LoggerModule, MapModule],
     controllers: [AppController],
     providers: [AppService, LoggerService],
 })

@@ -11,7 +11,7 @@ export const validationSchema = Joi.object({
     LOGS_MAX_FILES: Joi.string().default('14d'),
     SERVER_NAME: Joi.string().required(),
     SERVER_PORT: Joi.number().default(3000),
-    SERVER_VERSION: Joi.string().default(process.env.npm_package_version),
+    SERVER_VERSION: Joi.string().default(process.env.npm_package_version || '0.0.0'),
     DATABASE_HOST: Joi.string().required(),
     DATABASE_PORT: Joi.number().default(3306),
     DATABASE_USERNAME: Joi.string().required(),
