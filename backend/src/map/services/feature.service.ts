@@ -18,6 +18,14 @@ export class FeatureService {
     }
 
     /**
+     * create many features
+     * @param data features to add
+     */
+    createMany(data: Partial<Feature>[]): Promise<Feature[]> {
+        return this.featureRepository.save(data)
+    }
+
+    /**
      * Update a feature
      * @param id
      * @param data

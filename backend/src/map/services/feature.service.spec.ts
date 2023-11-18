@@ -46,8 +46,8 @@ describe('FeatureService', () => {
                     prop1: 'prop1',
                 },
                 name: 'test',
-                latitude: 0,
-                longitude: 0,
+                latitude: 0.1234,
+                longitude: 0.1234567890,
             }
             const createdFeature = await featureService.create(feature)
             expect(createdFeature).toBeDefined()
@@ -57,6 +57,48 @@ describe('FeatureService', () => {
             expect(createdFeature.longitude).toEqual(feature.longitude)
             expect(createdFeature.name).toEqual(feature.name)
             expect(createdFeature.id).toBeDefined()
+
+            const foundFeature = await featureService.findById(createdFeature.id)
+            expect(foundFeature).toBeDefined()
+        })
+    })
+
+    describe('createMany', () => {
+        test('should create many features', async () => {
+            const features = [
+                {
+                    properties: {
+                        prop1: 'prop1',
+                    },
+                    name: 'test',
+                    latitude: 0,
+                    longitude: 0,
+                },
+                {
+                    properties: {
+                        prop1: 'prop1',
+                    },
+                    name: 'test',
+                    latitude: 0,
+                    longitude: 0,
+                },
+            ]
+            const createdFeatures = await featureService.createMany(features)
+            expect(createdFeatures).toBeDefined()
+            expect(createdFeatures.length).toEqual(features.length)
+            createdFeatures.forEach((createdFeature, index) => {
+                expect(createdFeature).toBeDefined()
+                expect(createdFeature.id).toBeDefined()
+                expect(createdFeature.properties).toEqual(features[index].properties)
+                expect(createdFeature.latitude).toEqual(features[index].latitude)
+                expect(createdFeature.longitude).toEqual(features[index].longitude)
+                expect(createdFeature.name).toEqual(features[index].name)
+                expect(createdFeature.id).toBeDefined()
+            })
+
+            const foundFeatures = await featureService.findAll()
+            expect(foundFeatures).toBeDefined()
+            expect(foundFeatures.length).toEqual(features.length)
         })
     })
 
