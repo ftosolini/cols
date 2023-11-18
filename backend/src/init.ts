@@ -34,25 +34,23 @@ const init = async () => {
     logger.log('Done')
 }
 
-const geoJsonToFeature = (geoJson: any):Feature[] => {
-    let feature = new Feature()
-    const {name, climbs, id, ...properties} = geoJson.properties
-    const [longitude, latitude ] = geoJson.geometry.coordinates
+const geoJsonToFeature = (geoJson: any): Feature[] => {
+    const { name, climbs, id, ...properties } = geoJson.properties
+    const [longitude, latitude] = geoJson.geometry.coordinates
 
     return climbs.map((climb: any) => {
         delete climb.done
-        let feature = new Feature()
+        const feature = new Feature()
         feature.id = id
         feature.name = name
         feature.latitude = latitude
         feature.longitude = longitude
         feature.properties = {
             ...properties,
-            ...climb
+            ...climb,
         }
         return feature
     })
-
 }
 
 init()

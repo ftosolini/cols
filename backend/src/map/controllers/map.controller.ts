@@ -18,12 +18,12 @@ export class MapController {
     @ApiNotFoundResponse({ description: 'Not found' })
     @ApiResponse({ status: 200, description: 'feature updated', type: Feature })
     updateFeature(@Param('id') id: string, @Body() data: UpdateFeatureDto): Promise<Feature> {
-        return this.featureService.update(id, {...data, id})
+        return this.featureService.update(id, { ...data, id })
     }
 
     @Get()
     @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
-    getAllFeatures(@Query() offset: number, @Query() limit: number): Promise<Feature[]> {
+    getAllFeatures(@Query('offset') offset?: number, @Query('limit') limit?: number): Promise<Feature[]> {
         return this.featureService.paginate(offset, limit)
     }
 
@@ -47,8 +47,20 @@ export class MapController {
 
     @Post('/rect')
     @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
-    getFeaturesByRect(@Body() data: { minLatitude: number, minLongitude: number, maxLatitude: number, maxLongitude: number }): Promise<Feature[]> {
-        return this.featureService.findByRect(data.minLatitude, data.minLongitude, data.maxLatitude, data.maxLongitude)
+    getFeaturesByRect(
+        @Body()
+        data: {
+            minLatitude: number
+            minLongitude: number
+            maxLatitude: number
+            maxLongitude: number
+        }
+    ): Promise<Feature[]> {
+        return this.featureService.findByRect(
+            data.minLatitude,
+            data.minLongitude,
+            data.maxLatitude,
+            data.maxLongitude
+        )
     }
-
 }

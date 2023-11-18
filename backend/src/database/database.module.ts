@@ -16,7 +16,7 @@ import { DataSource } from 'typeorm'
                 password: configService.get('database.password'),
                 database: configService.get('database.name'),
                 autoLoadEntities: true,
-                synchronize: ['test', 'dev'].includes(configService.get<string>('env')!),
+                synchronize: ['test', 'dev'].includes(configService.get<string>('env') || 'dev'),
             }),
         }),
     ],

@@ -8,10 +8,10 @@ export class Feature {
     @Column({ nullable: false })
     name!: string
 
-    @Column('double',{ nullable: false })
+    @Column('double', { nullable: false })
     latitude!: number
 
-    @Column('double',{ nullable: false })
+    @Column('double', { nullable: false })
     longitude!: number
 
     @Column({

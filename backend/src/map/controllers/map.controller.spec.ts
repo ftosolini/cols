@@ -16,8 +16,8 @@ describe('MapController', () => {
                 FeatureService,
                 {
                     provide: getRepositoryToken(Feature),
-                    useClass: jest.fn()
-                }
+                    useClass: jest.fn(),
+                },
             ],
         }).compile()
 
@@ -74,7 +74,9 @@ describe('MapController', () => {
 
         test('should throw an error if feature not found', async () => {
             jest.spyOn(featureService, 'update').mockRejectedValue(new Error('Not found'))
-            await expect(controller.updateFeature('uuid', {} as UpdateFeatureDto)).rejects.toThrowError('Not found')
+            await expect(controller.updateFeature('uuid', {} as UpdateFeatureDto)).rejects.toThrow(
+                'Not found'
+            )
         })
     })
 
@@ -89,7 +91,7 @@ describe('MapController', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
-                } as Feature
+                } as Feature,
             ])
             const features = await controller.getAllFeatures(0, 25)
             expect(features).toBeDefined()
@@ -113,7 +115,7 @@ describe('MapController', () => {
 
         test('should throw an error if feature not found', async () => {
             jest.spyOn(featureService, 'findById').mockResolvedValue(null)
-            await expect(controller.getFeatureById('uuid')).rejects.toThrowError('Not found')
+            await expect(controller.getFeatureById('uuid')).rejects.toThrow('Not found')
         })
     })
 
@@ -135,7 +137,7 @@ describe('MapController', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
-                } as Feature
+                } as Feature,
             ])
             const features = await controller.getFeaturesByRect({
                 minLatitude: 0,

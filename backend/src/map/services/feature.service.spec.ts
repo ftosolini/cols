@@ -47,7 +47,7 @@ describe('FeatureService', () => {
                 },
                 name: 'test',
                 latitude: 0.1234,
-                longitude: 0.1234567890,
+                longitude: 0.123456789,
             }
             const createdFeature = await featureService.create(feature)
             expect(createdFeature).toBeDefined()
