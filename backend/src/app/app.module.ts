@@ -7,6 +7,7 @@ import {
 } from '@nestjs/common'
 import { AppController } from 'app/app.controller'
 import { AppService } from 'app/app.service'
+import { ClientModule } from 'client/client.module'
 import { ConfigModule } from 'config/config.module'
 import { DatabaseModule } from 'database/database.module'
 import { LoggerMiddleware } from 'logger/logger.middleware'
@@ -15,7 +16,7 @@ import { LoggerService } from 'logger/logger.service'
 import { MapModule } from 'map/map.module'
 
 @Module({
-    imports: [ConfigModule, DatabaseModule, LoggerModule, MapModule],
+    imports: [ConfigModule, DatabaseModule, LoggerModule, MapModule, ClientModule],
     controllers: [AppController],
     providers: [AppService, LoggerService],
 })

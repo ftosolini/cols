@@ -20,4 +20,7 @@ export class Feature {
         default: () => "'{}'",
     })
     properties!: Record<string, any>
+
+    @Column({ nullable: false })
+    clientId!: string
 }

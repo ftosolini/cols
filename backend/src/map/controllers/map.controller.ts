@@ -23,7 +23,10 @@ export class MapController {
 
     @Get()
     @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
-    getAllFeatures(@Query('offset') offset?: number, @Query('limit') limit?: number): Promise<Feature[]> {
+    getAllFeatures(
+        @Query('offset') offset?: number,
+        @Query('limit') limit?: number
+    ): Promise<Feature[]> {
         return this.featureService.paginate(offset, limit)
     }
 

@@ -24,7 +24,7 @@
         "typeorm:generate-migration": "NODE_ENV=dev typeorm-ts-node-commonjs -d src/database/datasource.ts migration:generate migrations/migration",
         "typeorm:create-migration": "NODE_ENV=dev typeorm-ts-node-commonjs migration:create ./migrations/migration",
         "typeorm:revert-migration": "NODE_ENV=dev typeorm-ts-node-commonjs -d src/database/datasource.ts migration:revert",
-        "initialize": "NODE_ENV=dev nest start --entryFile init.js"
+        "initialize": "NODE_ENV=dev nest start --entryFile scripts/init.js"
     },
     "dependencies": {
         "@casl/ability": "^6.5.0",
@@ -106,7 +106,8 @@
             "!src/database/datasource.(t|j)s",
             "!src/config/*.(t|j)s",
             "!src/logger/*.(t|j)s",
-            "!src/auth/*.(t|j)s"
+            "!src/auth/*.(t|j)s",
+            "!src/init.(t|j)s"
         ],
         "coverageDirectory": "../coverage",
         "coverageThreshold": {
