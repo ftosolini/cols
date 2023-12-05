@@ -135,7 +135,9 @@ describe('FeatureService', () => {
         })
 
         test('should throw an error if feature not found', async () => {
-          await expect(featureService.update('notfound', clientId, {})).rejects.toThrow(FeatureNotFoundError)
+            await expect(featureService.update('notfound', clientId, {})).rejects.toThrow(
+                FeatureNotFoundError
+            )
         })
     })
 

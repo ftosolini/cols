@@ -29,7 +29,7 @@ export class MapController {
     updateFeature(
         @Param('id') id: string,
         @Body() data: UpdateFeatureDto,
-        @Headers() headers: any,
+        @Headers() headers: any
     ): Promise<Feature> {
         const clientId = headers['x-client-id']
         return this.featureService.update(id, clientId, { ...data })
