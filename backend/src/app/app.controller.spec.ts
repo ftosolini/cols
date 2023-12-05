@@ -15,15 +15,15 @@ describe('AppController', () => {
     })
 
     describe('root', () => {
-        it('should return "Hello World!"', () => {
+        test('should return "Hello World!"', () => {
             expect(appController.getHello()).toBe('Hello World!')
         })
 
-        it('should return the server status', () => {
+        test('should return the server status', () => {
             expect(appController.getHealth()).toEqual({ status: 'OK' })
         })
 
-        it('should return the lequipe url', () => {
+        test('should return the lequipe url', () => {
             expect(appController.getLequipe()).toEqual({ url: 'https://www.lequipe.fr' })
         })
     })

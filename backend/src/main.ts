@@ -24,7 +24,7 @@ async function bootstrap() {
 
     const config = new DocumentBuilder()
         .setTitle(configService.get<string>('server.name') as string)
-        .setDescription('Mozacpas API description')
+        .setDescription('QR cols API description')
         .setVersion(configService.get<string>('server.version') as string)
         .addTag('qrcols')
         .build()

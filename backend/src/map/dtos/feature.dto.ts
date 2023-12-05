@@ -1,6 +1,6 @@
 // DTO for creating a feature
 import { PartialType } from '@nestjs/swagger'
-import { IsNumber, IsObject, IsString, Max, Min } from 'class-validator'
+import { IsNumber, IsObject, IsString, IsUUID, Max, Min } from 'class-validator'
 
 export class CreateFeatureDto {
     @IsString()
@@ -18,6 +18,9 @@ export class CreateFeatureDto {
 
     @IsObject()
     properties?: object
+
+    @IsUUID()
+    clientId!: string
 }
 
 export class UpdateFeatureDto extends PartialType(CreateFeatureDto) {}

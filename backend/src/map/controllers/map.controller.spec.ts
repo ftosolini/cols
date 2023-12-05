@@ -4,10 +4,15 @@ import { MapController } from 'map/controllers/map.controller'
 import { CreateFeatureDto, UpdateFeatureDto } from 'map/dtos/feature.dto'
 import { Feature } from 'map/entities/feature.entity'
 import { FeatureService } from 'map/services/feature.service'
+import { v4 } from 'uuid'
 
 describe('MapController', () => {
     let controller: MapController
     let featureService: FeatureService
+    const clientId = v4()
+    const mockHeaders = {
+        'x-client-id': clientId,
+    }
 
     beforeEach(async () => {
         const module: TestingModule = await Test.createTestingModule({
@@ -26,7 +31,7 @@ describe('MapController', () => {
     })
 
     describe('createFeature', () => {
-        it('should create a feature', async () => {
+        test('should create a feature', async () => {
             const feature: CreateFeatureDto = {
                 properties: {
                     prop1: 'prop1',
@@ -34,23 +39,25 @@ describe('MapController', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             jest.spyOn(featureService, 'create').mockResolvedValue({
                 ...feature,
                 id: 'uuid',
             } as Feature)
-            const createdFeature = await controller.createFeature(feature)
+            const createdFeature = await controller.createFeature(feature, mockHeaders)
             expect(createdFeature).toBeDefined()
             expect(createdFeature.id).toBeDefined()
             expect(createdFeature.properties).toEqual(feature.properties)
             expect(createdFeature.latitude).toEqual(feature.latitude)
             expect(createdFeature.longitude).toEqual(feature.longitude)
             expect(createdFeature.name).toEqual(feature.name)
+            expect(createdFeature.clientId).toEqual(feature.clientId)
         })
     })
 
     describe('updateFeature', () => {
-        it('should update a feature', async () => {
+        test('should update a feature', async () => {
             const feature: UpdateFeatureDto = {
                 properties: {
                     prop1: 'prop1',
@@ -58,25 +65,27 @@ describe('MapController', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             jest.spyOn(featureService, 'update').mockResolvedValue({
                 ...feature,
                 id: 'uuid',
             } as Feature)
-            const updatedFeature = await controller.updateFeature('uuid', feature)
+            const updatedFeature = await controller.updateFeature('uuid', feature, mockHeaders)
             expect(updatedFeature).toBeDefined()
             expect(updatedFeature.id).toBeDefined()
             expect(updatedFeature.properties).toEqual(feature.properties)
             expect(updatedFeature.latitude).toEqual(feature.latitude)
             expect(updatedFeature.longitude).toEqual(feature.longitude)
             expect(updatedFeature.name).toEqual(feature.name)
+            expect(updatedFeature.clientId).toEqual(feature.clientId)
         })
 
         test('should throw an error if feature not found', async () => {
             jest.spyOn(featureService, 'update').mockRejectedValue(new Error('Not found'))
-            await expect(controller.updateFeature('uuid', {} as UpdateFeatureDto)).rejects.toThrow(
-                'Not found'
-            )
+            await expect(
+                controller.updateFeature('uuid', {} as UpdateFeatureDto, mockHeaders)
+            ).rejects.toThrow('Not found')
         })
     })
 
@@ -91,9 +100,10 @@ describe('MapController', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
+                    clientId,
                 } as Feature,
             ])
-            const features = await controller.getAllFeatures(0, 25)
+            const features = await controller.getAllFeatures(mockHeaders, 0, 25)
             expect(features).toBeDefined()
         })
     })
@@ -108,14 +118,17 @@ describe('MapController', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             } as Feature)
-            const feature = await controller.getFeatureById('uuid')
+            const feature = await controller.getFeatureById('uuid', mockHeaders)
             expect(feature).toBeDefined()
         })
 
         test('should throw an error if feature not found', async () => {
             jest.spyOn(featureService, 'findById').mockResolvedValue(null)
-            await expect(controller.getFeatureById('uuid')).rejects.toThrow('Not found')
+            await expect(controller.getFeatureById('uuid', mockHeaders)).rejects.toThrow(
+                'Not found'
+            )
         })
     })
 
@@ -137,14 +150,18 @@ describe('MapController', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
+                    clientId,
                 } as Feature,
             ])
-            const features = await controller.getFeaturesByRect({
-                minLatitude: 0,
-                minLongitude: 0,
-                maxLatitude: 0,
-                maxLongitude: 0,
-            })
+            const features = await controller.getFeaturesByRect(
+                {
+                    minLatitude: 0,
+                    minLongitude: 0,
+                    maxLatitude: 0,
+                    maxLongitude: 0,
+                },
+                mockHeaders
+            )
             expect(features).toBeDefined()
         })
     })

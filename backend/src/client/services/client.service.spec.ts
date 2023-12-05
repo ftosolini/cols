@@ -38,7 +38,7 @@ describe('ClientService', () => {
     })
 
     describe('create', () => {
-        it('should create a client', async () => {
+        test('should create a client', async () => {
             const input: Partial<ClientEntity> = {
                 name: 'test',
                 subdomain: 'test',

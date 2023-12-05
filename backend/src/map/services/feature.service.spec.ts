@@ -5,13 +5,16 @@ import { getRepositoryToken, TypeOrmModule } from '@nestjs/typeorm'
 import { ConfigModule } from 'config/config.module'
 import { TestDatabaseModule } from 'database/test-database.module'
 import { Feature } from 'map/entities/feature.entity'
+import { FeatureNotFoundError } from 'map/errors/featureNotFound.error'
 import { FeatureService } from 'map/services/feature.service'
 import { Repository } from 'typeorm'
+import { v4 } from 'uuid'
 
 describe('FeatureService', () => {
     let featureRepository: Repository<Feature>
     let featureService: FeatureService
     let module: TestingModule
+    const clientId = v4()
 
     beforeAll(async () => {
         module = await Test.createTestingModule({
@@ -40,14 +43,15 @@ describe('FeatureService', () => {
     })
 
     describe('create', () => {
-        it('should create a feature', async () => {
-            const feature = {
+        test('should create a feature', async () => {
+            const feature: Partial<Feature> = {
                 properties: {
                     prop1: 'prop1',
                 },
                 name: 'test',
                 latitude: 0.1234,
                 longitude: 0.123456789,
+                clientId,
             }
             const createdFeature = await featureService.create(feature)
             expect(createdFeature).toBeDefined()
@@ -56,6 +60,7 @@ describe('FeatureService', () => {
             expect(createdFeature.latitude).toEqual(feature.latitude)
             expect(createdFeature.longitude).toEqual(feature.longitude)
             expect(createdFeature.name).toEqual(feature.name)
+            expect(createdFeature.clientId).toEqual(feature.clientId)
             expect(createdFeature.id).toBeDefined()
 
             const foundFeature = await featureService.findById(createdFeature.id)
@@ -73,6 +78,7 @@ describe('FeatureService', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
+                    clientId,
                 },
                 {
                     properties: {
@@ -81,6 +87,7 @@ describe('FeatureService', () => {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
+                    clientId,
                 },
             ]
             const createdFeatures = await featureService.createMany(features)
@@ -93,17 +100,18 @@ describe('FeatureService', () => {
                 expect(createdFeature.latitude).toEqual(features[index].latitude)
                 expect(createdFeature.longitude).toEqual(features[index].longitude)
                 expect(createdFeature.name).toEqual(features[index].name)
+                expect(createdFeature.clientId).toEqual(features[index].clientId)
                 expect(createdFeature.id).toBeDefined()
             })
 
-            const foundFeatures = await featureService.findAll()
+            const foundFeatures = await featureService.findAll(clientId)
             expect(foundFeatures).toBeDefined()
             expect(foundFeatures.length).toEqual(features.length)
         })
     })
 
     describe('update', () => {
-        it('should update a feature', async () => {
+        test('should update a feature', async () => {
             const feature = {
                 properties: {
                     prop1: 'prop1',
@@ -111,9 +119,10 @@ describe('FeatureService', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             const createdFeature = await featureService.create(feature)
-            const updatedFeature = await featureService.update(createdFeature.id, {
+            const updatedFeature = await featureService.update(createdFeature.id, clientId, {
                 ...createdFeature,
                 name: 'test2',
             })
@@ -124,10 +133,14 @@ describe('FeatureService', () => {
             expect(updatedFeature.longitude).toEqual(feature.longitude)
             expect(updatedFeature.name).toEqual('test2')
         })
+
+        test('should throw an error if feature not found', async () => {
+          await expect(featureService.update('notfound', clientId, {})).rejects.toThrow(FeatureNotFoundError)
+        })
     })
 
     describe('findAll', () => {
-        it('should find all features', async () => {
+        test('should find all features', async () => {
             const feature = {
                 properties: {
                     prop1: 'prop1',
@@ -135,20 +148,22 @@ describe('FeatureService', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             await featureService.create(feature)
-            const features = await featureService.findAll()
+            const features = await featureService.findAll(clientId)
             expect(features).toBeDefined()
             expect(features.length).toEqual(1)
         })
     })
 
     describe('findById', () => {
-        it('should find a feature by id', async () => {
+        test('should find a feature by id', async () => {
             const feature = {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             const createdFeature = await featureService.create(feature)
             const foundFeature = await featureService.findById(createdFeature.id)
@@ -159,14 +174,14 @@ describe('FeatureService', () => {
             expect(foundFeature?.name).toEqual(feature.name)
         })
 
-        it('should return null if feature not found', async () => {
+        test('should return null if feature not found', async () => {
             const foundFeature = await featureService.findById('notfound')
             expect(foundFeature).toBeNull()
         })
     })
 
     describe('delete', () => {
-        it('should delete a feature', async () => {
+        test('should delete a feature', async () => {
             const feature = {
                 properties: {
                     prop1: 'prop1',
@@ -174,6 +189,7 @@ describe('FeatureService', () => {
                 name: 'test',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             }
             const createdFeature = await featureService.create(feature)
             await featureService.delete(createdFeature.id)
@@ -183,22 +199,25 @@ describe('FeatureService', () => {
     })
 
     describe('findByRect', () => {
-        it('should return feature fitting the rectangle', async () => {
+        test('should return feature fitting the rectangle', async () => {
             const features = [
                 {
                     name: 'test',
                     latitude: 0,
                     longitude: 0,
+                    clientId,
                 },
                 {
                     name: 'test',
                     latitude: 1,
                     longitude: 1,
+                    clientId,
                 },
                 {
                     name: 'test',
                     latitude: 2,
                     longitude: 2,
+                    clientId,
                 },
             ]
 
@@ -221,39 +240,45 @@ describe('FeatureService', () => {
                 name: 'Paris',
                 latitude: 0,
                 longitude: 0,
+                clientId,
             },
             {
                 name: 'Lyon',
                 latitude: 1,
                 longitude: 1,
+                clientId,
             },
             {
                 name: 'Toulouse',
                 latitude: 2,
                 longitude: 2,
+                clientId,
             },
             {
                 name: 'Grenoble',
                 latitude: 2,
                 longitude: 2,
+                clientId,
             },
             {
                 name: 'Bordeaux',
                 latitude: 2,
                 longitude: 2,
+                clientId,
             },
             {
                 name: 'Tours',
                 latitude: 2,
                 longitude: 2,
+                clientId,
             },
         ]
         beforeEach(async () => {
             await Promise.all(features.map((feature) => featureService.create(feature)))
         })
 
-        it('should paginate features', async () => {
-            const foundFeatures = await featureService.paginate(1, 2)
+        test('should paginate features', async () => {
+            const foundFeatures = await featureService.paginate(clientId, 1, 2)
             expect(foundFeatures).toBeDefined()
             expect(foundFeatures.length).toEqual(2)
             expect(foundFeatures.map((feature) => feature.name)).toEqual(
@@ -272,8 +297,8 @@ describe('FeatureService', () => {
             )
         })
 
-        it('should paginate features with default values', async () => {
-            const foundFeatures = await featureService.paginate()
+        test('should paginate features with default values', async () => {
+            const foundFeatures = await featureService.paginate(clientId)
             expect(foundFeatures).toBeDefined()
             expect(foundFeatures.length).toEqual(Math.min(25, features.length))
             expect(foundFeatures.map((feature) => feature.name)).toEqual(
@@ -292,8 +317,8 @@ describe('FeatureService', () => {
             )
         })
 
-        it('should return the second page of features', async () => {
-            const foundFeatures = await featureService.paginate(2, 2)
+        test('should return the second page of features', async () => {
+            const foundFeatures = await featureService.paginate(clientId, 2, 2)
             expect(foundFeatures).toBeDefined()
             expect(foundFeatures.length).toEqual(2)
             expect(foundFeatures.map((feature) => feature.name)).toEqual(
