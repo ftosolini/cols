@@ -17,6 +17,7 @@ export class MapController {
     @Post()
     @ApiCreatedResponse({ description: 'Caps created', type: Feature })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     createFeature(@Body() data: CreateFeatureDto, @Headers() headers: any): Promise<Feature> {
         data.clientId = headers['x-client-id']
         return this.featureService.create(data)
@@ -26,6 +27,7 @@ export class MapController {
     @ApiNotFoundResponse({ description: 'Not found' })
     @ApiResponse({ status: 200, description: 'feature updated', type: Feature })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     updateFeature(
         @Param('id') id: string,
         @Body() data: UpdateFeatureDto,
@@ -38,6 +40,7 @@ export class MapController {
     @Get()
     @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     getAllFeatures(
         @Headers() headers: any,
         @Query('offset') offset?: number,
@@ -51,6 +54,7 @@ export class MapController {
     @ApiResponse({ status: 200, description: 'The requested feature', type: Feature })
     @ApiNotFoundResponse({ description: 'Not found' })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     async getFeatureById(@Param('id') id: string, @Headers() headers: any): Promise<Feature> {
         const clientId = headers['x-client-id']
         const feature = await this.featureService.findById(id, clientId)
@@ -70,6 +74,7 @@ export class MapController {
     @Post('/rect')
     @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     getFeaturesByRect(
         @Body()
         data: {

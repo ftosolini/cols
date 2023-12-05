@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm'
 
 @Module({})
 export class TestDatabaseModule {
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     static forFeature(entities: any[]): DynamicModule {
         return {
             module: TestDatabaseModule,

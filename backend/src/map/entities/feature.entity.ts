@@ -19,6 +19,7 @@ export class Feature {
         nullable: false,
         default: () => "'{}'",
     })
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     properties!: Record<string, any>
 
     @Column({ nullable: false })

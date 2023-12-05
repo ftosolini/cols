@@ -48,10 +48,13 @@ const createQrColsClient = async (service: ClientService): Promise<ClientEntity>
         subdomain: 'qrcols',
     })
 }
+
+/* eslint-disable @typescript-eslint/no-explicit-any */
 const geoJsonToFeature = (geoJson: any): Feature[] => {
     const { name, climbs, id, ...properties } = geoJson.properties
     const [longitude, latitude] = geoJson.geometry.coordinates
 
+    /* eslint-disable @typescript-eslint/no-explicit-any */
     return climbs.map((climb: any) => {
         delete climb.done
         const feature = new Feature()
