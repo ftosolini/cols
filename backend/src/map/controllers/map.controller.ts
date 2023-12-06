@@ -8,6 +8,7 @@ import {
 } from '@nestjs/swagger'
 import { CreateFeatureDto, UpdateFeatureDto } from 'map/dtos/feature.dto'
 import { Feature } from 'map/entities/feature.entity'
+import * as GeoJson from 'map/entities/geojson'
 import { FeatureService } from 'map/services/feature.service'
 
 @Controller('map')
@@ -72,10 +73,14 @@ export class MapController {
     }
 
     @Post('/rect')
-    @ApiResponse({ status: 200, description: 'The list of features', type: [Feature] })
+    @ApiResponse({
+        status: 200,
+        description: 'GeoJson features in the given rectangle',
+        type: GeoJson.FeatureCollection,
+    })
     @ApiHeaders([{ name: 'x-client-id', required: true }])
     /* eslint-disable @typescript-eslint/no-explicit-any */
-    getFeaturesByRect(
+    async getFeaturesByRect(
         @Body()
         data: {
             minLatitude: number
@@ -84,14 +89,33 @@ export class MapController {
             maxLongitude: number
         },
         @Headers() headers: any
-    ): Promise<Feature[]> {
+    ): Promise<GeoJson.FeatureCollection> {
         const clientId = headers['x-client-id']
-        return this.featureService.findByRect(
+        const dbFeatures = await this.featureService.findByRect(
             data.minLatitude,
             data.minLongitude,
             data.maxLatitude,
             data.maxLongitude,
             clientId
         )
+        return new GeoJson.FeatureCollection(
+            dbFeatures.map((feature) => MapController.featureToGeoJsonFeature(feature))
+        )
+    }
+
+    static featureToGeoJsonFeature(feature: Feature): GeoJson.Feature {
+        const { longitude, latitude, ...properties } = feature
+        return {
+            type: 'Feature',
+            geometry: {
+                type: 'Point',
+                coordinates: [longitude, latitude],
+            },
+            properties: {
+                ...properties,
+                id: feature.id,
+                name: feature.name,
+            },
+        }
     }
 }

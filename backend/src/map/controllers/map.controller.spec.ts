@@ -5,6 +5,7 @@ import { CreateFeatureDto, UpdateFeatureDto } from 'map/dtos/feature.dto'
 import { Feature } from 'map/entities/feature.entity'
 import { FeatureService } from 'map/services/feature.service'
 import { v4 } from 'uuid'
+import * as GeoJson from 'map/entities/geojson'
 
 describe('MapController', () => {
     let controller: MapController
@@ -140,8 +141,8 @@ describe('MapController', () => {
     })
 
     describe('getFeaturesByRect', () => {
-        test('should return an array of features', async () => {
-            jest.spyOn(featureService, 'findByRect').mockResolvedValue([
+        test('should return geojson feature collection with the features', async () => {
+            const features: Feature[] = [
                 {
                     id: 'uuid',
                     properties: {
@@ -151,9 +152,10 @@ describe('MapController', () => {
                     latitude: 0,
                     longitude: 0,
                     clientId,
-                } as Feature,
-            ])
-            const features = await controller.getFeaturesByRect(
+                },
+            ]
+            jest.spyOn(featureService, 'findByRect').mockResolvedValue(features)
+            const geojson = await controller.getFeaturesByRect(
                 {
                     minLatitude: 0,
                     minLongitude: 0,
@@ -162,7 +164,23 @@ describe('MapController', () => {
                 },
                 mockHeaders
             )
-            expect(features).toBeDefined()
+            expect(geojson).toBeDefined()
+            expect(geojson.features).toEqual([MapController.featureToGeoJsonFeature(features[0])])
+        })
+
+        test('when no features found should return empty geojson feature collection', async () => {
+            jest.spyOn(featureService, 'findByRect').mockResolvedValue([])
+            const geojson = await controller.getFeaturesByRect(
+                {
+                    minLatitude: 0,
+                    minLongitude: 0,
+                    maxLatitude: 0,
+                    maxLongitude: 0,
+                },
+                mockHeaders
+            )
+            expect(geojson).toEqual(new GeoJson.FeatureCollection([]))
+
         })
     })
 })
