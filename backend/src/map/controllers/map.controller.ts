@@ -72,6 +72,7 @@ export class MapController {
     }
 
     @Post(':id')
+    @HttpCode(200)
     @ApiNotFoundResponse({ description: 'Not found' })
     @ApiResponse({ status: 200, description: 'feature updated', type: Feature })
     @ApiHeaders([{ name: 'x-client-id', required: true }])

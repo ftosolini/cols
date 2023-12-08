@@ -1,14 +1,16 @@
+import { INestApplication } from '@nestjs/common'
 import { Test, TestingModule } from '@nestjs/testing'
 import { getRepositoryToken } from '@nestjs/typeorm'
 import { ClientController } from 'client/controllers/client.controller'
 import { ClientEntity } from 'client/entities/client.entity'
 import { ClientService } from 'client/services/client.service'
+import request from 'supertest'
 
 describe('ClientController', () => {
-    let controller: ClientController
+    let app: INestApplication
     let service: ClientService
 
-    beforeEach(async () => {
+    beforeAll(async () => {
         const module: TestingModule = await Test.createTestingModule({
             controllers: [ClientController],
             providers: [
@@ -20,26 +22,32 @@ describe('ClientController', () => {
             ],
         }).compile()
 
-        controller = module.get<ClientController>(ClientController)
         service = module.get<ClientService>(ClientService)
+        app = module.createNestApplication()
+        await app.init()
     })
 
-    describe('getBySubdomain', () => {
-        test('should return a client when subdomain is given', async () => {
+    afterAll(async () => {
+        await app.close()
+    })
+
+    describe('GET /client/:subdomain', () => {
+        test('should return a client when subdomain is given', () => {
             const client = {
                 id: 'test',
                 name: 'test',
                 subdomain: 'test',
             } as ClientEntity
             jest.spyOn(service, 'getBySubdomain').mockResolvedValue(client)
-            const found = await controller.getBySubdomain(client.subdomain)
-            expect(found).toBeDefined()
-            expect(found).toEqual(client)
+            return request(app.getHttpServer()).get('/client/test').expect(200).expect(client)
         })
 
-        test('should throw an error when client is not found', async () => {
+        test('should redirect when client is not found', () => {
             jest.spyOn(service, 'getBySubdomain').mockResolvedValue(null)
-            await expect(controller.getBySubdomain('test')).rejects.toThrow('Not found')
+            return request(app.getHttpServer())
+                .get('/client/test')
+                .expect(302)
+                .expect('Location', 'http://qrcols.localhost:4200')
         })
     })
 })

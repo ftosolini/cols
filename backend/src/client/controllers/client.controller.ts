@@ -1,7 +1,8 @@
-import { Controller, Get, Param } from '@nestjs/common'
-import { ApiNotFoundResponse, ApiResponse, ApiTags } from '@nestjs/swagger'
+import { Controller, Get, Param, Res } from '@nestjs/common'
+import { ApiResponse, ApiTags } from '@nestjs/swagger'
 import { ClientEntity } from 'client/entities/client.entity'
 import { ClientService } from 'client/services/client.service'
+import { Response } from 'express'
 
 @Controller('client')
 @ApiTags('Client')
@@ -9,13 +10,18 @@ export class ClientController {
     constructor(private readonly clientService: ClientService) {}
 
     @Get(':subdomain')
-    @ApiNotFoundResponse({ description: 'Not found' })
+    @ApiResponse({ status: 302, description: 'Home url' })
     @ApiResponse({ status: 200, description: 'The requested client', type: ClientEntity })
-    async getBySubdomain(@Param('subdomain') subdomain: string): Promise<ClientEntity> {
+    async getBySubdomain(
+        @Param('subdomain') subdomain: string,
+        @Res() res: Response
+    ): Promise<void> {
         const client = await this.clientService.getBySubdomain(subdomain)
         if (client) {
-            return client
+            res.send(client)
+        } else {
+            // fixme get url from config
+            res.redirect('http://qrcols.localhost:4200')
         }
-        throw new Error('Not found')
     }
 }
