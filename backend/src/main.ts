@@ -4,8 +4,6 @@ import { NestFactory } from '@nestjs/core'
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger'
 import { AppModule } from 'app/app.module'
 import { LoggerService } from 'logger/logger.service'
-import session from 'express-session'
-import passport from 'passport'
 
 async function bootstrap() {
     const app = await NestFactory.create(AppModule, {})
@@ -20,7 +18,7 @@ async function bootstrap() {
 
     const loggerService = new LoggerService(configService)
     loggerService.log('Server starting...')
-    app.useLogger(loggerService)
+    // app.useLogger(loggerService)
 
     const config = new DocumentBuilder()
         .setTitle(configService.get<string>('server.name') as string)
@@ -34,7 +32,7 @@ async function bootstrap() {
     app.useGlobalPipes(new ValidationPipe())
     app.enableShutdownHooks()
 
-    app.use(
+    /*app.use(
         session({
             secret: 'session-secret', // FIXME use configService
             resave: false,
@@ -45,9 +43,9 @@ async function bootstrap() {
                 httpOnly: true,
             },
         })
-    )
-    app.use(passport.initialize())
-    app.use(passport.session())
+    )*/
+    // app.use(passport.initialize())
+    // app.use(passport.session())
 
     await app.listen(configService.get<number>('server.port') as number)
     loggerService.log(

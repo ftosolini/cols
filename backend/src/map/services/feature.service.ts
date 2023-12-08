@@ -1,7 +1,6 @@
 import { Injectable } from '@nestjs/common'
 import { InjectRepository } from '@nestjs/typeorm'
 import { Feature } from 'map/entities/feature.entity'
-import { FeatureNotFoundError } from 'map/errors/featureNotFound.error'
 import { Between, Repository } from 'typeorm'
 
 @Injectable()
@@ -28,14 +27,11 @@ export class FeatureService {
 
     /**
      * Update a feature
-     * @param id
-     * @param clientId
-     * @param data
+     * @param feature properties to update
+     * @param id identifier of the feature
      */
-    async update(id: string, clientId: string, data: Partial<Feature>): Promise<Feature> {
-        const feature = await this.findById(id, clientId)
-        if (!feature) throw new FeatureNotFoundError(id)
-        return await this.featureRepository.save({ ...feature, ...data, id, clientId })
+    async update(id: string, feature: Partial<Feature>): Promise<Feature> {
+        return await this.featureRepository.save({ ...feature, id })
     }
 
     /**

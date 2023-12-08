@@ -11,8 +11,8 @@ export class FeatureCollection {
 export interface Feature {
     type: 'Feature'
     geometry: Point
-    /** eslint-disable @typescript-eslint/no-explicit-any */
-    properties: any
+    /* eslint-disable @typescript-eslint/no-explicit-any */
+    properties: Record<string, any>
 }
 
 export interface Point {

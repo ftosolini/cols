@@ -1,3 +1,4 @@
+import { BadRequestException, NotFoundException } from '@nestjs/common'
 import { Test, TestingModule } from '@nestjs/testing'
 import { getRepositoryToken } from '@nestjs/typeorm'
 import { MapController } from 'map/controllers/map.controller'
@@ -55,6 +56,12 @@ describe('MapController', () => {
             expect(createdFeature.name).toEqual(feature.name)
             expect(createdFeature.clientId).toEqual(feature.clientId)
         })
+
+        test('should throw an error if clientId is missing', () => {
+            expect(() => controller.createFeature({} as CreateFeatureDto, {})).toThrow(
+                BadRequestException
+            )
+        })
     })
 
     describe('updateFeature', () => {
@@ -68,6 +75,10 @@ describe('MapController', () => {
                 longitude: 0,
                 clientId,
             }
+            jest.spyOn(featureService, 'findById').mockResolvedValue({
+                ...feature,
+                id: 'uuid',
+            } as Feature)
             jest.spyOn(featureService, 'update').mockResolvedValue({
                 ...feature,
                 id: 'uuid',
@@ -83,10 +94,16 @@ describe('MapController', () => {
         })
 
         test('should throw an error if feature not found', async () => {
-            jest.spyOn(featureService, 'update').mockRejectedValue(new Error('Not found'))
+            jest.spyOn(featureService, 'findById').mockResolvedValue(null)
             await expect(
                 controller.updateFeature('uuid', {} as UpdateFeatureDto, mockHeaders)
-            ).rejects.toThrow('Not found')
+            ).rejects.toThrow(NotFoundException)
+        })
+
+        test('should throw an error if clientId is missing', async () => {
+            await expect(
+                controller.updateFeature('uuid', {} as UpdateFeatureDto, {})
+            ).rejects.toThrow(BadRequestException)
         })
     })
 
@@ -106,6 +123,12 @@ describe('MapController', () => {
             ])
             const features = await controller.getAllFeatures(mockHeaders, 0, 25)
             expect(features).toBeDefined()
+        })
+
+        test('should throw an error if clientId is missing', () => {
+            expect(() => controller.getAllFeatures({}, 0, 25)).toThrow(
+                BadRequestException
+            )
         })
     })
 
@@ -128,7 +151,13 @@ describe('MapController', () => {
         test('should throw an error if feature not found', async () => {
             jest.spyOn(featureService, 'findById').mockResolvedValue(null)
             await expect(controller.getFeatureById('uuid', mockHeaders)).rejects.toThrow(
-                'Not found'
+                NotFoundException
+            )
+        })
+
+        test('should throw an error if clientId is missing', async () => {
+            await expect(controller.getFeatureById('uuid', {})).rejects.toThrow(
+                BadRequestException
             )
         })
     })
@@ -180,7 +209,20 @@ describe('MapController', () => {
                 mockHeaders
             )
             expect(geojson).toEqual(new GeoJson.FeatureCollection([]))
+        })
 
+        test('should throw an error if clientId is missing', async () => {
+            await expect(
+                controller.getFeaturesByRect(
+                    {
+                        minLatitude: 0,
+                        minLongitude: 0,
+                        maxLatitude: 0,
+                        maxLongitude: 0,
+                    },
+                    {}
+                )
+            ).rejects.toThrow(BadRequestException)
         })
     })
 })

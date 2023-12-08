@@ -5,7 +5,6 @@ import { getRepositoryToken, TypeOrmModule } from '@nestjs/typeorm'
 import { ConfigModule } from 'config/config.module'
 import { TestDatabaseModule } from 'database/test-database.module'
 import { Feature } from 'map/entities/feature.entity'
-import { FeatureNotFoundError } from 'map/errors/featureNotFound.error'
 import { FeatureService } from 'map/services/feature.service'
 import { Repository } from 'typeorm'
 import { v4 } from 'uuid'
@@ -110,7 +109,7 @@ describe('FeatureService', () => {
         })
     })
 
-    describe('update', () => {
+    describe('upsert', () => {
         test('should update a feature', async () => {
             const feature = {
                 properties: {
@@ -122,7 +121,7 @@ describe('FeatureService', () => {
                 clientId,
             }
             const createdFeature = await featureService.create(feature)
-            const updatedFeature = await featureService.update(createdFeature.id, clientId, {
+            const updatedFeature = await featureService.update(createdFeature.id, {
                 ...createdFeature,
                 name: 'test2',
             })
@@ -132,12 +131,6 @@ describe('FeatureService', () => {
             expect(updatedFeature.latitude).toEqual(feature.latitude)
             expect(updatedFeature.longitude).toEqual(feature.longitude)
             expect(updatedFeature.name).toEqual('test2')
-        })
-
-        test('should throw an error if feature not found', async () => {
-            await expect(featureService.update('notfound', clientId, {})).rejects.toThrow(
-                FeatureNotFoundError
-            )
         })
     })
 
