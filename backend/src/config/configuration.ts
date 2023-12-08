@@ -27,4 +27,7 @@ export default () => ({
         clientId: process.env.KEYCLOAK_CLIENT_ID,
         clientSecret: process.env.KEYCLOAK_CLIENT_SECRET,
     },
+    app: {
+        homeUrl: process.env.APP_HOME_URL,
+    },
 })

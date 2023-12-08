@@ -4,6 +4,7 @@ import { getRepositoryToken } from '@nestjs/typeorm'
 import { ClientController } from 'client/controllers/client.controller'
 import { ClientEntity } from 'client/entities/client.entity'
 import { ClientService } from 'client/services/client.service'
+import { ConfigModule } from 'config/config.module'
 import request from 'supertest'
 
 describe('ClientController', () => {
@@ -12,6 +13,7 @@ describe('ClientController', () => {
 
     beforeAll(async () => {
         const module: TestingModule = await Test.createTestingModule({
+            imports: [ConfigModule],
             controllers: [ClientController],
             providers: [
                 ClientService,
@@ -47,7 +49,7 @@ describe('ClientController', () => {
             return request(app.getHttpServer())
                 .get('/client/test')
                 .expect(302)
-                .expect('Location', 'http://qrcols.localhost:4200')
+                .expect('Location', 'http://test.com')
         })
     })
 })
