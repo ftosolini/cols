@@ -18,9 +18,8 @@ describe('MapService', () => {
         expect(service).toBeTruthy()
     })
 
-    describe('loadCols', () => {
+    describe('load features', () => {
         test('should return a GeoJson<Col>', async () => {
-            const name = 'test'
             const httpClient = TestBed.inject(HttpClient)
             const mockGeoJson = {
                 type: 'Feature',
@@ -75,7 +74,7 @@ describe('MapService', () => {
 
             const getSpy = jest.spyOn(httpClient, 'get').mockReturnValue(of(mockGeoJson))
             service
-                .loadCols(name)
+                .loadFeatures(0, 0, 0, 0)
                 .subscribe((geojson) => {
                     expect(geojson).toEqual(mockGeoJson)
                     expect(getSpy).toHaveBeenCalled()

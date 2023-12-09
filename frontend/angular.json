@@ -60,6 +60,10 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+            "options": {
+                "buildTarget": "cols:build",
+                "proxyConfig": "proxy.config.json"
+            },
           "configurations": {
             "production": {
               "buildTarget": "cols:build:production"

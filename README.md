@@ -1,4 +1,4 @@
-# COLS
+# QR COLS
 
 Outils pour voir la liste des cols à vélo en France et marquer les ascencions faites
 

@@ -1,3 +1,4 @@
+import { HttpClientTestingModule } from '@angular/common/http/testing'
 import { ComponentFixture, TestBed } from '@angular/core/testing'
 import { MatListModule } from '@angular/material/list'
 import { MatSidenavModule } from '@angular/material/sidenav'
@@ -13,7 +14,13 @@ describe('LayoutComponent', () => {
     beforeEach(() => {
         TestBed.configureTestingModule({
             declarations: [LayoutComponent, NavMenuComponent],
-            imports: [MatSidenavModule, MatListModule, NoopAnimationsModule, RouterTestingModule],
+            imports: [
+                MatSidenavModule,
+                MatListModule,
+                NoopAnimationsModule,
+                RouterTestingModule,
+                HttpClientTestingModule,
+            ],
         })
         fixture = TestBed.createComponent(LayoutComponent)
         component = fixture.componentInstance

@@ -1,1 +1,4 @@
-<router-outlet></router-outlet>
+<router-outlet *ngIf="isLoaded(); else spinner"></router-outlet>
+<ng-template #spinner>
+    <mat-spinner id="spinner"></mat-spinner>
+</ng-template>
