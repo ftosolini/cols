@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http'
 import { Injectable } from '@angular/core'
-import { Col } from 'src/app/map/components/col'
-import { GeoJson } from 'src/app/map/components/geojson.model'
+import { GeoJSON } from 'leaflet'
+import { Observable } from 'rxjs'
 
 @Injectable({
     providedIn: 'root',
@@ -9,7 +9,21 @@ import { GeoJson } from 'src/app/map/components/geojson.model'
 export class MapService {
     constructor(private httpClient: HttpClient) {}
 
-    loadCols(name: string) {
-        return this.httpClient.get<GeoJson<Col>>(`assets/data/${name}.json`)
+    loadFeatures(
+        minLatitude: number,
+        minLongitude: number,
+        maxLatitude: number,
+        maxLongitude: number
+        /* eslint-disable @typescript-eslint/no-explicit-any */
+    ): Observable<GeoJSON.FeatureCollection<GeoJSON.Point, any>> {
+        return this.httpClient.post<GeoJSON.FeatureCollection<GeoJSON.Point, any>>(
+            `/api/map/geojson`,
+            {
+                minLatitude,
+                minLongitude,
+                maxLatitude,
+                maxLongitude,
+            }
+        )
     }
 }

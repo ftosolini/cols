@@ -1,4 +1,5 @@
 import { Component } from '@angular/core'
+import { ConfigService } from 'src/app/core/config.service'
 
 @Component({
     selector: 'app-root',
@@ -6,5 +7,9 @@ import { Component } from '@angular/core'
     styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-    title = 'cols'
+    constructor(private configService: ConfigService) {}
+
+    isLoaded(): boolean {
+        return this.configService.isLoaded
+    }
 }

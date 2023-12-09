@@ -7,8 +7,6 @@ import { Feature } from 'src/app/map/components/geojson.model'
 import { MapService } from 'src/app/map/map.service'
 import { LayoutComponent } from 'src/app/shared/components/layout/layout.component'
 
-const MAX_CATEGORY = 2
-
 @Component({
     selector: 'app-map',
     templateUrl: './map.component.html',
@@ -37,11 +35,12 @@ export class MapComponent implements AfterViewInit {
         })
     }
 
-    createGeoJsonLayer(cols: GeoJSON.Feature<GeoJSON.Point, Col>[]) {
+    /* eslint-disable @typescript-eslint/no-explicit-any */
+    createGeoJsonLayer(cols: GeoJSON.Feature<GeoJSON.Point, any>[]) {
         return L.geoJson(cols, {
             pointToLayer: (feature, latLng) => {
                 return L.circleMarker(latLng, {
-                    color: this.getColColor(feature),
+                    color: 'red',
                     fillOpacity: 0.8,
                     /* c8 ignore next: not needed */
                     radius: L.Browser.mobile ? 15 : 3,
@@ -52,7 +51,6 @@ export class MapComponent implements AfterViewInit {
 
     handleGeoJsonClick(layer: L.Layer) {
         layer.on('click', async (event) => {
-            console.log(event.propagatedFrom)
             this.selectedFeature = event.propagatedFrom.feature
             await this.layout.toggleRightPanel(true)
         })
@@ -60,17 +58,8 @@ export class MapComponent implements AfterViewInit {
 
     loadCols() {
         return this.mapService
-            .loadCols('pyerenees-est')
-            .pipe(
-                map(
-                    (geoJson) =>
-                        (geoJson.features = geoJson.features.filter((feat) =>
-                            feat.properties.climbs.some(
-                                (climb: Climb) => climb.category < MAX_CATEGORY
-                            )
-                        ))
-                )
-            )
+            .loadFeatures(-90, -180, 90, 180)
+            .pipe(map((geoJson) => geoJson.features))
     }
 
     getColColor(feature: Feature<Col>) {

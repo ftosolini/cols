@@ -18,7 +18,7 @@ async function bootstrap() {
 
     const loggerService = new LoggerService(configService)
     loggerService.log('Server starting...')
-    // app.useLogger(loggerService)
+    app.useLogger(loggerService)
 
     const config = new DocumentBuilder()
         .setTitle(configService.get<string>('server.name') as string)

@@ -1,3 +1,4 @@
+import { HttpClientTestingModule } from '@angular/common/http/testing'
 import { ComponentFixture, TestBed } from '@angular/core/testing'
 import { MatListModule } from '@angular/material/list'
 import { Router } from '@angular/router'
@@ -14,7 +15,7 @@ describe('NavMenuComponent', () => {
     beforeEach(() => {
         TestBed.configureTestingModule({
             declarations: [NavMenuComponent],
-            imports: [AuthModule, MatListModule, RouterTestingModule],
+            imports: [AuthModule, MatListModule, RouterTestingModule, HttpClientTestingModule],
             providers: [{ provide: AuthService, useValue: { isLogged: () => false } }],
         })
         fixture = TestBed.createComponent(NavMenuComponent)

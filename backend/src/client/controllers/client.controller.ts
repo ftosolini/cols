@@ -24,7 +24,7 @@ export class ClientController {
         if (client) {
             res.send(client)
         } else {
-            res.redirect(this.configService.get<string>('app.homeUrl') as string)
+            res.send({ redirectUrl: this.configService.get<string>('app.homeUrl') })
         }
     }
 }

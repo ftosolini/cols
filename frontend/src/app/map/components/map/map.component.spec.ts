@@ -1,3 +1,4 @@
+import { HttpClientTestingModule } from '@angular/common/http/testing'
 import { ComponentFixture, TestBed } from '@angular/core/testing'
 import { MatIconModule } from '@angular/material/icon'
 import { NoopAnimationsModule } from '@angular/platform-browser/animations'
@@ -56,12 +57,18 @@ describe('MapComponent', () => {
     beforeEach(() => {
         TestBed.configureTestingModule({
             declarations: [MapComponent, FeatureInfoComponent],
-            imports: [SharedModule, MatIconModule, NoopAnimationsModule, RouterTestingModule],
+            imports: [
+                SharedModule,
+                MatIconModule,
+                NoopAnimationsModule,
+                RouterTestingModule,
+                HttpClientTestingModule,
+            ],
             providers: [
                 {
                     provide: MapService,
                     useValue: {
-                        loadCols: () => of(geoJson),
+                        loadFeatures: () => of(geoJson),
                     },
                 },
             ],
