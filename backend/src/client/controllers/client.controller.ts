@@ -10,7 +10,7 @@ import { Response } from 'express'
 export class ClientController {
     constructor(
         private readonly clientService: ClientService,
-        private readonly configService: ConfigService,
+        private readonly configService: ConfigService
     ) {}
 
     @Get(':subdomain')

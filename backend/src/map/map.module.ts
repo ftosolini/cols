@@ -6,10 +6,7 @@ import { Feature } from 'map/entities/feature.entity'
 import { FeatureService } from 'map/services/feature.service'
 
 @Module({
-    imports: [
-        TypeOrmModule.forFeature([Feature]),
-        ConfigModule,
-    ],
+    imports: [TypeOrmModule.forFeature([Feature]), ConfigModule],
     providers: [FeatureService],
     controllers: [MapController],
 })

@@ -20,5 +20,5 @@ export const validationSchema = Joi.object({
     KEYCLOAK_ISSUER: Joi.string().required(),
     KEYCLOAK_CLIENT_ID: Joi.string().required(),
     KEYCLOAK_CLIENT_SECRET: Joi.string().required(),
-    APP_HOME_URL: Joi.string().default('http://www.ftosolini.fr')
+    APP_HOME_URL: Joi.string().default('http://www.ftosolini.fr'),
 })
