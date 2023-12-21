@@ -102,7 +102,7 @@ export class MapController {
         @Headers() headers: any,
         @Query('offset') offset?: number,
         @Query('limit') limit?: number
-    ): Promise<Feature[]> {
+    ): Promise<{ items: Feature[]; count: number }> {
         const clientId = headers['x-client-id']
         if (!clientId) {
             throw new BadRequestException('Missing client id')

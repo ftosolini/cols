@@ -82,4 +82,34 @@ describe('MapService', () => {
                 .unsubscribe()
         })
     })
+
+    describe('paginate features', () => {
+        test('should return a Pagination with default values', async () => {
+            const httpClient = TestBed.inject(HttpClient)
+            const getSpy = jest
+                .spyOn(httpClient, 'get')
+                .mockReturnValue(of({ count: 1, items: [] }))
+            service
+                .paginateFeatures()
+                .subscribe((pagination) => {
+                    expect(pagination).toEqual({ count: 1, items: [] })
+                    expect(getSpy).toHaveBeenCalledWith('/api/map?offset=0&limit=10')
+                })
+                .unsubscribe()
+        })
+
+        test('should return a Pagination with custom values', async () => {
+            const httpClient = TestBed.inject(HttpClient)
+            const getSpy = jest
+                .spyOn(httpClient, 'get')
+                .mockReturnValue(of({ count: 1, items: [] }))
+            service
+                .paginateFeatures(30, 25)
+                .subscribe((pagination) => {
+                    expect(pagination).toEqual({ count: 1, items: [] })
+                    expect(getSpy).toHaveBeenCalledWith('/api/map?offset=30&limit=25')
+                })
+                .unsubscribe()
+        })
+    })
 })

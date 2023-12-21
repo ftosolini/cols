@@ -81,8 +81,12 @@ export class FeatureService {
      * @param offset default 0
      * @param limit default 25
      */
-    paginate(clientId: string, offset = 0, limit = 25): Promise<Feature[]> {
-        return this.featureRepository.find({
+    async paginate(
+        clientId: string,
+        offset = 0,
+        limit = 25
+    ): Promise<{ items: Feature[]; count: number }> {
+        const [items, count] = await this.featureRepository.findAndCount({
             where: { clientId },
             skip: offset,
             take: limit,
@@ -90,6 +94,7 @@ export class FeatureService {
                 name: 'ASC',
             },
         })
+        return { items, count }
     }
 
     /**

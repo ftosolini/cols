@@ -133,12 +133,12 @@ describe('MapController', () => {
                     clientId,
                 },
             ]
-            jest.spyOn(featureService, 'paginate').mockResolvedValue(features)
+            jest.spyOn(featureService, 'paginate').mockResolvedValue({ items: features, count: 2 })
             return request(app.getHttpServer())
                 .get('/map')
                 .set('x-client-id', clientId)
                 .expect(200)
-                .expect(features)
+                .expect({ items: features, count: 2 })
         })
 
         test('should throw an error if clientId is missing', () => {

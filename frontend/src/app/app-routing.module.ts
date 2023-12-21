@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router'
 import { LoginComponent } from 'src/app/auth/components/login/login.component'
 import { privateGuard } from 'src/app/core/private.guard'
 import { publicGuard } from 'src/app/core/public.guard'
+import { ListFeaturesComponent } from 'src/app/map/components/list-features/list-features.component'
 import { MapComponent } from 'src/app/map/components/map/map.component'
 import { LayoutComponent } from 'src/app/shared/components/layout/layout.component'
 
@@ -13,14 +14,20 @@ const routes: Routes = [
         canActivate: [publicGuard],
     },
     {
-        path: 'map',
-        component: MapComponent,
-        canActivate: [privateGuard],
-    },
-    {
-        path: 'items',
+        path: '',
         component: LayoutComponent,
-        canActivate: [privateGuard],
+        children: [
+            {
+                path: 'items',
+                component: ListFeaturesComponent,
+                canActivate: [privateGuard],
+            },
+            {
+                path: 'map',
+                component: MapComponent,
+                canActivate: [privateGuard],
+            },
+        ],
     },
     {
         path: 'profile',

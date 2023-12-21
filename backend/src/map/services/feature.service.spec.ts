@@ -275,8 +275,8 @@ describe('FeatureService', () => {
         test('should paginate features', async () => {
             const foundFeatures = await featureService.paginate(clientId, 1, 2)
             expect(foundFeatures).toBeDefined()
-            expect(foundFeatures.length).toEqual(2)
-            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+            expect(foundFeatures.items.length).toEqual(2)
+            expect(foundFeatures.items.map((feature) => feature.name)).toEqual(
                 features
                     .map((feature) => feature.name)
                     .sort(function (a, b) {
@@ -290,13 +290,14 @@ describe('FeatureService', () => {
                     })
                     .slice(1, 3)
             )
+            expect(foundFeatures.count).toEqual(features.length)
         })
 
         test('should paginate features with default values', async () => {
             const foundFeatures = await featureService.paginate(clientId)
             expect(foundFeatures).toBeDefined()
-            expect(foundFeatures.length).toEqual(Math.min(25, features.length))
-            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+            expect(foundFeatures.items.length).toEqual(Math.min(25, features.length))
+            expect(foundFeatures.items.map((feature) => feature.name)).toEqual(
                 features
                     .map((feature) => feature.name)
                     .sort(function (a, b) {
@@ -310,13 +311,14 @@ describe('FeatureService', () => {
                     })
                     .slice(0, Math.min(25, features.length))
             )
+            expect(foundFeatures.count).toEqual(features.length)
         })
 
         test('should return the second page of features', async () => {
             const foundFeatures = await featureService.paginate(clientId, 2, 2)
             expect(foundFeatures).toBeDefined()
-            expect(foundFeatures.length).toEqual(2)
-            expect(foundFeatures.map((feature) => feature.name)).toEqual(
+            expect(foundFeatures.items.length).toEqual(2)
+            expect(foundFeatures.items.map((feature) => feature.name)).toEqual(
                 features
                     .map((feature) => feature.name)
                     .sort(function (a, b) {
@@ -330,6 +332,7 @@ describe('FeatureService', () => {
                     })
                     .slice(2, 4)
             )
+            expect(foundFeatures.count).toEqual(features.length)
         })
     })
 })

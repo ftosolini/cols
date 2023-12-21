@@ -1,20 +1,8 @@
 :host {
-  flex-grow: 1;
-  display: flex;
+    flex-grow: 1;
+    height: 100%;
 }
-.content {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-.content iframe {
-  flex-grow: 1;
-}
-.content #map {
-  flex-grow: 1;
-}
-
-.close-button {
-  position: absolute;
-  right: 0;
+#map {
+    width: calc(100vw - 56px);
+    height: 100%;
 }
