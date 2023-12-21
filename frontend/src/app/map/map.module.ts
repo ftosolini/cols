@@ -1,4 +1,8 @@
-import { CdkFixedSizeVirtualScroll, CdkVirtualForOf, CdkVirtualScrollViewport } from '@angular/cdk/scrolling'
+import {
+    CdkFixedSizeVirtualScroll,
+    CdkVirtualForOf,
+    CdkVirtualScrollViewport,
+} from '@angular/cdk/scrolling'
 import { HttpClientModule } from '@angular/common/http'
 import { NgModule } from '@angular/core'
 import { CommonModule } from '@angular/common'
@@ -14,7 +18,18 @@ import { SharedModule } from 'src/app/shared/shared.module'
 
 @NgModule({
     declarations: [MapComponent, FeatureInfoComponent, ListFeaturesComponent],
-    imports: [CommonModule, SharedModule, HttpClientModule, MatIconModule, MatButtonModule, MatTableModule, MatPaginatorModule, CdkVirtualScrollViewport, CdkVirtualForOf, CdkFixedSizeVirtualScroll],
+    imports: [
+        CommonModule,
+        SharedModule,
+        HttpClientModule,
+        MatIconModule,
+        MatButtonModule,
+        MatTableModule,
+        MatPaginatorModule,
+        CdkVirtualScrollViewport,
+        CdkVirtualForOf,
+        CdkFixedSizeVirtualScroll,
+    ],
     providers: [MapService],
 })
 export class MapModule {}

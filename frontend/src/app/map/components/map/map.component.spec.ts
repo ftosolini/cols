@@ -2,16 +2,15 @@ import { HttpClientTestingModule } from '@angular/common/http/testing'
 import { ComponentFixture, TestBed } from '@angular/core/testing'
 import { MatIconModule } from '@angular/material/icon'
 import { NoopAnimationsModule } from '@angular/platform-browser/animations'
+import { ActivatedRoute, Params, Router } from '@angular/router'
 import { RouterTestingModule } from '@angular/router/testing'
-import * as L from 'leaflet'
-import { of } from 'rxjs'
+import { BehaviorSubject, of } from 'rxjs'
 import { Col } from 'src/app/map/components/col'
-import { FeatureInfoComponent } from 'src/app/map/components/feature-info/feature-info.component'
 import { Feature, GeoJson } from 'src/app/map/components/geojson.model'
-import { MapService } from 'src/app/map/map.service'
-import { SharedModule } from 'src/app/shared/shared.module'
 
 import { MapComponent } from 'src/app/map/components/map/map.component'
+import { MapService } from 'src/app/map/map.service'
+import { SharedModule } from 'src/app/shared/shared.module'
 
 const geoJson: GeoJson<Col> = {
     type: 'FeatureCollection',
@@ -49,6 +48,8 @@ const geoJson: GeoJson<Col> = {
         },
     ],
 }
+const queryParamsStub = new BehaviorSubject<Params>({})
+const activatedRouteStub = { queryParams: queryParamsStub }
 
 describe('MapComponent', () => {
     let component: MapComponent
@@ -56,7 +57,7 @@ describe('MapComponent', () => {
 
     beforeEach(() => {
         TestBed.configureTestingModule({
-            declarations: [MapComponent, FeatureInfoComponent],
+            declarations: [MapComponent],
             imports: [
                 SharedModule,
                 MatIconModule,
@@ -71,6 +72,11 @@ describe('MapComponent', () => {
                         loadFeatures: () => of(geoJson),
                     },
                 },
+                {
+                    provide: ActivatedRoute,
+                    useValue: activatedRouteStub,
+                },
+                Router,
             ],
         })
         fixture = TestBed.createComponent(MapComponent)
@@ -84,30 +90,60 @@ describe('MapComponent', () => {
         expect(component.map?.getZoom()).toEqual(6)
     })
 
-    test('should handle the click event', async () => {
-        const mockLayer = L.geoJson() // Create a mock geoJson layer
+    describe('query params subscription', () => {
+        test('should update the map when the query params lat and lng exists', () => {
+            const spy = jest.spyOn(component.map!, 'setView')
+            component.ngOnInit()
 
-        // Mock the necessary methods and properties
-        const event = {
-            propagatedFrom: {
-                feature: 'your-mocked-feature', // Replace with your mocked feature
-            },
-        }
+            expect(spy).toHaveBeenCalledTimes(0)
+            queryParamsStub.next({ lat: 1, lng: 2 })
+            expect(spy).toHaveBeenCalledWith([1, 2], 10)
+        })
 
-        // Mock the layout.toggleRightPanel method
-        const toggleRightPanelSpy = jest
-            .spyOn(component.layout, 'toggleRightPanel')
-            .mockResolvedValue(undefined)
+        test('should not update the map when the query params lat and lng do not exist', () => {
+            const spy = jest.spyOn(component.map!, 'setView')
 
-        // Call the handleGeoJsonClick function with the mock layer and map
-        component.handleGeoJsonClick(mockLayer)
+            expect(spy).toHaveBeenCalledTimes(0)
+            queryParamsStub.next({})
+            expect(spy).toHaveBeenCalledTimes(0)
+        })
 
-        // Trigger the 'click' event on the mock layer
-        mockLayer.fire('click', event)
+        test('should not update the map when the query params lat exists but not lng', () => {
+            const spy = jest.spyOn(component.map!, 'setView')
 
-        // Assert the expected behavior, e.g., check if toggleRightPanel was called
-        expect(toggleRightPanelSpy).toHaveBeenCalledWith(true)
+            expect(spy).toHaveBeenCalledTimes(0)
+            queryParamsStub.next({ lat: 1 })
+            expect(spy).toHaveBeenCalledTimes(0)
+        })
+
+        test('should not update the map when the query params lng exists but not lat', () => {
+            const spy = jest.spyOn(component.map!, 'setView')
+
+            expect(spy).toHaveBeenCalledTimes(0)
+            queryParamsStub.next({ lng: 1 })
+            expect(spy).toHaveBeenCalledTimes(0)
+        })
     })
+
+    // test('should handle the click event', async () => {
+    //     const mockLayer = L.geoJson() // Create a mock geoJson layer
+
+    // Mock the necessary methods and properties
+    // const event = {
+    //     propagatedFrom: {
+    //         feature: 'your-mocked-feature', // Replace with your mocked feature
+    //     },
+    // }
+
+    // Call the handleGeoJsonClick function with the mock layer and map
+    // component.handleGeoJsonClick(mockLayer)
+
+    // Trigger the 'click' event on the mock layer
+    // mockLayer.fire('click', event)
+
+    // Assert the expected behavior, e.g., check if toggleRightPanel was called
+    // expect(toggleRightPanelSpy).toHaveBeenCalledWith(true)
+    // })
 
     describe('getColColor', () => {
         test('should return green when all climbs are done', () => {

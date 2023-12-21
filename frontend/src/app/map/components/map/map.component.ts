@@ -1,5 +1,5 @@
 import { AfterViewChecked, Component, OnInit } from '@angular/core'
-import { ActivatedRoute, NavigationEnd, Router } from '@angular/router'
+import { ActivatedRoute, Router } from '@angular/router'
 import * as L from 'leaflet'
 import { map } from 'rxjs'
 import { Climb, Col } from 'src/app/map/components/col'
@@ -24,11 +24,10 @@ export class MapComponent implements OnInit, AfterViewChecked {
     ) {}
 
     ngOnInit() {
-        this.route.queryParamMap.subscribe((params) => {
-
-            if (params.has('lat')  && params.has('lng')) {
-                this.lat = +params.get('lat')!
-                this.lng = +params.get('lng')!
+        this.route.queryParams.subscribe((params) => {
+            if (params['lat'] && params['lng']) {
+                this.lat = +params['lat']
+                this.lng = +params['lng']
                 this.zoom = 10
                 this.map?.setView([this.lat, this.lng], this.zoom)
             }
@@ -36,22 +35,21 @@ export class MapComponent implements OnInit, AfterViewChecked {
     }
 
     ngAfterViewChecked(): void {
-        if(!this.map && document.getElementById('map')) {
-            this.map = L.map( 'map' )
+        if (!this.map && document.getElementById('map')) {
+            this.map = L.map('map')
             const tilePath = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
 
-            L.tileLayer( tilePath, {
+            L.tileLayer(tilePath, {
                 maxZoom: 19,
                 attribution:
                     '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-            } ).addTo( this.map )
-            console.log('before setView')
-            this.map.setView( [this.lat, this.lng], this.zoom )
-            this.loadCols().subscribe( (cols) => {
-                const layer = this.createGeoJsonLayer( cols )
-                layer.addTo( this.map as L.Map )
-                this.handleGeoJsonClick( layer )
-            } )
+            }).addTo(this.map)
+            this.map.setView([this.lat, this.lng], this.zoom)
+            this.loadCols().subscribe((cols) => {
+                const layer = this.createGeoJsonLayer(cols)
+                layer.addTo(this.map as L.Map)
+                this.handleGeoJsonClick(layer)
+            })
         }
     }
 
