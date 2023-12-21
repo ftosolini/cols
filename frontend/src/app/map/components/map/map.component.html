@@ -1,16 +1,2 @@
-<app-layout #layout>
-    <div class="content">
-        <div id="map">Loading</div>
-    </div>
-    <div rightMenu>
-        <button
-            class="close-button"
-            disableRipple="true"
-            mat-icon-button
-            (click)="layout.toggleRightPanel(false)"
-        >
-            <mat-icon>close</mat-icon>
-        </button>
-        <app-feature-info [feature]="selectedFeature"></app-feature-info>
-    </div>
-</app-layout>
+<div id="map" class='content'>Loading</div>
+

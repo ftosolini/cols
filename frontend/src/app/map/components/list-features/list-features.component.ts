@@ -30,8 +30,16 @@ export class ListFeaturesComponent implements OnInit {
 
 
     async focusOnFeature(feature: any) {
-        console.log(feature)
-        await this.router.navigateByUrl('/map')
+        console.log( feature )
+        await this.router.navigate(
+            ['map'],
+            {
+                queryParams: {
+                    lat: feature.latitude,
+                    lng: feature.longitude
+                }
+            }
+        )
     }
 }
 

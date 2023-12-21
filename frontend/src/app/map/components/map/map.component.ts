@@ -1,38 +1,58 @@
-import { AfterViewInit, Component, ViewChild } from '@angular/core'
+import { AfterViewChecked, Component, OnInit } from '@angular/core'
+import { ActivatedRoute, NavigationEnd, Router } from '@angular/router'
 import * as L from 'leaflet'
-import { GeoJSON } from 'leaflet'
 import { map } from 'rxjs'
 import { Climb, Col } from 'src/app/map/components/col'
 import { Feature } from 'src/app/map/components/geojson.model'
 import { MapService } from 'src/app/map/map.service'
-import { LayoutComponent } from 'src/app/shared/components/layout/layout.component'
 
 @Component({
     selector: 'app-map',
     templateUrl: './map.component.html',
     styleUrls: ['./map.component.css'],
 })
-export class MapComponent implements AfterViewInit {
-    @ViewChild('layout') layout!: LayoutComponent
+export class MapComponent implements OnInit, AfterViewChecked {
     map?: L.Map
     selectedFeature?: Feature<Col>
-    constructor(public mapService: MapService) {}
+    private lng = 2.433
+    private lat = 46.469524
+    private zoom = 6
+    constructor(
+        private route: ActivatedRoute,
+        private router: Router,
+        public mapService: MapService
+    ) {}
 
-    ngAfterViewInit(): void {
-        this.map = L.map('map').setView([46.469524, 2.433], 6)
-        const tilePath = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+    ngOnInit() {
+        this.route.queryParamMap.subscribe((params) => {
 
-        L.tileLayer(tilePath, {
-            maxZoom: 19,
-            attribution:
-                '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        }).addTo(this.map)
-
-        this.loadCols().subscribe((cols) => {
-            const layer = this.createGeoJsonLayer(cols)
-            layer.addTo(this.map as L.Map)
-            this.handleGeoJsonClick(layer)
+            if (params.has('lat')  && params.has('lng')) {
+                this.lat = +params.get('lat')!
+                this.lng = +params.get('lng')!
+                this.zoom = 10
+                this.map?.setView([this.lat, this.lng], this.zoom)
+            }
         })
+    }
+
+    ngAfterViewChecked(): void {
+        if(!this.map && document.getElementById('map')) {
+            this.map = L.map( 'map' )
+            const tilePath = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+
+            L.tileLayer( tilePath, {
+                maxZoom: 19,
+                attribution:
+                    '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+            } ).addTo( this.map )
+            console.log('before setView')
+            this.map.setView( [this.lat, this.lng], this.zoom )
+            this.loadCols().subscribe( (cols) => {
+                const layer = this.createGeoJsonLayer( cols )
+                layer.addTo( this.map as L.Map )
+                this.handleGeoJsonClick( layer )
+            } )
+        }
     }
 
     /* eslint-disable @typescript-eslint/no-explicit-any */
@@ -52,7 +72,7 @@ export class MapComponent implements AfterViewInit {
     handleGeoJsonClick(layer: L.Layer) {
         layer.on('click', async (event) => {
             this.selectedFeature = event.propagatedFrom.feature
-            await this.layout.toggleRightPanel(true)
+            // open the side panel
         })
     }
 

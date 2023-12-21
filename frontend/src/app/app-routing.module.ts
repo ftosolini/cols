@@ -14,17 +14,17 @@ const routes: Routes = [
         canActivate: [publicGuard],
     },
     {
-        path: 'map',
-        component: MapComponent,
-        canActivate: [privateGuard],
-    },
-    {
         path: '',
         component: LayoutComponent,
         children: [
             {
                 path: 'items',
                 component: ListFeaturesComponent,
+                canActivate: [privateGuard],
+            },
+            {
+                path: 'map',
+                component: MapComponent,
                 canActivate: [privateGuard],
             },
         ],
